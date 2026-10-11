@@ -317,7 +317,7 @@
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "4.0.14",
   "lastShownStartupVersion": "4.0.14",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
@@ -1038,7 +1038,7 @@
       "minimax-m3"
     ]
   },
-  "miyoConnectionMode": "remote",
+  "miyoConnectionMode": "local",
   "_keychainVaultId": "4c90d500",
   "settingsVersion": 14
 }
