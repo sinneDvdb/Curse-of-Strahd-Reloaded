@@ -12,7 +12,7 @@ Shortly after the players reconsecrate the final Fane in [[Arc T - The Three Fan
 * If the players are in Vallaki, they receive a personal invitation from Stella Wachter, who informs them that her mother has summoned them to Wachterhaus for an urgent meeting. (Stella doesn’t know what the meeting is about.)
 * If the players are in Krezk, they receive a parchment scroll sent via raven, which reads: “I must speak with you tonight. I await you at Wachterhaus. —Burgomistress Fiona Wachter."
 ## U1b. Wachterhaus
-When the players arrive at Wachterhaus, they are shown to [N4j. Dining Room (p. 106)](../Source%20book/Curse%20of%20Strahd.md#page-106) and [N4i Parlor (p. 106)](../Source%20book/Curse%20of%20Strahd.md#page-106). There, they are met by Lady Fiona Wachter, Father Lucian Petrovich, Victor Vallakovich, and Urwin Martikov.
+When the players arrive at Wachterhaus, they are shown to [N4j. Dining Room (p. 106)](../Source%20book/Curse%20of%20Strahd.md#n3c-dining-room) and [N4i Parlor (p. 106)](../Source%20book/Curse%20of%20Strahd.md#n3b-parlor). There, they are met by Lady Fiona Wachter, Father Lucian Petrovich, Victor Vallakovich, and Urwin Martikov.
 
 Lady Wachter welcomes the players to Wachterhaus and thanks them for arriving on short notice. She then informs them of the purpose of the meeting: to determine whether and when Vallaki shall march on Castle Ravenloft and defeat Strahd von Zarovich—once and for all.
 
@@ -194,7 +194,7 @@ The players can uncover the following information by asking around the town squa
 >
 > If a player assures Victor that his words won’t be shared further and succeeds on a DC 15 Charisma (Persuasion) check, Victor reluctantly—and bitterly—shares that Stella invited him to join her on Lake Zarovich’s shore, as they had once often done together. “That was a long time ago," he says, quietly, “but she said that she would wait for me there." Victor refuses to elaborate further, and declines to accompany the players, preferring to return to his manor as swiftly as possible.
 ## U2c. Lake Zarovich
-Lake Zarovich is largely as described in [L. Lake Zarovich (p. 38)](../Source%20book/Curse%20of%20Strahd.md#page-38). However, revise the second paragraph of this area’s description as follows:
+Lake Zarovich is largely as described in [L. Lake Zarovich (p. 38)](../Source%20book/Curse%20of%20Strahd.md#l-lake-zarovich). However, revise the second paragraph of this area’s description as follows:
 
 <div class="description">
 <p>Pulled up along the south shore are four small rowboats. A gray-cloaked woman sits beside them, her long, brown tresses falling across her shoulders.</p>
@@ -293,8 +293,8 @@ Players who have previously seen the Whispering Wall in [[Arc J - The Stolen Gem
 
 Shortly after the players awaken, one of the following occurs, depending on where the players have rested:
 
-* **Blue Water Inn.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the inn’s doors, with three entering [N2c. Taproom (p. 100)](../Source%20book/Curse%20of%20Strahd.md#n2c-taproom) and three crashing through the door atop [N2b. Outside Staircase (p. 98)](../Source%20book/Curse%20of%20Strahd.md#page-98).
-* **Wachterhaus.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the manor’s doors, with three entering [N4a. Front Door and Vestibule (p. 110)](../Source%20book/Curse%20of%20Strahd.md#page-110) and three entering [N4e. Back Vestibule (p. 112)](../Source%20book/Curse%20of%20Strahd.md#page-112).
+* **Blue Water Inn.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the inn’s doors, with three entering [N2c. Taproom (p. 100)](../Source%20book/Curse%20of%20Strahd.md#n2c-taproom) and three crashing through the door atop [N2b. Outside Staircase (p. 98)](../Source%20book/Curse%20of%20Strahd.md#n2b-outside-staircase).
+* **Wachterhaus.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the manor’s doors, with three entering [N4a. Front Door and Vestibule (p. 110)](../Source%20book/Curse%20of%20Strahd.md#n4a-front-door-and-vestibule) and three entering [N4e. Back Vestibule (p. 112)](../Source%20book/Curse%20of%20Strahd.md#n4e-back-vestibule).
 * **St. Andral’s Church.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the doors of a house across the street, spurring cries of terror and pleas for help from the family inside (two Vallakian **commoners** and two noncombatant children with 1 hit point each).
 
 Each zombie bears a glowing crimson symbol on its forehead: the raven-and-keep shield crest of Castle Ravenloft. Each zombie’s symbol and eyes glow with the same color as the pillar of bloody light that rises in the eastern mountains.
@@ -613,7 +613,7 @@ Before the players depart, Lady Wachter warns them that, while Vallaki’s immed
 > * Raisa & Radomi & Iskra, three **commoner** siblings in their late teens with sickly parents
 
 > [!info]+ **Gates and Walls**
-> Vallaki’s town walls are as described in [Approaching the Town (p. 95)](../Source%20book/Curse%20of%20Strahd.md#page-95). Each gate is as described in [Town Gates (p. 95)](../Source%20book/Curse%20of%20Strahd.md#page-95), and has AC 19 and 20 hit points.
+> Vallaki’s town walls are as described in [Approaching the Town (p. 95)](../Source%20book/Curse%20of%20Strahd.md#approaching-the-town). Each gate is as described in [Town Gates (p. 95)](../Source%20book/Curse%20of%20Strahd.md#town-gates), and has AC 19 and 20 hit points.
 
 > [!info]+ **The Zombies’ Approach**
 > In combat, a thick shroud of mist surrounds the walls of eastern Vallaki at a distance of thirty feet. Creatures within this mist are heavily obscured, and can’t be seen until they emerge.
@@ -703,7 +703,7 @@ Shortly after the players reunite following [[#U3i. Lake Zarovich]] and [[#U3j. 
 > The players can recruit no allies other than Ireena Kolyana and Ezmerelda d’Avenir for their journey to Castle Ravenloft. All other characters, though grateful and honored for the invitation, insist on remaining behind to defend their homes, families, friends, and neighbors from the undead incursion. (As Victor Vallakovich says if asked—pale, but determined—“If we all went with you to Castle Ravenloft, who would be left to protect everyone else while you fight? Go—we’ll stay here to make sure everyone is still alive when you get back.")
 # U4. The Old Svalich Road
 ## U4a. Old Bonegrinder
-At the time Urwin first notifies the players of its existence, the eastern undead army is located at [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#page-37). If the players take a short rest before departing Vallaki, they and the undead army cross paths at or near [Chapter 6: Old Bonegrinder (p. 125)](../Source%20book/Curse%20of%20Strahd.md#chapter-6-old-bonegrinder).
+At the time Urwin first notifies the players of its existence, the eastern undead army is located at [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#i-black-carriage). If the players take a short rest before departing Vallaki, they and the undead army cross paths at or near [Chapter 6: Old Bonegrinder (p. 125)](../Source%20book/Curse%20of%20Strahd.md#chapter-6-old-bonegrinder).
 The eastern army contains the following creatures:
 
 * Three thousand **zombies**
@@ -726,7 +726,7 @@ The players can attempt to sneak past the dire wolves by succeeding on a DC 16 D
 
 The wolves, like the zombies, attack only in self-defense, and cease their attacks if the players retreat. In combat, the wolves fight to knock the players unconscious, then bring their unconscious bodies to Castle Ravenloft.
 ## U4c. The Black Carriage
-As the players pass through the crossroads to Castle Ravenloft, the area is as described in [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#page-37), including Strahd’s black carriage.
+As the players pass through the crossroads to Castle Ravenloft, the area is as described in [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#i-black-carriage), including Strahd’s black carriage.
 
 Shortly after the players depart the crossroads, whether the players take the carriage or not, they are passed overhead by a small army of several dozen **swarms of ravens** sent by Muriel Vinshaw to reinforce Vallaki. Read:
 
@@ -767,9 +767,9 @@ Strahd has given Sasha the following strict orders, which she is powerless to di
 
 If permitted, Sasha guides the players to Strahd by the following routes:
 
-* If she meets the players at or near [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#page-54), Sasha leads them into [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), up [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58) to [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61), through the secret door of [K26. Guards’ Post (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61), through the northern secret door at the foot of [K33. King’s Apartment Stair (p. 64)](../Source%20book/Curse%20of%20Strahd.md#page-64), and onto the landing of [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow).
-* If she meets the players at or near [K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59), Sasha leads them into [K24. Servants’ Quarters (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61), up the stairs to [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#page-64), and through the secret door into [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow).
-* If she meets the players on [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68), Sasha leads them directly to [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow)
+* If she meets the players at or near [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k7-entry), Sasha leads them into [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), up [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing) to [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall), through the secret door of [K26. Guards’ Post (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k26-guards-post), through the northern secret door at the foot of [K33. King’s Apartment Stair (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k33-kings-apartment-stair), and onto the landing of [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow).
+* If she meets the players at or near [K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance), Sasha leads them into [K24. Servants’ Quarters (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k24-servants-quarters), up the stairs to [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k34-servants-upper-floor), and through the secret door into [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow).
+* If she meets the players on [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k46-parapets), Sasha leads them directly to [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow)
 
 > [!abstract]+ **Sasha and the *Sunsword***
 > If the players attempt to reassure Sasha with the *Sunsword*, she shudders, her gaze lingering on it longingly before she squeezes her eyes shut. “It’s beautiful," she says dully, “but like all beautiful things in my Master’s domain, it will not survive this night. The true dawn will not come, and its like shall never be seen again."
@@ -933,10 +933,10 @@ When Strahd’s Mage phase is reduced to 0 hit points, read the following, modif
 <p>“You wish to dance?" he says. “Then let us dance."</p>
 </div>
 
-In his Soldier phase, Strahd moves freely between [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow) and [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72), though he prefers to linger upon [K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k58-bridge) and use his ***longsword*** and ***thunderous wave*** features to push players off of the bridge onto [K53. Rooftop (p. 71)](../Source%20book/Curse%20of%20Strahd.md#page-71).
+In his Soldier phase, Strahd moves freely between [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow) and [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof), though he prefers to linger upon [K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k58-bridge) and use his ***longsword*** and ***thunderous wave*** features to push players off of the bridge onto [K53. Rooftop (p. 71)](../Source%20book/Curse%20of%20Strahd.md#k53-rooftop).
 
 > [!info]+ **Ascending the Walls**
-> A character attempting to ascend or descend the exterior walls of [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow) or [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72) must make a DC 17 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the wall, as desired. On a check result of 8-16, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone on the rooftop below.
+> A character attempting to ascend or descend the exterior walls of [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow) or [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof) must make a DC 17 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the wall, as desired. On a check result of 8-16, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone on the rooftop below.
 
 ### Visions of Life
 When Strahd’s Soldier phase is reduced to 0 hit points, read the following, modifying the text as necessary to reflect each non-player character’s current status:
@@ -960,7 +960,7 @@ When Strahd’s Soldier phase is reduced to 0 hit points, read the following, mo
 <p>Strahd’s sneer has given way to a snarl, his face stony and cold. “This changes nothing," he whispers—and throws himself forward like a beast.</p>
 </div>
 
-In his Vampire phase, Strahd prefers to fight on and around [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72), using his ***night’s retreat*** to cling to its exterior walls before returning to the fray.
+In his Vampire phase, Strahd prefers to fight on and around [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof), using his ***night’s retreat*** to cling to its exterior walls before returning to the fray.
 ## U5e. The Collapsing Castle
 When Strahd dies, read:
 
@@ -981,7 +981,7 @@ One round after Strahd dies, read:
 <p>And the castle is falling.</p>
 </div>
 
-If any players remain on [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72) or [K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k58-bridge), add:
+If any players remain on [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof) or [K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k58-bridge), add:
 
 <div class="description">
 <p>The sound of wings draws your eye to the east, where, in the distance, a black cloud steadily grows on the horizon. It’s only as it approaches that you realize that it’s a flock of hundreds of ravens—led by a single, blue-winged raven at their head.</p>

@@ -66,7 +66,7 @@ If the players make no move to stop him, Rahadin then moves toward the door, pau
 > Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding Ireena, secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
 
 # O2. Arrigal’s Insight
-One day before the dinner is scheduled to take place, if the players rescued Arabelle in [[Arc E - The Missing Vistana]], Arrigal of [N9. Vistani Camp (p. 119)](../Source%20book/Curse%20of%20Strahd.md#page-119) finds the players at or shortly after nightfall. (If the players spend the night away from Vallaki, Arrigal instead finds them as they pass through or around Vallaki when traveling to Castle Ravenloft the following day.)
+One day before the dinner is scheduled to take place, if the players rescued Arabelle in [[Arc E - The Missing Vistana]], Arrigal of [N9. Vistani Camp (p. 119)](../Source%20book/Curse%20of%20Strahd.md#n9-vistani-camp) finds the players at or shortly after nightfall. (If the players spend the night away from Vallaki, Arrigal instead finds them as they pass through or around Vallaki when traveling to Castle Ravenloft the following day.)
 
 Upon encountering the party, Arrigal—recognizable, though wearing a heavy cloak and hood to disguise his features from onlookers—"accidentally" bumps into one of the players, preferring a target with a higher passive Wisdom (Perception) score. A player with a passive Wisdom (Perception) score of 14 or greater notices the sensation of something slipping into their pocket during the brief moment of contact.
 
@@ -123,14 +123,14 @@ The players can convince Gorek and Drilvia to allow Donavich and Doru entry by v
 
 If the players aid them in securing entry to Vallaki, Doru and Donavich are deeply grateful for their assistance, as well as any directions the players can provide to the nearest inn.
 ## O3b. The Rider’s Guidance
-The journey from Vallaki to [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#page-37) is eight and one-quarter miles long and takes two hours and forty-five minutes.
+The journey from Vallaki to [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#i-black-carriage) is eight and one-quarter miles long and takes two hours and forty-five minutes.
 
 As the players reach the stretch of road nearing Old Bonegrinder, a wolf pack emerges from the woods. True to Strahd's word, they show no aggression. Read:
 
 <div class="description">
 <p>The sound of howling ahead draws your attention. Further up the road, a pack of wolves emerges from the mist, their eyes gleaming. They pause, sniffing the air, noticing your presence on the path. Disinterested, they turn their heads away, before slinking nonchalantly into the forest.</p>
 
-Approximately one-quarter mile and five minutes before the players reach the western [B. Gates of Barovia (p. 33)](../Source%20book/Curse%20of%20Strahd.md#page-33), if they didn’t kill the [Skeletal Rider (p. 31)](../Source%20book/Curse%20of%20Strahd.md#page-31) in [[Act I - Into the Mists/Arc C - Into the Valley]], they encounter it once again. Read:
+Approximately one-quarter mile and five minutes before the players reach the western [B. Gates of Barovia (p. 33)](../Source%20book/Curse%20of%20Strahd.md#b-gates-of-barovia), if they didn’t kill the [Skeletal Rider (p. 31)](../Source%20book/Curse%20of%20Strahd.md#skeletal-rider) in [[Act I - Into the Mists/Arc C - Into the Valley]], they encounter it once again. Read:
 
 <div class="description">
 <p>The Old Svalich Road takes you eastward, briefly touching the southern shore of Lake Zarovich before bending around a craggy mountain spur. Not long after departing the promontory where the old windmill stands, the road plunges back into a dark, gloomy wood cloistered between two mountain peaks.</p>
@@ -194,7 +194,7 @@ The object in the nest is a small, old wooden box with a tarnished silver latch 
 > Katarina—Madam Eva’s alter ego—and her fellow servant Varushka often came to this outcropping together on free days when they served together in Castle Ravenloft. When she fled Strahd’s rampage on the day of his transformation into a vampire, Katarina came to this location first, hoping in vain that Varushka would meet her. It was here that Katarina first made her pact with the Seeker to become Madam Eva in exchange for an opportunity to one day put Strahd to rest and restore the sun to Barovia once more.
 ## O3c. The Black Carriage
 
-After passing through the western [B. Gates of Barovia (p. 33)](../Source%20book/Curse%20of%20Strahd.md#page-33), the players arrive at the crossroads leading to Castle Ravenloft. Strahd’s black carriage is now present, and is as described in [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#page-37).
+After passing through the western [B. Gates of Barovia (p. 33)](../Source%20book/Curse%20of%20Strahd.md#b-gates-of-barovia), the players arrive at the crossroads leading to Castle Ravenloft. Strahd’s black carriage is now present, and is as described in [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#i-black-carriage).
 
 As the players approach or move to pass the carriage, they notice a small parchment scroll tied to the inside handle of the carriage door. The scroll, which is tied with a blood-red ribbon and sealed with the familiar wax sigil of Castle Ravenloft, is written in Strahd’s handwriting and reads as follows:
 
@@ -227,7 +227,7 @@ The poem is a hint as to the proper order of the panels: wolf, spider, raven; ra
 
 The players can also open the chest by picking the lock and succeeding on a DC 20 Dexterity (Thieves’ Tools) check, or by forcing the chest open and succeeding on a DC 15 Strength check. If the players open the chest in this way, it has an ordinary interior and contains only a bottle of Red Dragon Crush wine, stamped with the name of the Wizard of Wines. If the players force open the chest, the bottle shatters and breaks, staining any nearby fingers and boots a faint, but noticeable shade of red.
 # O4. Arrival at Castle Ravenloft
-The journey from [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#page-37) to Castle Ravenloft is two-and-a-half miles long and takes fifty minutes to walk or forty minutes by carriage. 
+The journey from [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#i-black-carriage) to Castle Ravenloft is two-and-a-half miles long and takes fifty minutes to walk or forty minutes by carriage. 
 
 The gates of Ravenloft are largely as described in [J. Gates of Ravenloft (p. 38)](../Source%20book/Curse%20of%20Strahd.md#j-gates-of-ravenloft). However, revise the area’s description to read as follows:
 
@@ -249,7 +249,7 @@ The players have arrived at Castle Ravenloft.
 ## O4a. The Courtyard
 <span class="citation"><em>This scene takes place in Chapter 4, Area K1.</em></span>
 
-This area is largely as described in [K1. Front Courtyard (p. 52)](../Source%20book/Curse%20of%20Strahd.md#page-52). However, as the players exit the carriage, revise this area’s description as follows:
+This area is largely as described in [K1. Front Courtyard (p. 52)](../Source%20book/Curse%20of%20Strahd.md#k1-front-courtyard). However, as the players exit the carriage, revise this area’s description as follows:
 
 <div class="description">
 <p>Thick, cold fog swirls in this courtyard, and sporadic flashes of lightning lance the weeping clouds overhead as thunder shakes the ground. Through the drizzle, you see torch flames fluttering on each side of the keep's tall main doors. High above the entrance is a round window with shards of broken glass lodged in its iron frame.</p>
@@ -307,7 +307,7 @@ If any players appear slovenly, dirty (e.g., due to spilling the wine from Strah
 > 
 > A player with a passive Wisdom (Insight) score of 16 or greater notices that, when observing the _Holy Symbol_, Anastrasya's voice is tight, her lips slightly curled, and her eyes bear a faint glint of furious recognition. If confronted regarding her apparent recognition, Anastrasya laughs delightedly and claims the symbol "somewhat resembles an item an _old friend_ of hers once wore, quite a long time ago." (Anastrasya is referring to the paladin Lugdana, who hunted Anastrasya down and drove her into hiding nearly a century ago.)
 
-After Anastrasya fusses over the players’ clothes and ushers them into [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#page-54) and out of the rain, Rahadin turns, nods, and clicks his tongue toward the carriage. The horses then trot away, leading the carriage through the northern [K2. Center Court Gate (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k2-center-court-gate) and into [K3. Servants’ Courtyard (p. 54)](../Source%20book/Curse%20of%20Strahd.md#page-54), where they are greeted and led into [K4. Carriage House (p. 54)](../Source%20book/Curse%20of%20Strahd.md#page-54) by the **mongrelfolk** Cyrus Belview. (See [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#page-76) for more information about Cyrus.)
+After Anastrasya fusses over the players’ clothes and ushers them into [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k7-entry) and out of the rain, Rahadin turns, nods, and clicks his tongue toward the carriage. The horses then trot away, leading the carriage through the northern [K2. Center Court Gate (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k2-center-court-gate) and into [K3. Servants’ Courtyard (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k3-servants-courtyard), where they are greeted and led into [K4. Carriage House (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k4-carriage-house) by the **mongrelfolk** Cyrus Belview. (See [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#k62-servants-hall) for more information about Cyrus.)
 
 As the players enter the keep, the castle drawbridge rises once more. Read:
 
@@ -318,7 +318,7 @@ As the players enter the keep, the castle drawbridge rises once more. Read:
 ## O4b. The Foyer
 <span class="citation"><em>This scene takes place in Chapter 4, Area K7.</em></span>
 
-The castle foyer is largely as described in [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#page-54). However, decrease the number of **dragon wyrmling** statues to two. (The other two are harmless statuary.) The dragon statues do not attack the players for as long as the players are here by invitation.
+The castle foyer is largely as described in [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k7-entry). However, decrease the number of **dragon wyrmling** statues to two. (The other two are harmless statuary.) The dragon statues do not attack the players for as long as the players are here by invitation.
 
 In addition, revise this area’s description as follows as Rahadin leads the players through for the first time:
 
@@ -370,7 +370,7 @@ The players recognize the man as Escher, Strahd’s **vampire spawn** consort, w
 > ***Relationships.*** Sasha is Strahd's first bride and a secret friend to Gertruda, Doru's betrothed and Strahd's prisoner.
 
 > [!lore]+ **The Eldest Bride**
-> Nearly four hundred years ago, in his grief after losing Tatyana, Strahd lured several more women to Castle Ravenloft as described in [Rahadin (p. 236)](../Source%20book/Curse%20of%20Strahd.md#page-236). All perished to his newfound thirst for blood—but only Sasha Ivliskova, whom Strahd found remarkably similar in temperament to Tatyana, retained his interest for long.
+> Nearly four hundred years ago, in his grief after losing Tatyana, Strahd lured several more women to Castle Ravenloft as described in [Rahadin (p. 236)](../Source%20book/Curse%20of%20Strahd.md#rahadin-1). All perished to his newfound thirst for blood—but only Sasha Ivliskova, whom Strahd found remarkably similar in temperament to Tatyana, retained his interest for long.
 >
 > In a wedding ceremony attended by the terrified burgomasters and other nobles of Barovia, Strahd made Sasha a **vampire spawn**—and his first vampiric bride. Their union, however, was not a happy one. Embittered and disappointed by his loss of Tatyana, Strahd often raged at Sasha’s “inadequacy," cursing her and treating her cruelly for her many perceived shortcomings. Terrified, but unwilling to accept his abuse any longer, Sasha demanded her freedom—and Strahd punished her by imprisoning her in a tiny crypt in Ravenloft’s catacombs.
 >
@@ -408,7 +408,7 @@ Anastrasya then attempts to introduce the players to Escher and Sasha, introduci
 > If Ireena is not present, Escher is flamboyant, cheerful, and flirtatious with the players, determined to show Strahd’s other consorts that he won’t be cowed by their efforts to pull rank. If Ireena is present, Escher, though still flamboyant, is more withdrawn and even occasionally abrasive and quick-tempered. Too ashamed of the consequences of his decision to awaken Strahd—such as the death of Ireena’s father and the deaths of many of his friends and neighbors—he is unwilling to meet her eyes for the duration of the evening.
 
 ### Volenta’s Toy
-As introductions draw to a close, Rahadin moves towards the [K9. Guests' Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall) to guard the entrance to [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59). As he does, a man emerges from the south tower stair and joins the players and brides in the great entry. Read:
+As introductions draw to a close, Rahadin moves towards the [K9. Guests' Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall) to guard the entrance to [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair). As he does, a man emerges from the south tower stair and joins the players and brides in the great entry. Read:
 
 <div class="description">
 <p>A thin man dressed in fine servant’s clothes exits the torchlit staircase, his face completely obscured by a pale white mask. He holds a tray with several wine glasses and two pitchers of liquid upon it—one deep purple, one bright crimson—and steps carefully across the stone floor toward you.</p>
@@ -445,7 +445,7 @@ If the players indicate an interest in attacking Volenta, Rahadin swiftly moves 
 > [!abstract]+ **Dead Volenta**
 > If the players previously killed Volenta in [[Arc D - St. Andral's Feast]], Anton instead spills his wine on Ludmilla. Rather than shattering her wine glass, she instead summons a nimbus of crackling lightning around her free hand. “Perhaps Volenta broke you beyond repair," she murmurs coldly, lifting her hand toward his chest as he whimpers in fear. “I have long since grown used to cleaning up her messes." 
 ### The Lord of the Castle
-Whether the players successfully convince or distract Volenta or not, Strahd then immediately descends from [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58) into [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry).
+Whether the players successfully convince or distract Volenta or not, Strahd then immediately descends from [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing) into [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry).
 
 If the players successfully convinced or distracted Volenta, read:
 
@@ -478,7 +478,7 @@ After cordially dismissing Anastrasya’s concerns, Strahd greets the players, w
 
 Strahd then briefly mourns the spilled “wine" before turning to Sasha. “My dear Sasha—would you mind retrieving a mop from Cyrus and attending to this mess?" he asks. His eyes linger on Volenta, "Two mops, perhaps, if anyone would care to assist."
 
-If one of the players volunteers to help Sasha clean, Strahd appears momentarily surprised, but thanks them for their "magnanimity." "Sasha will show you the way," he adds, then turns to the other players. Sasha then bows to Strahd, takes the volunteer by the hand, and guides them toward [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59). (As the player descends the stairs with Sasha, continue to [[#Sasha Alone]] below.)
+If one of the players volunteers to help Sasha clean, Strahd appears momentarily surprised, but thanks them for their "magnanimity." "Sasha will show you the way," he adds, then turns to the other players. Sasha then bows to Strahd, takes the volunteer by the hand, and guides them toward [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair). (As the player descends the stairs with Sasha, continue to [[#Sasha Alone]] below.)
 
 As Sasha descends the stairs, Strahd asks the players about their trip to Ravenloft. “You found the journey comfortable, I hope?" he says. He is pleased if the players agree, noting that Castle Ravenloft “once entertained many guests," and it is a pleasure to host them once again.
 
@@ -507,25 +507,25 @@ While Sasha is gone, Strahd continues to engage the players in smalltalk, posing
 ### Sasha Alone
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K8, K9, K21, K61, K62, and K63.</em></span>
 
-If joined, Sasha remains silent as she descends the staircase, passes through [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#page-74), and enters [K62. Servants' Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#k62-servants-hall). (The elevator trap is currently deactivated and doesn’t trigger when Sasha walks through it.) If any player attempts to speak to her, Sasha merely holds up a finger and shakes her head before glancing at the floor overhead, a grim frown upon her face.
+If joined, Sasha remains silent as she descends the staircase, passes through [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k61-elevator-trap), and enters [K62. Servants' Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#k62-servants-hall). (The elevator trap is currently deactivated and doesn’t trigger when Sasha walks through it.) If any player attempts to speak to her, Sasha merely holds up a finger and shakes her head before glancing at the floor overhead, a grim frown upon her face.
 
-The servants’ hall is largely as described in [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#page-76). However, revise this area's description as follows: 
+The servants’ hall is largely as described in [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#k62-servants-hall). However, revise this area's description as follows: 
 
 <div class="description">
 <p>Heavy beams support the sagging, ten-foot-high ceiling of this long hall, its mortared walls illuminated by flickering torchlight. At the left end of the hall stands a pair of wooden doors, their heavy planks banded with steel. At the right end stands a raised metal portcullis, beyond which lies a dark wine cellar.</p>
 <p>Three doors stand along the opposite wall beside a dark, ascending staircase. The middle door is open, warm light spilling forth onto the cold stone floor beside it. Two covered silver platters emanating delicious, mouthwatering scents drift from the door across the hall, as though held aloft by an invisible force.</p>
 </div>
 
-The open door leads to [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78). The covered platters are carried by *unseen servants*, which are largely as described in [Unseen Servant (p. 51)](../Source%20book/Curse%20of%20Strahd.md#page-51). 
+The open door leads to [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k65-kitchen). The covered platters are carried by *unseen servants*, which are largely as described in [Unseen Servant (p. 51)](../Source%20book/Curse%20of%20Strahd.md#unseen-servant). 
 
-The platters contain food intended for the dinner with Strahd. One platter contains a basket of fresh, hot rolls beside a tub of butter, while the second contains a bowl of sliced apples and pears spiced with cinnamon. If undisturbed, the platters approach the wooden doors to the left, which slowly creak open and permit the *unseen servants* to pass through before closing and locking, requiring a DC 20 Dexterity (Thieves’ Tools) check to open again. (The servants then pass through [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78) into [K68. Guards' Run (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k68-guards-run), ascend [K64. Guards' Stair (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78) to the (cobweb-free) [K13. Turret Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#page-57), and pass through [K11. South Archers' Post (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k11-south-archers-post) before exiting the (currently open) secret door in the archers’ post to deposit their goods in [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56).
+The platters contain food intended for the dinner with Strahd. One platter contains a basket of fresh, hot rolls beside a tub of butter, while the second contains a bowl of sliced apples and pears spiced with cinnamon. If undisturbed, the platters approach the wooden doors to the left, which slowly creak open and permit the *unseen servants* to pass through before closing and locking, requiring a DC 20 Dexterity (Thieves’ Tools) check to open again. (The servants then pass through [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones) into [K68. Guards' Run (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k68-guards-run), ascend [K64. Guards' Stair (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k64-guards-stair) to the (cobweb-free) [K13. Turret Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k13-turret-post-access-hall), and pass through [K11. South Archers' Post (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k11-south-archers-post) before exiting the (currently open) secret door in the archers’ post to deposit their goods in [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall).
 
 > [!info]+ **Exploring the Larders**
 > If a player moves to follow the *unseen servants*, Sasha first grabs their wrist, warning them in a harsh whisper that straying deeper into the castle risks their death—and worse, breaking guestright through trespassing. “If he learns that you have trespassed, you may wish you had died to another’s hand," she hisses. (It’s obvious that she is referring to Strahd.)
 >
-> Players who ignore Sasha and nonetheless attempt to slip after the *unseen servants* into [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78) must succeed on a DC 12 Dexterity saving throw to block the doors from closing. If the players enter the Hall of Bones, the door to [K70. Kingsmen Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79) is locked with an _arcane lock_ spell, requiring a successful DC 30 Dexterity (Thieves’ Tools) check or DC 35 Strength check to open.
+> Players who ignore Sasha and nonetheless attempt to slip after the *unseen servants* into [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones) must succeed on a DC 12 Dexterity saving throw to block the doors from closing. If the players enter the Hall of Bones, the door to [K70. Kingsmen Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k70-kingsmen-hall) is locked with an _arcane lock_ spell, requiring a successful DC 30 Dexterity (Thieves’ Tools) check or DC 35 Strength check to open.
 
-Sasha then enters the open door leading to the [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78). If the player follows, read:
+Sasha then enters the open door leading to the [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k65-kitchen). If the player follows, read:
 
 <div class="description">
 <p>A thick cloud of smoke fills this steaming hot room, tinged with sweet and savory scents. A whole roast pig slowly turns over a blazing fire pit in the center of the room, its pink flesh browning and curling as its juices pop and hiss amongst the flames below.</p>
@@ -536,7 +536,7 @@ Sasha then enters the open door leading to the [K65. Kitchen (p. 78)](../Source%
 ![[Cyrus.png]]
 <span class="credit">"Cyrus" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The man is the **mongrelfolk** Cyrus Belview, and is largely as described in [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#page-76). However, Cyrus has only served Strahd for a few months. He is irritated to have been interrupted, but absentmindedly tells Sasha that he "left the brooms in the wine cellar."
+The man is the **mongrelfolk** Cyrus Belview, and is largely as described in [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#k62-servants-hall). However, Cyrus has only served Strahd for a few months. He is irritated to have been interrupted, but absentmindedly tells Sasha that he "left the brooms in the wine cellar."
 
 > [!profile]+ **Profile: Cyrus Belview**
 > **Roleplaying Information**
@@ -579,13 +579,13 @@ If convinced to speak freely, Sasha closes her eyes, takes a deep breath, and le
 
 Sasha won’t elaborate further. Instead, once her message has been received, she immediately moves to return upstairs.
 # O5. Dinner is Served
-As smalltalk concludes in the [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), Rahadin approaches the group, bows, and announces that dinner is served. Strahd thanks him, turns to the players, and asks, “Shall we?" If the players concur, Rahadin then leads them into [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56). 
+As smalltalk concludes in the [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), Rahadin approaches the group, bows, and announces that dinner is served. Strahd thanks him, turns to the players, and asks, “Shall we?" If the players concur, Rahadin then leads them into [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall). 
 
-The brides and Escher then turn to depart via [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59).
+The brides and Escher then turn to depart via [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair).
 ## O5a. Into the Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K10.</em></span>
 
-The dining hall is largely as described in [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56). However, remove the last three sentences of this area’s description referring to the figure seated at the organ. In addition, move the first sentence of the second paragraph, referring to the floor-to-ceiling mirrors and the organ, immediately after the first sentence of the first paragraph.
+The dining hall is largely as described in [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall). However, remove the last three sentences of this area’s description referring to the figure seated at the organ. In addition, move the first sentence of the second paragraph, referring to the floor-to-ceiling mirrors and the organ, immediately after the first sentence of the first paragraph.
 
 As the players enter, Strahd takes his place at the head of the table by the organ then invites them to be seated.
 
@@ -634,28 +634,28 @@ As dinner concludes, Strahd thanks the players for dining with him and offers th
 
 After exiting the dining hall, Strahd leads the party on the following route:
 
-1. [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56)
+1. [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall)
 2. [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry)
-3. [K14. Hall of Faith (p. 57)](../Source%20book/Curse%20of%20Strahd.md#page-57)
-4. [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#page-57)
+3. [K14. Hall of Faith (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k14-hall-of-faith)
+4. [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k15-chapel)
 5. [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k16-north-chapel-access)
-6. [K29. Creaky Landing (p. 62)](../Source%20book/Curse%20of%20Strahd.md#page-62)
-7. [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#page-62)
-8. [K27. King’s Hall (p. 27)](../Source%20book/Curse%20of%20Strahd.md#page-27)
-9. [K26. Guards' Post (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61)
-10. [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61)
+6. [K29. Creaky Landing (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k29-creaky-landing)
+7. [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k28-kings-balcony)
+8. [K27. King’s Hall (p. 27)](../Source%20book/Curse%20of%20Strahd.md#k27-kings-hall)
+9. [K26. Guards' Post (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k26-guards-post)
+10. [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall)
 
 Before departing the Great Entry, Strahd encourages one or more of the players to take a torch from a sconce in the Guests’ Hall to light their way. “My eyes are well-adjusted to the shadows that lurk in these halls," he says wryly, “but a mobile source of light might be kinder to your own senses."
 ## O6a. Hall of Faith
 <span class="citation"><em>This scene takes place in Chapter 4, Area K14.</em></span>
 
-This area is as described in [K14. Hall of Faith (p. 57)](../Source%20book/Curse%20of%20Strahd.md#page-57).
+This area is as described in [K14. Hall of Faith (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k14-hall-of-faith).
 
 As he guides the players through this area, Strahd shares that the castle was built over four centuries prior upon the ruins of a much older fortress, which lay atop the Pillarstone of Ravenloft. “I put out the call for mages, architects, and engineers from every corner of my conquests," he says fondly, “and from every corner, they came."
 ## O6b. Chapel
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K15, K16, K17, K18, K19, and K28.</em></span>
 
-This area is largely as described in [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#page-57), [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k16-north-chapel-access), [K17. South Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58), [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58), [K29. Creaky Landing (p. 62)](../Source%20book/Curse%20of%20Strahd.md#page-62), and [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#page-62). 
+This area is largely as described in [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k15-chapel), [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k16-north-chapel-access), [K17. South Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k17-south-chapel-access), [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k18-high-tower-staircase), [K29. Creaky Landing (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k29-creaky-landing), and [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k28-kings-balcony). 
 
 However, remove the remains of Gustav Herrenghast and the *Icon of Ravenloft* (renamed in this guide as the *Icon of Dawn's Grace*) from the Chapel. In addition, remove any reference to these remains, the *Icon of Ravenloft*, and the “piercing shaft of light" from this area’s description. In addition, remove the two **Strahd zombies** from the King’s Balcony.
 
@@ -663,11 +663,11 @@ Upon entering the chapel, Strahd reminisces aloud: “I recall the day Prefect C
 
 Strahd is clearly amused by any players who declare faith in a deity or religion. When all players have shared the source of their faith, if any, he turns to regard the great stained-glass sun in the highest chapel window and says, “I have never found much use for faith in other things or creatures. Far better, it seems, to place one’s faith entirely in one’s self, and to master one’s fate without reliance upon others. Do you disagree?"
 
-When the topic has been exhausted, Strahd guides the players through  [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k16-north-chapel-access), up the stairs past [K29. Creaky Landing (p. 62)](../Source%20book/Curse%20of%20Strahd.md#page-62), and past [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#page-62) into [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61).
+When the topic has been exhausted, Strahd guides the players through  [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k16-north-chapel-access), up the stairs past [K29. Creaky Landing (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k29-creaky-landing), and past [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k28-kings-balcony) into [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k27-kings-hall).
 ## O6c. King’s Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K27.</em></span>
 
-This area is largely as described in [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61). However, this room now contains the tapestry described in [K83a. Spiral Stair Landing (p. 85)](../Source%20book/Curse%20of%20Strahd.md#page-85), which is located midway along the corridor's south wall, covering the secret door that leads to [K31. Trapworks (p. 63)](../Source%20book/Curse%20of%20Strahd.md#k31-trapworks). Add the description of that tapestry to the end of this area’s description.
+This area is largely as described in [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k27-kings-hall). However, this room now contains the tapestry described in [K83a. Spiral Stair Landing (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k83a-spiral-stair-landing), which is located midway along the corridor's south wall, covering the secret door that leads to [K31. Trapworks (p. 63)](../Source%20book/Curse%20of%20Strahd.md#k31-trapworks). Add the description of that tapestry to the end of this area’s description.
 
 In addition, the mannequin trap is currently disarmed and doesn’t activate as the characters walk through the corridor.
 
@@ -675,11 +675,11 @@ As the players approach the tapestry, Strahd pauses beside it. “Do you know wh
 
 Strahd can share that the tapestry depicts his father, King Barov, leading his fearsome knights into glorious battle. If the players ask about the sword King Barov is wielding, Strahd shares that it was the *Brightblade*—a sword fashioned from the hilt of an elven *Moonblade* and a crystal blade imbued with the radiance of the Morninglord. “It was broken long ago, however," he adds quietly, his voice oddly hollow.
 
-When the topic has been exhausted, Strahd guides the players through [K26. Guards' Post (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61) into [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61).
+When the topic has been exhausted, Strahd guides the players through [K26. Guards' Post (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k26-guards-post) into [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall).
 ## O6d. Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K25.</em></span>
 
-This area is largely as described in [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61). However, revise the first sentence of this area’s description as follows:
+This area is largely as described in [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall). However, revise the first sentence of this area’s description as follows:
 
 <div class="description">
 <p>Dim light from the courtyard falls into this great hall through the broken glass and iron latticework of a large window in the west wall. A cold wind shrieks through the broken window as arcs of lightning lance from the weeping skies beyond, each bolt followed by the crack of nearby thunder.</p>
@@ -693,7 +693,7 @@ If any player asks why the throne is turned away from the rest of the room, Stra
 * When Strahd was a child, Saint Andral anointed his father, King Barov, as the rightful heir to the crown of old Zarovia. When King Barov died, Strahd inherited his crown, and with it the title of King.
 * However, when the Mists descended upon Barovia, the lands Strahd had conquered were consigned to history, his family’s ancestral legacy forsaken and lost. “It would be an arrogance beyond folly to name myself ‘king’ without a kingdom to rule," Strahd says, “and so I keep the King’s seat turned from my reach as a memento of the lands that I lost." He then adds softly: “And yet—few things are lost forever." (If asked to elaborate, Strahd declines and simply smiles wryly.)
 ## O6e. Sasha’s Rendezvous
-A player following Sasha’s instructions can open the secret door behind the pipe organ described in [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56) by pressing the sixth pedal from the left on the organ. 
+A player following Sasha’s instructions can open the secret door behind the pipe organ described in [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall) by pressing the sixth pedal from the left on the organ. 
 ### South Archers' Post
 <span class="citation"><em>This scene takes place in Chapter 4, Area K11.</em></span>
 
@@ -719,20 +719,20 @@ If the players agree to rescue Gertruda, Sasha can share the following informati
 * Gertruda is a prisoner on the third floor of the castle, in the king’s suites. The players can access the suites via the staircase in the foyer (<span class="citation">K21. South Tower Stair, p. 59</span>).
 * Sasha doesn’t know any of the traps that Strahd or his servants might have set in the castle. She does know, however, that the inside of the keep is often patrolled by undead **wights**—the animated remains of those that once guarded the castle.
 * Strahd keeps prisoners in the dungeons, on the floor beneath the castle larders. The players can access the dungeons via the staircase in the foyer (<span class="citation">K21. South Tower Stair, p. 59</span>).
-* Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber ([K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78)) is behind the closed wooden doors to the west of [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78).
-* Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58).
-* Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (<span class="citation">K23. Servants’ Entrance (p. 59))</span> into the castle via [K3. Servants’ Courtyard (p. 54)](../Source%20book/Curse%20of%20Strahd.md#page-54), which allows access to the servants’ quarters and kitchens.
-* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#page-67)).
+* Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber ([K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones)) is behind the closed wooden doors to the west of [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k65-kitchen).
+* Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k18-high-tower-staircase).
+* Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (<span class="citation">K23. Servants’ Entrance (p. 59))</span> into the castle via [K3. Servants’ Courtyard (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k3-servants-courtyard), which allows access to the servants’ quarters and kitchens.
+* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k41-treasury)).
 
 Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right hand stalks the shadows of any who enter."
 
 Sasha’s memory and knowledge of the castle is limited beyond this information, and she apologizes for any inability to answer the players’ additional questions. 
 
-When the player has exhausted her knowledge, Sasha informs them curtly that they both must return to the castle’s halls before they are missed, and bids them luck as they depart. Before she leaves, the player notices her cast a final, mournful glance at the mirrors on the floor—none of which bear her reflection—then sigh and step away into [K12. Turret Post (p. 57)](../Source%20book/Curse%20of%20Strahd.md#page-57).
+When the player has exhausted her knowledge, Sasha informs them curtly that they both must return to the castle’s halls before they are missed, and bids them luck as they depart. Before she leaves, the player notices her cast a final, mournful glance at the mirrors on the floor—none of which bear her reflection—then sigh and step away into [K12. Turret Post (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k12-turret-post).
 
-Shortly after the player returns to the dining hall and closes the secret door, Escher enters the chamber to collect them and escort them upstairs through [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), up the stairs of [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58), and into [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61) to meet the other players.
+Shortly after the player returns to the dining hall and closes the secret door, Escher enters the chamber to collect them and escort them upstairs through [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), up the stairs of [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing), and into [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall) to meet the other players.
 ## O6f. The Prisoner
-Shortly after all of the players have reunited in the Audience Hall, Rahadin ascends [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58) and enters the room accompanied by another figure. Read:
+Shortly after all of the players have reunited in the Audience Hall, Rahadin ascends [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing) and enters the room accompanied by another figure. Read:
 
 <div class="description">
 <p>Rahadin holds a chain in his right hand, its links connected to a steel collar clamped tightly around the neck of the stumbling figure he drags forward behind him. The figure’s features are obscured by the sack they wear over their head, their clothes torn away and replaced by a threadbare, shapeless robe.</p>
@@ -776,20 +776,20 @@ Following the events of [[#O6f. The Prisoner]], Strahd thanks the players for an
 
 If necessary, Strahd reassures the players that they are in no danger, and that it simply appears that a stray bolt of lightning has struck a part of the keep.
 
-Shortly after the lightning strike, Ludmilla enters the chamber from [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58), her expression stony. She bows deeply before Strahd, then informs him that it appears a bolt of lightning has struck the south gate tower. She shares that she has dispatched Diavola, one of her apprentices, to inspect the tower mechanism and determine whether any repairs are required.
+Shortly after the lightning strike, Ludmilla enters the chamber from [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing), her expression stony. She bows deeply before Strahd, then informs him that it appears a bolt of lightning has struck the south gate tower. She shares that she has dispatched Diavola, one of her apprentices, to inspect the tower mechanism and determine whether any repairs are required.
 
-Strahd then invites the players to join him in the [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry) for refreshments as they wait for Diavola’s report. If Escher is present (i.e., because one of the players met with Sasha in [[#O6e. Sasha’s Rendezvous]]), Strahd directs him to send for wine and tea from the kitchens. Otherwise, Strahd clicks his tongue, summoning a lone **bat** hanging from the ceiling, and directs it to do the same. The bat chirps a single time, then flutters down through [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58).
+Strahd then invites the players to join him in the [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry) for refreshments as they wait for Diavola’s report. If Escher is present (i.e., because one of the players met with Sasha in [[#O6e. Sasha’s Rendezvous]]), Strahd directs him to send for wine and tea from the kitchens. Otherwise, Strahd clicks his tongue, summoning a lone **bat** hanging from the ceiling, and directs it to do the same. The bat chirps a single time, then flutters down through [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing).
 
-Shortly after the players descend to the Great Entry, if Strahd sent Escher to the kitchens, he ascends [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) bearing a tray containing mugs of spiced wine and herbal tea. (If Strahd sent the bat, Sasha delivers the drinks instead.) As they enjoy their refreshments, Strahd apologizes to the players for the delay and inconvenience, but notes, “I have full faith in Ludmilla and her associates to remedy any problem."
+Shortly after the players descend to the Great Entry, if Strahd sent Escher to the kitchens, he ascends [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) bearing a tray containing mugs of spiced wine and herbal tea. (If Strahd sent the bat, Sasha delivers the drinks instead.) As they enjoy their refreshments, Strahd apologizes to the players for the delay and inconvenience, but notes, “I have full faith in Ludmilla and her associates to remedy any problem."
 
-After a few minutes have passed, the great doors leading from [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#page-54) open to reveal Diavola, an unhappy and soaking-wet **Barovian witch**.
+After a few minutes have passed, the great doors leading from [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k7-entry) open to reveal Diavola, an unhappy and soaking-wet **Barovian witch**.
 
 The conversation then unfolds as follows unless the players intervene:
 
 * Ludmilla turns to Diavola and instructs her to “deliver her report to the Master."
 * Diavola casts her eyes toward the ground as she bows hurriedly toward Strahd, stammering: “Forgive me, Great One. The lightning has scorched the runes inscribed into the upper tower. The bridge—it will not work until the runes are freshly cast."
 * Strahd asks Diavola coldly if she can re-cast the tower runes. She nods, wringing her hands and licking her lips, and adds, “Yes—but I would require the aid of the full coven. And even then, it could take us until morning."
-* “Then see that it is done by then," Strahd replies sternly. “You are dismissed." Diavola bows deeply, then flees up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) until she reaches [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#page-71), where she rejoins the other **Barovian witches**.
+* “Then see that it is done by then," Strahd replies sternly. “You are dismissed." Diavola bows deeply, then flees up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) until she reaches [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#k54-familiar-room), where she rejoins the other **Barovian witches**.
 
 Strahd then turns to the players and apologizes again for the inconvenience, noting that it appears unlikely that he will be able to send them home via the carriage that evening. “Should you wish it, I would be more than glad to have rooms prepared for the night," he promises. “Our guest quarters are warm and comfortable, and in far better condition than many other chambers of the castle." 
 
@@ -797,7 +797,7 @@ If any players appear uncomfortable with accepting Strahd’s hospitality, he as
 
 If the players refuse Strahd’s hospitality outright, he shakes his head and notes that, to his regret, he cannot allow them to simply sleep elsewhere in the castle. “You are welcome, of course, to pitch your tents in the front courtyard—but I cannot guarantee your safety from any creatures that may lurk amidst the castle grounds."
 
-If any player suggests using flight to cross the chasm, Strahd warns them that “the storm may be far less kind than you expect—and you would not be the first individual to lose their lives in a flight of folly from the castle walls." (If asked, Strahd briefly shares the tragedy of Prince Ariel du Plumette, whose tale is as described in [Crypt 4 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#page-86).)
+If any player suggests using flight to cross the chasm, Strahd warns them that “the storm may be far less kind than you expect—and you would not be the first individual to lose their lives in a flight of folly from the castle walls." (If asked, Strahd briefly shares the tragedy of Prince Ariel du Plumette, whose tale is as described in [Crypt 4 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-4).)
 
 > [!info]+ **No Escape**
 > During the storm, the skies around Castle Ravenloft are filled with **heavy precipitation** and a **strong wind** (<span class="citation">Dungeon Master’s Guide, p. 110</span>), rendering the fifty-foot chasm near-impassable by any flying creature. (Remember that a flying creature carrying another creature of similar size moves at half speed, and that a flying creature in a strong wind must land at the end of its turn or fall.) In addition, the direction of the wind faces toward the castle, making the air difficult terrain for any creature attempting to fly away from the keep.
@@ -806,9 +806,9 @@ If any player suggests using flight to cross the chasm, Strahd warns them that �
 
 Should the players accept Strahd’s offer of hospitality, he claps his hands together and calls for Escher or Sasha—depending on which one is present—to "show our guests to their rooms, please."
 
-Strahd then bids the players goodnight, remaining within the Great Entry to speak with Ludmilla as Escher (or Sasha) instructs the players to follow him (or her) to their rooms. “Do not stray from my path," Escher or Sasha warns, taking a torch from the wall of [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56), “unless you wish to die a most painful death."
+Strahd then bids the players goodnight, remaining within the Great Entry to speak with Ludmilla as Escher (or Sasha) instructs the players to follow him (or her) to their rooms. “Do not stray from my path," Escher or Sasha warns, taking a torch from the wall of [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall), “unless you wish to die a most painful death."
 
-Escher or Sasha then leads the players up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59), past the second-floor landing leading to [K30. King’s Accountant (p. 62)](../Source%20book/Curse%20of%20Strahd.md#page-62), past the third-floor landing leading to [K35. Guardian Vermin (p. 64)](../Source%20book/Curse%20of%20Strahd.md#page-64), and onto the fourth-floor landing comprising [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68). 
+Escher or Sasha then leads the players up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair), past the second-floor landing leading to [K30. King’s Accountant (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k30-kings-accountant), past the third-floor landing leading to [K35. Guardian Vermin (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k35-guardian-vermin), and onto the fourth-floor landing comprising [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd). 
 
 If Escher is the players' guide, he is curt and visibly slouching as he shows the players upstairs. (Escher, who enjoys using the Lounge as a comfortable place to relax or sulk, is sour and jealous that the players have temporarily stolen his favorite haunt in the castle. A player can identify his bitterness with a successful DC 12 Wisdom (Insight) check.)
 
@@ -816,42 +816,42 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > If any players disobey their guide’s instructions and split off from the remainder of the party to explore Castle Ravenloft, they encounter the following scenes as they do so.
 >
 > > [!info]- **Second Basement Floor (B2F). Dungeon & Catacombs** 
-> > If a player instead descends two floors down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) from [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56), they emerge into [K73. Dungeon Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79). This area is largely as described in [K73. Dungeon Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79); however, remove the reference to the “cry for help" from this area’s description. The teleport traps function as described in [[Arc P - Ravenloft Heist#P11d. Torture Chamber|Arc P - Ravenloft Heist]]. If the character falls victim to one of the teleport traps, they are swiftly retrieved by Rahadin, who escorts them up to the guest suite.
+> > If a player instead descends two floors down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) from [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall), they emerge into [K73. Dungeon Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k73-dungeon-hall). This area is largely as described in [K73. Dungeon Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k73-dungeon-hall); however, remove the reference to the “cry for help" from this area’s description. The teleport traps function as described in [[Arc P - Ravenloft Heist#P11d. Torture Chamber|Arc P - Ravenloft Heist]]. If the character falls victim to one of the teleport traps, they are swiftly retrieved by Rahadin, who escorts them up to the guest suite.
 >
 > <br>
 >
 > > [!info]- **First Basement Floor (B1F). Larders of Ill Omen** 
-> > If a player instead descends one floor down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) from [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56), they emerge into [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#page-74), which remains deactivated and doesn’t trigger if a player walks through it. The remainder of this floor is as follows:
+> > If a player instead descends one floor down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) from [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall), they emerge into [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k61-elevator-trap), which remains deactivated and doesn’t trigger if a player walks through it. The remainder of this floor is as follows:
 > >
-> > * **Servants’ Hall.** This area is largely as described in [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#page-76), but remove the final sentence referring to the “dark figure" from this area’s description. In addition, the double doors leading to [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78) are locked, requiring a successful DC 20 Dexterity (Thieves’ Tools) check or DC 25 Strength check to open.
+> > * **Servants’ Hall.** This area is largely as described in [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#k62-servants-hall), but remove the final sentence referring to the “dark figure" from this area’s description. In addition, the double doors leading to [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones) are locked, requiring a successful DC 20 Dexterity (Thieves’ Tools) check or DC 25 Strength check to open.
 > >
 > > * **Wine Cellar.** This area is as described in [[#Sasha Alone]].
 > >
 > > * **Kitchen.** This area is as described in [[#Sasha Alone]], but Cyrus is absent and the fire pit has burned down to low embers.
 > >
-> > * **Butler’s Quarters.** This area is largely as described in [K66. Butler’s Quarters (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78). However, Cyrus is currently curled up and asleep on his bed, cuddled up with the plush werewolf described in [Blinsky Toy (p. 50)](../Source%20book/Curse%20of%20Strahd.md#page-50).
+> > * **Butler’s Quarters.** This area is largely as described in [K66. Butler’s Quarters (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k66-butlers-quarters). However, Cyrus is currently curled up and asleep on his bed, cuddled up with the plush werewolf described in [Blinsky Toy (p. 50)](../Source%20book/Curse%20of%20Strahd.md#blinsky-toy).
 > >
-> > * **Hall of Bones.** This area is largely as described in [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78). However, six **crawling claws** have climbed into the jaw of Argynvost’s skull, and drop on any player from above to attack as soon as the player enters this chamber. The sound of fighting draws the attention of Rahadin, who swiftly confronts the players and escorts them to the guest suite.
+> > * **Hall of Bones.** This area is largely as described in [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones). However, six **crawling claws** have climbed into the jaw of Argynvost’s skull, and drop on any player from above to attack as soon as the player enters this chamber. The sound of fighting draws the attention of Rahadin, who swiftly confronts the players and escorts them to the guest suite.
 > >
-> > * **Guards’ Run, Guards’ Quarters & Guards’ Stair.** These areas are as described in [K68. Guards’ Run (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79), [K69. Guards’ Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79), and [K64. Guards’ Stair (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78).
+> > * **Guards’ Run, Guards’ Quarters & Guards’ Stair.** These areas are as described in [K68. Guards’ Run (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k68-guards-run), [K69. Guards’ Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k69-guards-quarters), and [K64. Guards’ Stair (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k64-guards-stair).
 > >
-> > * **Kingsmen Hall.** This area is as described in [K70. Kingsmen Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79).
+> > * **Kingsmen Hall.** This area is as described in [K70. Kingsmen Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k70-kingsmen-hall).
 > >
-> > * **Kingsmen Quarters.** This area is largely as described in [K71. Kingsmen Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79). However, two hidden **wights** stand guard in the rear alcoves, emerging to attack any trespassers on sight. (The wights don’t pursue any players who flee into [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78), instead withdrawing once more into their original hiding places.)
+> > * **Kingsmen Quarters.** This area is largely as described in [K71. Kingsmen Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k71-kingsmen-quarters). However, two hidden **wights** stand guard in the rear alcoves, emerging to attack any trespassers on sight. (The wights don’t pursue any players who flee into [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones), instead withdrawing once more into their original hiding places.)
 > >
-> > * **Chamberlain’s Office.** This area is largely as described in [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79). However, while the player can catch brief and occasional glimpses of a moving shadow out of the corner of their eye, the **shadow demon** emerges only to attack any player who searches for a secret door.
+> > * **Chamberlain’s Office.** This area is largely as described in [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k72-chamberlains-office). However, while the player can catch brief and occasional glimpses of a moving shadow out of the corner of their eye, the **shadow demon** emerges only to attack any player who searches for a secret door.
 >
 > <br>
 >
 > > [!info]- **First Floor (1F). Main Floor** 
-> > If a player instead lingers in [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56), they are swiftly met by Strahd, who cordially advises them to follow Rahadin up to the guest quarters.
+> > If a player instead lingers in [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall), they are swiftly met by Strahd, who cordially advises them to follow Rahadin up to the guest quarters.
 >
 > <br>
 > 
 > > [!info]- **Second Floor (2F). Court of the Count** 
-> > If a player ascends only one floor up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) from [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56), the door leading to [K30. King’s Accountant (p. 62)](../Source%20book/Curse%20of%20Strahd.md#page-62) is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
+> > If a player ascends only one floor up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) from [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall), the door leading to [K30. King’s Accountant (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k30-kings-accountant) is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
 > >
-> > * **King’s Accountant.** This area is largely as described in [K30. King’s Accountant (p. 62)](../Source%20book/Curse%20of%20Strahd.md#page-62). However, Lief Lipsiege is a lawful neutral **wight** with no attacks. When the players first approach, notice, or interact with him, read:
+> > * **King’s Accountant.** This area is largely as described in [K30. King’s Accountant (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k30-kings-accountant). However, Lief Lipsiege is a lawful neutral **wight** with no attacks. When the players first approach, notice, or interact with him, read:
 > > 
 > > <hr>
 > > 
@@ -861,7 +861,7 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > > 
 > > Lief is not chained to his wooden desk. However, he won’t leave the room voluntarily under any circumstances. 
 > > 
-> > If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#page-67), rather than that of the *Holy Symbol of Ravenkind*. Read:
+> > If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k41-treasury), rather than that of the *Holy Symbol of Ravenkind*. Read:
 > > 
 > > <hr>
 > > 
@@ -879,32 +879,32 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > > > <hr>
 > > > 
 > >
-> > * **Audience Hall.** This area is largely as described in [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61). However, shortly after a player enters this room, Strahd uses his ***shapechange*** feature to secretly enter the room in mist form from [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58), surprising any player with a passive Wisdom (Perception) score of 26 or below. Strahd then assumes his true form and amusedly chides his “curious friend" for “wandering amidst the shadows." After asking whether the castle’s guest quarters were not to their liking, he asks if they require him to escort them to their rooms. “After all," he adds, his eyes glinting in the darkness, “we wouldn’t want you getting lost again."
+> > * **Audience Hall.** This area is largely as described in [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall). However, shortly after a player enters this room, Strahd uses his ***shapechange*** feature to secretly enter the room in mist form from [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing), surprising any player with a passive Wisdom (Perception) score of 26 or below. Strahd then assumes his true form and amusedly chides his “curious friend" for “wandering amidst the shadows." After asking whether the castle’s guest quarters were not to their liking, he asks if they require him to escort them to their rooms. “After all," he adds, his eyes glinting in the darkness, “we wouldn’t want you getting lost again."
 >
 > <br>
 > 
 > > [!info]- **Third Floor (3F). Rooms of Weeping** 
-> > If a player ascends only two floors up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) from [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56), the door leading to [K35. Guardian Vermin (p. 64)](../Source%20book/Curse%20of%20Strahd.md#page-64). is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
+> > If a player ascends only two floors up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) from [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall), the door leading to [K35. Guardian Vermin (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k35-guardian-vermin). is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
 > > 
-> > **Guardian Vermin.** This area is largely as described in [K35. Guardian Vermin (p. 64)](../Source%20book/Curse%20of%20Strahd.md#page-64), except that the door leading to [K36. Dining Hall of the Count (p. 65)](../Source%20book/Curse%20of%20Strahd.md#k36-dining-hall-of-the-count) is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check or DC 20 Strength check to open. The **swarms of rats** attack any player that touches them, as well as any player that tries to pick the lock or force the door open.
+> > **Guardian Vermin.** This area is largely as described in [K35. Guardian Vermin (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k35-guardian-vermin), except that the door leading to [K36. Dining Hall of the Count (p. 65)](../Source%20book/Curse%20of%20Strahd.md#k36-dining-hall-of-the-count) is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check or DC 20 Strength check to open. The **swarms of rats** attack any player that touches them, as well as any player that tries to pick the lock or force the door open.
 > >
 > > **Dining Hall of the Count.** This area is largely as described in [K36. Dining Hall of the Count (p. 65)](../Source%20book/Curse%20of%20Strahd.md#k36-dining-hall-of-the-count). However, this chamber is guarded by the vampire spawn **Anastrasya Karelova**, who has assumed the form of a **bat** hidden behind the curtains covering the south window. If a player approaches either of the two doors leading from this room, Anastrasya assumes her true form and amiably informs the player that they “seem to be lost," but she would be glad to escort them to their proper destination.
 >
 > <br>
 > 
 > > [!info]- **Fifth & Sixth Floor (5F & 6F). Spires of Ravenloft** 
-> > If a player attempts to ascend [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) past [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68), they must succeed on a DC 24 Dexterity (Stealth) check or be caught by Rahadin. If the player successfully avoids Rahadin’s gaze, they can continue ascending the staircase as follows:
+> > If a player attempts to ascend [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) past [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd), they must succeed on a DC 24 Dexterity (Stealth) check or be caught by Rahadin. If the player successfully avoids Rahadin’s gaze, they can continue ascending the staircase as follows:
 > >
-> > * **5F. Familiar Room, Element Room & Cauldron.** If a player ascends an additional floor beyond the fourth-floor landing comprising [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68), they emerge onto the fifth-floor landing leading to [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#page-71).  The Familiar Room and the rooms beyond are largely as described in [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#page-71), [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k55-element-room), and [K56. Cauldron (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72). However, the Element Room contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. In addition, there are no **Barovian witches** in the Cauldron room, which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair).
+> > * **5F. Familiar Room, Element Room & Cauldron.** If a player ascends an additional floor beyond the fourth-floor landing comprising [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd), they emerge onto the fifth-floor landing leading to [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#k54-familiar-room).  The Familiar Room and the rooms beyond are largely as described in [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#k54-familiar-room), [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k55-element-room), and [K56. Cauldron (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k56-cauldron). However, the Element Room contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. In addition, there are no **Barovian witches** in the Cauldron room, which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair).
 > >
-> > * **6F. Tower Rooftop.** If a player ascends an additional two floors beyond the fourth-floor landing comprising [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68), they emerge onto [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72). A player who approaches [K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k58-bridge) is interrupted by the vampire spawn **Ludmilla Vilisevic,** who manifests from a fog bank atop the tower behind them and coldly declares that they have “ventured where they do not belong," and that she will “see to it that they are returned to their proper place"—unless, she adds, her eyes glinting dangerously, they would prefer “to remain a permanent member of the Master’s court."
+> > * **6F. Tower Rooftop.** If a player ascends an additional two floors beyond the fourth-floor landing comprising [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd), they emerge onto [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof). A player who approaches [K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k58-bridge) is interrupted by the vampire spawn **Ludmilla Vilisevic,** who manifests from a fog bank atop the tower behind them and coldly declares that they have “ventured where they do not belong," and that she will “see to it that they are returned to their proper place"—unless, she adds, her eyes glinting dangerously, they would prefer “to remain a permanent member of the Master’s court."
 # O7. The Guest Suite
 ## O7a. Settling In
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K47 and K49.</em></span>
 
-The landing at the top of [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) is largely as described in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68). However, neither the **rug of smothering** nor **guardian portrait** attacks the players for the duration of their stay at Ravenloft.
+The landing at the top of [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) is largely as described in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd). However, neither the **rug of smothering** nor **guardian portrait** attacks the players for the duration of their stay at Ravenloft.
 ### Escher's Jealousy
-If Escher escorted the players to their rooms, he steps into [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) and sweeps his arm dramatically across the room. "I hope everything is to your liking," he says icily, his eyes narrowing. "Is there anything else of mine you'd like to take?"
+If Escher escorted the players to their rooms, he steps into [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge) and sweeps his arm dramatically across the room. "I hope everything is to your liking," he says icily, his eyes narrowing. "Is there anything else of mine you'd like to take?"
 
 Escher, who is jealous of the players, anxious about losing Strahd's favor, and desperate to justify his betrayal of Doru's rebellion, is hungry for a confrontation with Strahd's new "playthings." Unless forced to depart, he attempts to needle the players, insulting their appearances, lack of culture, or "disappointing intelligence." "I can't imagine why he's kept you around this long," Escher hisses. "Perhaps he just thinks you'll squeal particularly loudly when he inevitably tires of you."
 
@@ -918,7 +918,7 @@ Before departing, Rahadin also produces a key from his pocket, which he uses to 
 ### Sasha's Insight
 If Sasha escorted the players to their rooms, she hesitates before departing. If confronted regarding her lack of loyalty to Strahd she stiffens, glances fearfully about her, and insists woodenly that she is wholly faithful to him. A player can convince her to speak freely by succeeding on a DC 10 Charisma (Persuasion) check, succeeding automatically if they mention their victories over Strahd’s other brides or otherwise provide comfort and reassurance. 
 
-If convinced to speak freely, Sasha closes her eyes, takes a deep breath, and asks if she can step into [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) to speak with the players in private. If the players agree, she closes the door behind her and continues speaking in hushed tones.
+If convinced to speak freely, Sasha closes her eyes, takes a deep breath, and asks if she can step into [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge) to speak with the players in private. If the players agree, she closes the door behind her and continues speaking in hushed tones.
 
 Once inside the lounge, Sasha can share any or all of the following information about herself if asked:
 
@@ -933,10 +933,10 @@ If the players agree to rescue Gertruda, Sasha can share the following informati
 * Gertruda is a prisoner on the third floor of the castle, in the king’s suites. The players can access the suites via the staircase in the foyer (<span class="citation">K21. South Tower Stair, p. 59</span>).
 * Sasha doesn’t know any of the traps that Strahd or his servants might have set in the castle. She does know, however, that the inside of the keep is often patrolled by undead **wights**—the animated remains of those that once guarded the castle.
 * Strahd keeps prisoners in the dungeons, on the floor beneath the castle larders. The players can access the dungeons via the staircase in the foyer (<span class="citation">K21. South Tower Stair, p. 59</span>).
-* Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber is behind the closed wooden doors to the west of [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78).
-* Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#page-58).
-* Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance ([K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) into the castle via [K3. Servants’ Courtyard (p. 54)](../Source%20book/Curse%20of%20Strahd.md#page-54), which allows access to the servants’ quarters and kitchens.
-* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#page-67)).
+* Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber is behind the closed wooden doors to the west of [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k65-kitchen).
+* Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k18-high-tower-staircase).
+* Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance ([K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance) into the castle via [K3. Servants’ Courtyard (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k3-servants-courtyard), which allows access to the servants’ quarters and kitchens.
+* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k41-treasury)).
 
 Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right-hand man stalks the shadows of any who enter."
 
@@ -949,22 +949,22 @@ After dismissing Sasha, Rahadin warns the players that they are not to leave the
 Before departing, Rahadin also produces a key from his pocket, which he uses to lock the players in the guest suite—again, “for their safety.” He will return to unlock the door, he promises, at the first light of morning.
 
 > [!abstract]+ **Missing Players**
-> If one or more players went wandering off while being led up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59), Rahadin’s gaze tightens as he silently counts the number of players present as he moves to depart. Upon noticing that any of the players appears to be missing, he sharply asks where that player has gone. 
+> If one or more players went wandering off while being led up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair), Rahadin’s gaze tightens as he silently counts the number of players present as he moves to depart. Upon noticing that any of the players appears to be missing, he sharply asks where that player has gone. 
 >
 > If no answer is forthcoming, or if the player does not immediately present themselves, Rahadin icily commands the players to remain within their room, and not to “step a single toe out of line." He then departs to locate any missing players—"by force, if necessary."
 >
-> Unless a wandering player has made special effort to conceal their tracks, Rahadin swiftly tracks them down, locating them the first time (1) the player is reduced to 15 hit points or fewer in a combat encounter or (2) the player re-enters [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) after exiting it.
+> Unless a wandering player has made special effort to conceal their tracks, Rahadin swiftly tracks them down, locating them the first time (1) the player is reduced to 15 hit points or fewer in a combat encounter or (2) the player re-enters [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) after exiting it.
 ## O7b. Settling Down
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
 
-The guest suite is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70). However:
+The guest suite is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k50-guest-room), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet). However:
 
 * In the Lounge, remove the reference to Escher in this area’s description;
 * In the Guest Room, revise the second sentence to read as follows: “Several comfortable divans are placed about the room, and an ornate clock shaped like a castle’s keep looks down from its place on the wall above them." The metal clock, which was made by the legendary inventor Fritz von Weerg nearly four centuries ago, is shaped like the front facade of Castle Ravenloft. However, the clock is broken and doesn’t run. A player who spends 1 minute searching the clock for secrets and succeeds on a DC 20 Intelligence (Investigation) check finds a hidden storage compartment in the portion of the clock corresponding to the castle’s north tower, which ordinarily holds [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow) and [K60. North Tower Peak (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k60-north-tower-peak).
 * In the Closet, remove the “dusty black cloak" and revise the second sentence of this area’s description to read simply: “Iron hooks line the walls."
 
 > [!abstract]+ **Wandering Players**
-> Should the players depart the guest suite via the window in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) or find and ascend the trapdoor in [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), Ludmilla notices and confronts them on [K53. Rooftop (p. 73)](../Source%20book/Curse%20of%20Strahd.md#page-73) or [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72), respectively, instructing them to return to their room lest she inform "the Master" that they have been trespassing the halls of the keep without his permission.
+> Should the players depart the guest suite via the window in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge) or find and ascend the trapdoor in [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet), Ludmilla notices and confronts them on [K53. Rooftop (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k53-rooftop) or [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof), respectively, instructing them to return to their room lest she inform "the Master" that they have been trespassing the halls of the keep without his permission.
 
 A player who enters a trance or falls asleep while in the guest suite enters [[#O8. Varushka’s Nightmare]]. In addition, any non-undead, non-construct creature that remains in the guest suite for longer than an hour after dusk immediately falls unconscious and enters [[#O8. Varushka’s Nightmare]] below.
 
@@ -974,7 +974,7 @@ A player who enters a trance or falls asleep while in the guest suite enters [[#
 
 A player or allied NPC who falls unconscious in the lounge, guest room, or closet is mentally transported to Varushka’s Nightmare—a nightmare realm shaped by the spirit of one of Strahd’s first victims. 
 
-Varushka's Nightmare exists across five near-identical copies of the Ravenloft guest suite, layered vertically atop one another. Within the Nightmare, the trapdoor in [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) always leads to the trapdoor in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68). However, the door to the Closet on the fifth and highest level of the Nightmare instead leads to a copy of Castle Ravenloft on the day of Sergei's wedding, via a copy of [K23. Servants' Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59), as described in [[#O8f. The Bloody Keep]] below.
+Varushka's Nightmare exists across five near-identical copies of the Ravenloft guest suite, layered vertically atop one another. Within the Nightmare, the trapdoor in [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet) always leads to the trapdoor in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd). However, the door to the Closet on the fifth and highest level of the Nightmare instead leads to a copy of Castle Ravenloft on the day of Sergei's wedding, via a copy of [K23. Servants' Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance), as described in [[#O8f. The Bloody Keep]] below.
 
 ![[Nightmare Map.png]]
 
@@ -983,7 +983,7 @@ Varushka's Nightmare exists across five near-identical copies of the Ravenloft g
 ## O8a. The First Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
 
-This area is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70).
+This area is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k50-guest-room), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet).
 
 As the players awake in the nightmare, read:
 
@@ -1019,23 +1019,23 @@ The dead woman’s corpse is brown-haired, short, and freckled. She wears a plai
 > [!info]+ **Speak With Dead**
 > Players who cast *speak with dead* on Varushka's corpse can learn the same information as in [[#O8e. The Fifth Level]]. Varushka's corpse can also share that she committed suicide by hanging when she realized Strahd would never let her go free.
 
-A player who ascends through the trapdoor emerges in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68) on [[#O8b. The Second Level]].
+A player who ascends through the trapdoor emerges in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd) on [[#O8b. The Second Level]].
 
 > [!info]+ **A Haunting Loop**
-> Instead of leading to [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k55-element-room), the trapdoor in the Nightmare always leads to the trapdoor exit in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68). In addition, for as long as the players remain in the Nightmare, the **rug of smothering** and **portrait of Strahd** in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68) are inanimate objects and don’t attack the players.
+> Instead of leading to [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k55-element-room), the trapdoor in the Nightmare always leads to the trapdoor exit in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd). In addition, for as long as the players remain in the Nightmare, the **rug of smothering** and **portrait of Strahd** in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd) are inanimate objects and don’t attack the players.
 > 
-> Each time the players emerge through the trapdoor, the area is largely as described in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68). However, the entryways to both [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) and [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) have been bricked up, preventing the players from ascending or descending further into the castle.
+> Each time the players emerge through the trapdoor, the area is largely as described in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd). However, the entryways to both [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) and [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) have been bricked up, preventing the players from ascending or descending further into the castle.
 
-If a player investigates the door in the lounge that exits into [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68), they find that the door is locked, its lock replaced with an ornate golden keyhole. The door can’t be broken down, and the lock can’t be picked.
+If a player investigates the door in the lounge that exits into [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd), they find that the door is locked, its lock replaced with an ornate golden keyhole. The door can’t be broken down, and the lock can’t be picked.
 
 > [!info]+ **Ascending and Descending Floors**
 > Players are able to descend to previous levels if they choose to do so, until they find the ornate golden key in [[#O8f. The Bloody Keep]]. Once they do, any attempts to descend to a previous level will return them to [[#O8a. The First Level]].
 ## O8b. The Second Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
 
-This area is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70). However, this level looks slightly less run-down and grimy than the first level. In addition, the door leading to [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) lacks the ornate gold lock from [[#O8a. The First Level]].
+This area is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k50-guest-room), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet). However, this level looks slightly less run-down and grimy than the first level. In addition, the door leading to [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge) lacks the ornate gold lock from [[#O8a. The First Level]].
 
-Shortly after the players emerge into [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68), a man emerges from the wall obstructing [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59). Read:
+Shortly after the players emerge into [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd), a man emerges from the wall obstructing [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair). Read:
 
 <div class="description">
 <p>A silhouette looms against the stone-brick wall obstructing the descending stair—and then emerges from the stonework like a ghost, revealing a cloaked, broad-shouldered man with long, blond hair, a strong, slightly crooked nose, and a thick, well-trimmed beard. He holds a fiery torch in one hand and a gleaming steel sword in the other, and a black-feathered raven sits perched atop his shoulder.</p>
@@ -1057,7 +1057,7 @@ Ismark, who has the statistics of a **veteran** and is a friendly, gregarious ma
 
 Ismark is interested in exploring the guest suite for any signs of Lugdana, and invites the players to join him in doing so. “Strength in numbers, yes?" he asks, winking.
 
-The guest suite is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70). However, one of the tables in the Lounge holds two silver goblets, which are as described in [Unseen Servant (p. 51)](../Source%20book/Curse%20of%20Strahd.md#page-51).
+The guest suite is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k50-guest-room), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet). However, one of the tables in the Lounge holds two silver goblets, which are as described in [Unseen Servant (p. 51)](../Source%20book/Curse%20of%20Strahd.md#unseen-servant).
 
 In addition, when a creature first attempts to open the Closet door, the following objects in the Guest Room animate and attack, using the statistics for animated objects given on <span class="citation">Player’s Handbook, p. 213</span> except where given otherwise: 
 
@@ -1070,13 +1070,13 @@ Ismark and Livius fight alongside the players if present, Livius remaining in hi
 
 When the players successfully reach and open the trapdoor, Ismark bids them farewell and wishes them luck on their journey, noting that he will seek Lugdana elsewhere. 
 
-A player who ascends through the trapdoor emerges in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68) in the corresponding section of [[#O8c. The Third Level]].
+A player who ascends through the trapdoor emerges in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd) in the corresponding section of [[#O8c. The Third Level]].
 ## O8c. The Third Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
 
-This area is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70). This area looks somewhat run-down, but free of much of the grime and age that marked the lower levels. In addition, the door leading to [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) lacks the ornate gold lock from [[#O8a. The First Level]].
+This area is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k50-guest-room), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet). This area looks somewhat run-down, but free of much of the grime and age that marked the lower levels. In addition, the door leading to [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge) lacks the ornate gold lock from [[#O8a. The First Level]].
 
-Any player who enters the Guest Room immediately notices a quiet, persistent ticking noise deeper and more resonant than that of the clock. A player who listens closely to the noise can discern that it appears to be emanating from beneath the bed. A player who looks beneath the bed or otherwise disturbs its contents encounters Pidlwick II, who is as described in [K59. High Tower Peak (p. 73)](../Source%20book/Curse%20of%20Strahd.md#page-73).
+Any player who enters the Guest Room immediately notices a quiet, persistent ticking noise deeper and more resonant than that of the clock. A player who listens closely to the noise can discern that it appears to be emanating from beneath the bed. A player who looks beneath the bed or otherwise disturbs its contents encounters Pidlwick II, who is as described in [K59. High Tower Peak (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k59-high-tower-peak).
 
 A player who opens the closet door finds that the hook that opens the trapdoor has been unscrewed and removed from its socket. Although it can’t speak, Pidlwick II can use simple nods, gestures, and diagrams to communicate that it has hidden the hook somewhere in the guest suite. However, because Pidlwick II is lonely and wants to play a game, it won’t initially share where the hook is hidden. However, if asked, it tilts its head to the side and looks thoughtful, as if it’s listening for something.
 
@@ -1085,17 +1085,17 @@ Pidlwick II has hidden the hook in the guest room clock. A player who spends 1 m
 A player who treats Pidlwick II kindly and succeeds on a DC 12 Charisma (Persuasion) check can convince it to shyly point to the clock on the wall if asked for the hook’s location.
 
 > [!abstract]+ **Threatening Pidlwick II**
-> If a player threatens Pidlwick II and succeeds on a DC 10 Charisma (Intimidation) check, Pidlwick II shyly takes their hand and leads them toward [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68). Through crude hand gestures, it beckons for them to stand directly before the bricked-up stone wall blocking access to [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59). 
+> If a player threatens Pidlwick II and succeeds on a DC 10 Charisma (Intimidation) check, Pidlwick II shyly takes their hand and leads them toward [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd). Through crude hand gestures, it beckons for them to stand directly before the bricked-up stone wall blocking access to [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair). 
 >
-> If the player does so, it then attempts to push them down the stairs as described in [Pidlwick II (p. 73)](../Source%20book/Curse%20of%20Strahd.md#page-73). A player who fails the Dexterity saving throw falls down one hundred feet of stairs before falling through the bricked-up stone wall blocking access to [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair), taking damage as described in [K59. High Tower Peak (p. 73)](../Source%20book/Curse%20of%20Strahd.md#page-73). Whether the player succeeds or fails, Pidlwick II then immediately vanishes from sight, leaving behind a faint sound of tinny, clanking metal that sounds almost like laughter. The sound soon fades into silence.
+> If the player does so, it then attempts to push them down the stairs as described in [Pidlwick II (p. 73)](../Source%20book/Curse%20of%20Strahd.md#pidlwick-ii). A player who fails the Dexterity saving throw falls down one hundred feet of stairs before falling through the bricked-up stone wall blocking access to [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair), taking damage as described in [K59. High Tower Peak (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k59-high-tower-peak). Whether the player succeeds or fails, Pidlwick II then immediately vanishes from sight, leaving behind a faint sound of tinny, clanking metal that sounds almost like laughter. The sound soon fades into silence.
 > 
-> Once Pidlwick has vanished and the sound of his own clockwork mechanism has disappeared, a player who returns to [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) can hear that the sound of the guest room clock is tinnier and less resonant than on other levels. (This is caused by the presence of the hook, which dampens the sound of the clock's internal clockwork.) A player who then inspects the clock finds the hidden storage compartment automatically.
+> Once Pidlwick has vanished and the sound of his own clockwork mechanism has disappeared, a player who returns to [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k50-guest-room) can hear that the sound of the guest room clock is tinnier and less resonant than on other levels. (This is caused by the presence of the hook, which dampens the sound of the clock's internal clockwork.) A player who then inspects the clock finds the hidden storage compartment automatically.
 ## O8d. The Fourth Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, K51, and K53.</em></span>
 
-The trapdoor leads to a copy of the guest suite largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70). This area looks somewhat run-down, but free of much of the grime and age that marked the upper levels. In addition, the door leading to [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) lacks the ornate gold lock from [[Arc O - Dinner with the Devil#O8a. The First Level|The First Level]].
+The trapdoor leads to a copy of the guest suite largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k50-guest-room), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet). This area looks somewhat run-down, but free of much of the grime and age that marked the upper levels. In addition, the door leading to [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge) lacks the ornate gold lock from [[Arc O - Dinner with the Devil#O8a. The First Level|The First Level]].
 
-Instead of opening into the closet, the closet door in the guest suite opens into a blank stone wall. When the closet door is opened for the first time, the southwestern windows in the Lounge slam open, allowing the storm to howl inside and revealing a copy of the castle rooftop, which is largely as described in [K53. Rooftop (p. 71)](../Source%20book/Curse%20of%20Strahd.md#page-71). However, the remainder of the castle is absent, leaving the rooftops surrounded only by an endless, misty void. When a character first looks out the window, read:
+Instead of opening into the closet, the closet door in the guest suite opens into a blank stone wall. When the closet door is opened for the first time, the southwestern windows in the Lounge slam open, allowing the storm to howl inside and revealing a copy of the castle rooftop, which is largely as described in [K53. Rooftop (p. 71)](../Source%20book/Curse%20of%20Strahd.md#k53-rooftop). However, the remainder of the castle is absent, leaving the rooftops surrounded only by an endless, misty void. When a character first looks out the window, read:
 
 <div class="description">
 <p>The window opens onto a long, dark rooftop cloaked in swirling mists. Rain splashes against the sagging, sloping roof as flashes of lightning illuminate gargoyles perched on the roof’s end peaks, their hideous stares forever fixed on the dark, endless chasm below. On the far side of the rooftop, a small, dark, open closet stands quietly on a parapet amidst the storm.</p>
@@ -1105,7 +1105,7 @@ The rooftop spans 120ft. A character attempting to cross it must make a DC 10 De
 
 When all players have exited the window, six **swarms of bats** descend to attack any characters that haven't yet reached the far side. Characters have disadvantage on checks made to cross the roof while sharing a space with a swarm of bats. If any character is concentrating on a spell that allows flight, three **swarms of bats** attack that character simultaneously, hoping to break their concentration.
 
-On initiative count 20 of the first round after the **swarms of bats** descend, an **adult black dragon** begins stalking the players from [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68). Read:
+On initiative count 20 of the first round after the **swarms of bats** descend, an **adult black dragon** begins stalking the players from [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd). Read:
 
 <div class="description">
 <p>A deep rumble reverberates through stonework of the castle, the rooftop shaking as tiles tremble and slide down into the endless abyss below. A chorus of a thousand screams echoes in the distance, but slowly growing closer.</p> 
@@ -1137,11 +1137,11 @@ The dragon, which acts on initiative count 0 of each round, acts as follows:
 
 **On its third turn**, the dragon enters the lounge and roars, shattering the glass in all west-facing windows. If its ***acid breath*** has recharged, it uses it again; otherwise, it attempts to squeeze through the windows, then stalk across the rooftops until it reaches a target for its ***multiattack***, preferring to approach any characters that have fallen to the ledge below the roof.
 
-The closet on the far side of the rooftop is a copy of the closet in [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70), though without the cloak hanging from the hook. A player who ascends through the trapdoor emerges in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68) in the corresponding section of [[#O8e. The Fifth Level]]. The dragon can't follow the players through the trapdoor.
+The closet on the far side of the rooftop is a copy of the closet in [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet), though without the cloak hanging from the hook. A player who ascends through the trapdoor emerges in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd) in the corresponding section of [[#O8e. The Fifth Level]]. The dragon can't follow the players through the trapdoor.
 ## O8e. The Fifth Level
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49 and K50.</em></span>
 
-This area is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) and [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70). However, the castle’s stone is bright, clean, and freshly carved, with its furniture pristine and newly crafted. In addition, the door leading to [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) lacks the ornate gold lock from [[#O8a. The First Level]].
+This area is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge) and [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k50-guest-room). However, the castle’s stone is bright, clean, and freshly carved, with its furniture pristine and newly crafted. In addition, the door leading to [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge) lacks the ornate gold lock from [[#O8a. The First Level]].
 
 A character who approaches the guest room hears the sound of a woman’s quiet sobs emanating from within. When a player first enters the guest room, read:
 
@@ -1161,7 +1161,7 @@ If asked, Varushka can share the following information:
 
 * She is Varushka, a servant of Castle Ravenloft. Until recently, she enjoyed her work. However, that changed ten days ago, "the day the sky turned red, and the mists rose around the valley." That morning, she saw "a great darkness" appear in King von Zarovich's chambers and speak to him. "He didn't see me, but I saw him as I cleaned," Varushka whispers. "Before I fled, I heard the whispering of a thousand voices—and saw a glimmer of amber in the air before him." 
 * Since then, the lord of the castle has begun visiting her in private. “He has become a monster," Varushka chokes, clutching her knees tighter to her chest. While he hasn’t taken any physical liberties with her—a small grace she is thankful for—he has fed upon her multiple times like a bat, draining the blood from her neck. (If asked, Varushka can confirm that the lord of the castle is Strahd, though she’s too fearful to speak his name aloud.)
-* When the lord first fed upon her, Varushka attempted to flee the keep, terrified for her life. Instead, however, she was apprehended and locked in the guest suite. “Rahadin, the chamberlain, keeps the key locked in his office desk, in the cellars far below us," she mourns. “There’s no chance I’ll ever escape." If asked, Varushka can inform the players that Rahadin’s office is close to the kitchens and servants’ hall, just past the guards’ meeting room and the kingsmen hall. (Varushka is referring to the chambers described in [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78) and [K70. Kingsmen Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79).)
+* When the lord first fed upon her, Varushka attempted to flee the keep, terrified for her life. Instead, however, she was apprehended and locked in the guest suite. “Rahadin, the chamberlain, keeps the key locked in his office desk, in the cellars far below us," she mourns. “There’s no chance I’ll ever escape." If asked, Varushka can inform the players that Rahadin’s office is close to the kitchens and servants’ hall, just past the guards’ meeting room and the kingsmen hall. (Varushka is referring to the chambers described in [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones) and [K70. Kingsmen Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k70-kingsmen-hall).)
 * Since Varushka’s imprisonment, the lord has visited her nightly to drink his fill. She now believes that there is no escape from her ultimate fate—but is determined to deny him the opportunity to turn her into a monster like him.
 * The half-locket was a gift from a "dear friend" of hers, named Katarina. ("I don't think I'll ever see her again, though," Varushka hiccups.) If asked about Katarina, Varushka looks sad, and shares only that she was someone with whom Varushka once thought she might share a future, though she knows that now to be impossible.
 
@@ -1169,14 +1169,14 @@ Varushka can’t leave the guest suite. If shown the exit, she regards it as a l
 
 Varushka isn’t sure why the players have appeared in her chambers, though she’s grateful for any comfort or reassurances they might provide to her. If the players treat her kindly and tell her that they wish to enter her closet, she warns them that “he" lurks there, “bloody and hungry, and filled with grief and rage and hate." (There is no doubt from the tone of her voice that she is referring to Strahd.) If the players move to enter the closet, she warns them that he is “young, and weaker than he may become," but that he is still a foe to be feared.
 
-The closet door doesn’t open into the guest suite closet. Instead, a player who opens the closet door emerges into [K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59), as described in [[#O8f. The Bloody Keep]] below.
+The closet door doesn’t open into the guest suite closet. Instead, a player who opens the closet door emerges into [K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance), as described in [[#O8f. The Bloody Keep]] below.
 
 > [!abstract]+ **Katarina’s Necklace**
 > If a player offers Varushka Katarina’s half of the two-piece necklace obtained in [[#O3b. The Rider’s Guidance]], Varushka is delighted to see it, but declines to accept it. “I think there is someone else who needs it more," she says softly, though she isn’t sure who that person might be. 
 ## O8f. The Bloody Keep
 <span class="citation"><em>This scene takes place in Chapter 4, Area K23.</em></span>
 
-A player who passes through the closet door in [[#O8e. The Fifth Level]] emerges into [K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59), as it was on the day of Strahd’s death nearly four centuries ago. Read:
+A player who passes through the closet door in [[#O8e. The Fifth Level]] emerges into [K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance), as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>Blood-red light streams in through a window on the east wall. A large, heavy table stands in the center of the floor, half-covered in a puddle of black ink from an overturned inkwell. A bloody dagger has been plunged into the pages of a thick book beside the inkwell, and a man’s corpse lies slumped against the leg of the table just beneath it.</p>
@@ -1191,9 +1191,9 @@ The splintered door leads into the Servants’ Rooms (see below). The staircase 
 ### Servants’ Rooms
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K24, K34, and K20.</em></span>
 
-This area includes [K24. Servants’ Quarters (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61), [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#page-64), and [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow), but as they were on the day of Strahd’s death.
+This area includes [K24. Servants’ Quarters (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k24-servants-quarters), [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k34-servants-upper-floor), and [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow), but as they were on the day of Strahd’s death.
 #### Servants’ Quarters
-A player who passes through the splintered door emerges into [K24. Servants’ Quarters (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61), as it was on the day of Strahd’s death nearly four centuries ago. Read:
+A player who passes through the splintered door emerges into [K24. Servants’ Quarters (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k24-servants-quarters), as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>Crimson light from the windows illuminates a tidy room containing several pieces of simple furniture, including a writing desk, a dozen wooden chairs, and a pair of tables decorated with floral-pattern tablecloths. A narrow staircase with a wooden railing ascends along the north wall.</p>
@@ -1205,13 +1205,13 @@ Varushka will not willingly leave her hiding place beneath the table. However, i
 
 Varushka is too terrified to share any information other than that “King Strahd" has gone mad, and is currently rampaging through the lower floors of the castle. “The skies have turned red," she sobs. “Are we all going to die?"
 #### Servants’ Upper Floor
-A player who ascends the stairs from the [[#Servants’ Quarters]] emerges into [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#page-64), as it was on the day of Strahd’s death nearly four centuries ago. Read:
+A player who ascends the stairs from the [[#Servants’ Quarters]] emerges into [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k34-servants-upper-floor), as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>Neat rows of small, tidy cots line the left-hand side of this upstairs room. A tall, dusty wardrobe roughly shaped like a coffin, its black doors painted with fey creatures, stands between two full-length mirrors hanging on the south wall. One of the mirrors hangs slightly askew.</p>
 </div>
 
-The mirror conceals the secret door described in [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#page-64). It can be pulled open to reveal a small, empty closet that contains a wooden ladder as described in [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#page-64).
+The mirror conceals the secret door described in [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k34-servants-upper-floor). It can be pulled open to reveal a small, empty closet that contains a wooden ladder as described in [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k34-servants-upper-floor).
 #### North Tower
 A player who passes through the secret door emerges into [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow), as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
@@ -1220,24 +1220,24 @@ A player who passes through the secret door emerges into [K20. Heart of Sorrow (
 <p>Below you, dark stone steps descend to a mosaic floor, hugging the outer wall of the ruined tower. In the center of the room below, another set of stairs leads further down.</p>
 </div>
 
-The lack of stairs makes further ascent in the ruined tower impossible. A player who descends the stairs finds that the corridor leading to [K13. Turret Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#page-57) has partially collapsed, blocking further exploration beyond the corridor’s midpoint.
+The lack of stairs makes further ascent in the ruined tower impossible. A player who descends the stairs finds that the corridor leading to [K13. Turret Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k13-turret-post-access-hall) has partially collapsed, blocking further exploration beyond the corridor’s midpoint.
 
-The second set of stairs below is as described in [K20a. Tower Hall Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59), and forms a loop with the [[#Castle Cellar]] via [K71. Kingsmen Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79).
+The second set of stairs below is as described in [K20a. Tower Hall Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20a-tower-hall-stair), and forms a loop with the [[#Castle Cellar]] via [K71. Kingsmen Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k71-kingsmen-quarters).
 ### Castle Cellar
 #### Servants’ Hall
-A player who descends the stairs from [K23. Servants' Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) emerges into [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#page-76), as it was on the day of Strahd’s death nearly four centuries ago. Read:
+A player who descends the stairs from [K23. Servants' Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance) emerges into [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#k62-servants-hall), as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>A final scream is cut abruptly silent as you descend the stone stairs. Three corpses clad in bloodied chain mail litter this long hall. The doors to the left and right stand closed, though the twin heavy double doors at the end of the hall have been thrown open. The upper torso of an additional corpse lies slumped at the base of a long, bloody smear along the right-side door, its severed legs discarded along the floor several feet away.</p>
 </div>
 
-The corridor beyond the left-side door leading to [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#page-74) has been bricked up and is currently inaccessible. The remaining rooms in this area are as follows:
+The corridor beyond the left-side door leading to [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k61-elevator-trap) has been bricked up and is currently inaccessible. The remaining rooms in this area are as follows:
 
 * ***Wine Cellar.*** The wine cellar is largely as described in [K63. Wine Cellar (p. 77)](../Source%20book/Curse%20of%20Strahd.md#k63-wine-cellar), but the casks are fresh and new, with no rats present.
-* ***Kitchen.*** The kitchen is largely as described in [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78), but with no odor of decay, no pot bubbling over the fire pit, and the fire pit unlit.
-* ***Butler’s Quarters.*** The butler’s quarters are largely as described in [K66. Butler’s Quarters (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78), but contains only a neat, primly made bed and a chest of drawers filled with clean and pressed tunics, slacks, and undergarments.
+* ***Kitchen.*** The kitchen is largely as described in [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k65-kitchen), but with no odor of decay, no pot bubbling over the fire pit, and the fire pit unlit.
+* ***Butler’s Quarters.*** The butler’s quarters are largely as described in [K66. Butler’s Quarters (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k66-butlers-quarters), but contains only a neat, primly made bed and a chest of drawers filled with clean and pressed tunics, slacks, and undergarments.
 #### Guards’ Meeting Room
-A player who passes through the double doors at the end of the servants’ hall emerges into [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#page-78), as it was on the day of Strahd’s death nearly four centuries ago. Read:
+A player who passes through the double doors at the end of the servants’ hall emerges into [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones), as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>You emerge from the door into a scene of bloodstained carnage. Red pools cover the floor of this area, which is further littered by a half-dozen broken corpses. Large oak tables, scarred and beaten, lay scattered like toys about the room, their wood crushed and splintered. Above the eastern doors is mounted the skull of a dragon.</p>
@@ -1252,9 +1252,9 @@ If the players haven’t previously encountered Strahd, add:
 
 The voice is recognizable as Strahd’s, but more full of emotion and life.
 
-The corridor beyond the southern door leading to [K68. Guards’ Run (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79) has been bricked up and is currently inaccessible.
+The corridor beyond the southern door leading to [K68. Guards’ Run (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k68-guards-run) has been bricked up and is currently inaccessible.
 #### Kingsmen Hall & Quarters
-***Kingsmen Hall.*** A player who passes through the half-open door at the northern end of the guards’ meeting hall, or who enters via the kingsmen quarters (see below), emerges into [K70. Kingsmen Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79), as it was on the day of Strahd’s death nearly four centuries ago. Read:
+***Kingsmen Hall.*** A player who passes through the half-open door at the northern end of the guards’ meeting hall, or who enters via the kingsmen quarters (see below), emerges into [K70. Kingsmen Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k70-kingsmen-hall), as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>This thirty-foot-square room is a shambles. Scattered furniture lies in heaps near the walls. Broken and bloody corpses lie scattered across the floor, many bearing crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force.</p>
@@ -1272,7 +1272,7 @@ At the time the players first arrive, this chamber is currently inhabited by a m
 > If players have been subjected to Vladimir's *oathbind* feature in [[Arc M - The Dragon's Manor]], it will still be in effect with the memory of Strahd in this scene.
 
 > [!info]+ **Memory of Strahd**
-> This memory of Strahd has the statistics described in [Strahd von Zarovich (p. 240)](../Source%20book/Curse%20of%20Strahd.md#page-240), but without the ***spellcasting*** feature, ***charm*** feature, ***children of the night*** feature, or any lair actions. In addition, instead of legendary actions, Strahd can take up to three reactions per round, but only one per turn. (If Strahd would lose his reactions, he loses one reaction instead.) He also gains the following reactions:
+> This memory of Strahd has the statistics described in [Strahd von Zarovich (p. 240)](../Source%20book/Curse%20of%20Strahd.md#strahd-von-zarovich-3), but without the ***spellcasting*** feature, ***charm*** feature, ***children of the night*** feature, or any lair actions. In addition, instead of legendary actions, Strahd can take up to three reactions per round, but only one per turn. (If Strahd would lose his reactions, he loses one reaction instead.) He also gains the following reactions:
 >
 > * ***Move.*** In response to taking damage from a ranged spell or ability, Strahd moves up to his speed without provoking opportunity attacks toward the attacker.
 > * ***Unarmed Strike.*** In response to a character within 5 feet hitting or missing him with an attack, Strahd makes one ***unarmed strike***.
@@ -1286,7 +1286,7 @@ The players can attempt to lure Strahd away from the door to the chamberlain’s
 
 A player who then tells Strahd of Leo Dilisnya’s whereabouts and succeeds on a DC 20 Charisma (Persuasion) check can convince Strahd to allow them and their companions to live. Otherwise, Strahd attacks them on sight, pursuing them wherever they go in the castle. However, if the players retreat into [[#O8e. The Fifth Level]] and close the door, Strahd can’t follow them inside.
 
-***Kingsmen Quarters.*** A player who passes through the archway in the kingsmen hall or descends [K20a. Tower Hall Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) from [[#North Tower]] emerges into [K71. Kingsmen Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79), as it was on the day of Strahd’s death nearly four centuries ago. Read:
+***Kingsmen Quarters.*** A player who passes through the archway in the kingsmen hall or descends [K20a. Tower Hall Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20a-tower-hall-stair) from [[#North Tower]] emerges into [K71. Kingsmen Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k71-kingsmen-quarters), as it was on the day of Strahd’s death nearly four centuries ago. Read:
 
 <div class="description">
 <p>This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are ten-foot-square alcoves cluttered with cots and fine rugs.</p>
@@ -1300,13 +1300,13 @@ If the players haven’t previously encountered Strahd, add:
 
 The voice is recognizable as Strahd’s, but more full of emotion and life.
 #### Chamberlain’s Office
-Rahadin’s office is largely as described in [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#page-79), except Rahadin and the **shadow demon** are not present, and players who uncover the secret door find that it has been bricked up.
+Rahadin’s office is largely as described in [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k72-chamberlains-office), except Rahadin and the **shadow demon** are not present, and players who uncover the secret door find that it has been bricked up.
 
 In addition, an ornate golden key that matches the pattern of the guest room keyhole lies upon the table. The key unlocks the locked door to the lounge in [[#O8a. The First Level]].
 ## O8g. Escaping the Nightmare
 The first time the players exit [[#O8f. The Bloody Keep]] after obtaining the guest room key, they emerge from the closet door directly into the guest room of [[#O8a. The First Level]].  However, Varushka’s corpse and noose are no longer present in the closet.
 
-The first time a player attempts to turn the guest room key in the ornate gold lock of the door leading from [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) to [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#page-68), the key half-turns, then sticks in the lock. A heartbeat later, sharp spikes burst from the metal of the keyhole, forcing that player to succeed on a DC 15 Dexterity saving throw or take 2d4 points of piercing damage. The guest-room clock then chimes again, causing the players to once more suffer the effects of **The Chiming Clock** (see above).
+The first time a player attempts to turn the guest room key in the ornate gold lock of the door leading from [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge) to [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd), the key half-turns, then sticks in the lock. A heartbeat later, sharp spikes burst from the metal of the keyhole, forcing that player to succeed on a DC 15 Dexterity saving throw or take 2d4 points of piercing damage. The guest-room clock then chimes again, causing the players to once more suffer the effects of **The Chiming Clock** (see above).
 
 A moment after the clock chimes, the spirit of Varushka appears behind the players. Read:
 
@@ -1583,11 +1583,11 @@ When the players awaken, Varushka appears to them as a **shadow** on the guest s
 
 The players recognize the **shadow** as bearing the same silhouette as Varushka. Though she can’t speak with the players in this form, Varushka can communicate through simple nods and gestures.
 
-Shortly after appearing to the players, Varushka opens the door to [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70) and pulls down the hook, allowing the trapdoor to swing open. If asked, she shyly attempts to communicate with the players that she wishes for them to follow her through the trapdoor.
+Shortly after appearing to the players, Varushka opens the door to [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet) and pulls down the hook, allowing the trapdoor to swing open. If asked, she shyly attempts to communicate with the players that she wishes for them to follow her through the trapdoor.
 
-If followed, Varushka guides the players through the trapdoor into [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k55-element-room), then leads them through [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#page-71) up [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) toward [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72). These chambers are largely as originally described, but with the following changes:
+If followed, Varushka guides the players through the trapdoor into [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k55-element-room), then leads them through [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#k54-familiar-room) up [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) toward [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof). These chambers are largely as originally described, but with the following changes:
 
-* ***Element Room.*** The Element Room contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. In addition, there are no **Barovian witches** in the nearby [K56. Cauldron (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72), which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair).
+* ***Element Room.*** The Element Room contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. In addition, there are no **Barovian witches** in the nearby [K56. Cauldron (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k56-cauldron), which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair).
 * ***Familiar Room.*** There are no **cats** in this room.
 
 Varushka’s **shadow** halts halfway up [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) and gestures to a section of the wall approximately two feet from the floor. A player who inspects this area finds that one of the bricks is loose, allowing it to be removed from the wall. The brick is hollow on the inside, and contains a rolled-up piece of parchment, a small satin pouch, and a copy of the *Seer* Tarokka card.
@@ -1598,15 +1598,15 @@ The pouch contains a diamond ring with a gold band worth 150 gp.
 
 Once the players have retrieved Varushka’s items, her **shadow** vanishes. (See [[#O10. Exploring the Castle]] below for more information should the players attempt to explore the castle after Varushka has left them.)
 # O10. Exploring the Castle
-If the players attempt to explore the castle after waking up, but before Strahd has sent for them, they can do so by exiting the guest suite via the hidden trapdoor in [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#page-70). 
+If the players attempt to explore the castle after waking up, but before Strahd has sent for them, they can do so by exiting the guest suite via the hidden trapdoor in [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet). 
 
-The trapdoor exits into the Element Room, which is largely as described in [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k55-element-room), except it also contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. There are no **Barovian witches** in the nearby [K56. Cauldron (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72), which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair).
+The trapdoor exits into the Element Room, which is largely as described in [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k55-element-room), except it also contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. There are no **Barovian witches** in the nearby [K56. Cauldron (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k56-cauldron), which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair).
 
-The Familiar Room is largely as described in [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#page-71), but currently contains no **cats**.
+The Familiar Room is largely as described in [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#k54-familiar-room), but currently contains no **cats**.
 
 The players can either ascend or descend [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair). Players who descend the staircase encounter the **vampire spawn** Escher, who remains stationed outside of the guest suite door. Players who successfully bypass Escher can continue to explore the castle as described in **Wandering Players** in [[#O6g. The Broken Drawbridge]] above.
 
-Players who ascend the offstair emerge onto [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#page-72). Players who do so can see a faint, crimson glow pulsating across [K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k58-bridge) from the interior of [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow), though the Heart itself isn’t visible from this angle.
+Players who ascend the offstair emerge onto [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof). Players who do so can see a faint, crimson glow pulsating across [K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k58-bridge) from the interior of [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow), though the Heart itself isn’t visible from this angle.
 
 The Heart of Sorrow is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow). However, the Heart is immune to all damage. In addition, when the players enter the tower from [K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k58-bridge), read:
 
@@ -1620,7 +1620,7 @@ The Heart of Sorrow is largely as described in [K20. Heart of Sorrow (p. 59)](..
 >
 > The Ladies—the Seeker, the Weaver, and the Huntress—mournfully struck their youngest sister down to protect the people of the valley. The Devourer’s corpse became the Whispering Wall at Yester Hill, but a god cannot fully die. Many years later, the wizards of the Amber Temple came upon the Devourer’s divine spark and sealed it in an amber sarcophagus at the Amber Temple.
 >
-> The Devourer was a master of the magic of souls—and so when Strahd first learned of the Grand Conjunction, he realized he could use her knowledge to construct his scheme to escape the Mists. He extracted the vestige of the Devourer from her amber prison in [X33d. Breached Vault (p. 192)](../Source%20book/Curse%20of%20Strahd.md#page-192) and forcefully resealed her in the Heart of Sorrow, where he could call upon her power and knowledge at will. 
+> The Devourer was a master of the magic of souls—and so when Strahd first learned of the Grand Conjunction, he realized he could use her knowledge to construct his scheme to escape the Mists. He extracted the vestige of the Devourer from her amber prison in [X33d. Breached Vault (p. 192)](../Source%20book/Curse%20of%20Strahd.md#x33d-breached-vault) and forcefully resealed her in the Heart of Sorrow, where he could call upon her power and knowledge at will. 
 >
 > The Devourer is no willing participant in Strahd’s schemes. However, while entrapped in the Heart of Sorrow, she is powerless to resist his torments.
 
@@ -1659,15 +1659,15 @@ Once appeased, Strahd directs the players to return to their suite, noting he sh
 # O11. Morning at Ravenloft
 Approximately an hour after dawn, Rahadin knocks on the door of the guest suite. Once the players open the door to greet him, Rahadin coldly informs the players that the drawbridge has been repaired, and that they are to dress and prepare themselves for their departure. If the players are ready to depart, Rahadin leads them downstairs; otherwise, he instructs them to be ready within the next ten minutes.
 
-Once the players are ready, Rahadin leads them down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#page-59) into [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#page-56), where Strahd is waiting to meet them.
+Once the players are ready, Rahadin leads them down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) into [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall), where Strahd is waiting to meet them.
 
 Strahd thanks the players for joining him for dinner and informs them that his carriage is waiting outside to return them home. “Simply speak the name of the settlement you wish to be taken to, and my steeds shall carry you there," he advises.
 
 As the players move to depart, Strahd claps one of them on the shoulder and smiles, though no warmth reaches his eyes. “I hope you have learned from our time together that I can be a most gracious host." He briefly pauses, then adds, with a dangerous glint in his eyes, “Shall our paths cross less fortuitously, however, be warned that my benevolence, like all things, has its eventual and inevitable end."
 
-As Rahadin escorts the players into [K1. Front Courtyard (p. 52)](../Source%20book/Curse%20of%20Strahd.md#page-52), they find that the rain has stopped, leaving only a grey and dreary morning behind. Strahd’s black carriage is waiting for the players, the carriage door opening silently at their approach. (The players can command the horses drawing the carriage to take them to Barovia, Vallaki, or Krezk.)
+As Rahadin escorts the players into [K1. Front Courtyard (p. 52)](../Source%20book/Curse%20of%20Strahd.md#k1-front-courtyard), they find that the rain has stopped, leaving only a grey and dreary morning behind. Strahd’s black carriage is waiting for the players, the carriage door opening silently at their approach. (The players can command the horses drawing the carriage to take them to Barovia, Vallaki, or Krezk.)
 
-As the carriage pulls away from the courtyard, the players can catch a final glimpse of Strahd’s brides watching them from the large, shattered, moon-shaped window in [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#page-61). Read the following, modifying it if either Ludmilla or Volenta are dead:
+As the carriage pulls away from the courtyard, the players can catch a final glimpse of Strahd’s brides watching them from the large, shattered, moon-shaped window in [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall). Read the following, modifying it if either Ludmilla or Volenta are dead:
 
 <div class="description">
 <p>As the horses begin to move, your gaze falls upon the great, round window that looks down upon the courtyard. The gaunt figures of Strahd’s three vampiric brides stand beyond it, their visages distorted beneath jagged fingers of broken glass as they watch the carriage slowly pull away.</p>

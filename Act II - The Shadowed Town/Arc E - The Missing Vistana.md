@@ -61,7 +61,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 >
 > * Arturi Radanavich will be removed from the campaign.
 > * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
-> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of [N9. Vistani Camp (p. 119)](../Source%20book/Curse%20of%20Strahd.md#page-119), and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
+> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of [N9. Vistani Camp (p. 119)](../Source%20book/Curse%20of%20Strahd.md#n9-vistani-camp), and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
 > * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
 > * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
 > * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
@@ -91,7 +91,7 @@ After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into t
 >
 > ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling Ireena Kolyana for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 
-Blinsky Toys is as described in [N7. Blinsky Toys (p. 118)](../Source%20book/Curse%20of%20Strahd.md#page-118). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
+Blinsky Toys is as described in [N7. Blinsky Toys (p. 118)](../Source%20book/Curse%20of%20Strahd.md#n7-blinsky-toys). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
 If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
@@ -106,12 +106,12 @@ As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards*
 # E2. Vistani Camp
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9.</em></span>
 
-The path from Vallaki to the Vistani Camp is as described in [N9. Vistani Camp (p. 119)](../Source%20book/Curse%20of%20Strahd.md#page-119). The journey is one-half mile long and takes approximately ten minutes.
+The path from Vallaki to the Vistani Camp is as described in [N9. Vistani Camp (p. 119)](../Source%20book/Curse%20of%20Strahd.md#n9-vistani-camp). The journey is one-half mile long and takes approximately ten minutes.
 
 When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see [[#E2a. The Vistani Encampment]]) or speak with one the dusk elves guarding the hovels at the base of the hill (see [[#E2b. Dusk Elf Hovels]]).
 ## E2a. The Vistani Encampment
 ### Entering the Vistani Camp
-The Vistani are largely as described in [Roleplaying the Vistani and the Elves (p. 119)](../Source%20book/Curse%20of%20Strahd.md#page-119), with the encampment largely as described in <span class="citation">N9c. Vistani Tent, N9d. Horses, N9e. Luvash's Wagon, N9f. Wagon of Sleeping Vistani, N9g. Wagon of Gambling Vistani, N9h. Vistani Family Wagon, and N9i. Vistani Treasure Wagon (pp. 121-23)</span>. 
+The Vistani are largely as described in [Roleplaying the Vistani and the Elves (p. 119)](../Source%20book/Curse%20of%20Strahd.md#roleplaying-the-vistani-and-the-elves), with the encampment largely as described in <span class="citation">N9c. Vistani Tent, N9d. Horses, N9e. Luvash's Wagon, N9f. Wagon of Sleeping Vistani, N9g. Wagon of Gambling Vistani, N9h. Vistani Family Wagon, and N9i. Vistani Treasure Wagon (pp. 121-23)</span>. 
 
 When the players first enter the tent, modify the descriptive text as follows:
 
@@ -179,7 +179,7 @@ Luvash asks the players to recover the ring from Kasimir, then research its sigi
 If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hovels** to meet with Kasimir.
 
 > [!abstract]+ **Tracking Arabelle**
-> If the players offer to track Arabelle from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of [P. Luna River Crossroads (p. 40)](../Source%20book/Curse%20of%20Strahd.md#page-40). As the players travel there, they pass through [[#E5a. Luna River Bridge]] and [[#E5b. Luna River Crossroads]].
+> If the players offer to track Arabelle from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of [P. Luna River Crossroads (p. 40)](../Source%20book/Curse%20of%20Strahd.md#p-luna-river-crossroads). As the players travel there, they pass through [[#E5a. Luna River Bridge]] and [[#E5b. Luna River Crossroads]].
 > 
 > A player who searches the area where Arabelle disappeared and makes a DC 15 Wisdom (Survival) check can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
 > 
@@ -187,7 +187,7 @@ If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hov
 > 
 > Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
 ## E2b. Dusk Elf Hovels
-The dusk elf hovels are as described in [N9b. Dusk Elf Hovels (p. 121)](../Source%20book/Curse%20of%20Strahd.md#page-121). The dusk elves themselves are as described in [Roleplaying the Vistani and the Elves (p. 119)](../Source%20book/Curse%20of%20Strahd.md#page-119). If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
+The dusk elf hovels are as described in [N9b. Dusk Elf Hovels (p. 121)](../Source%20book/Curse%20of%20Strahd.md#n9b-dusk-elf-hovels). The dusk elves themselves are as described in [Roleplaying the Vistani and the Elves (p. 119)](../Source%20book/Curse%20of%20Strahd.md#roleplaying-the-vistani-and-the-elves). If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
 
 If the players inquire about Luvash’s mission, the guard directs them to Kasimir's hovel. The guard notes, however, that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
 ## E2c. Kasimir’s Hovel
@@ -227,7 +227,7 @@ The players can find Kasimir sitting on the green rug facing the fire, meditatin
 > [!info]+ **What Kasimir Knows**
 > If asked about the different factions and locations throughout Barovia, Kasimir can provide the following information:
 > * ***The Forest Folk.*** "Their ancestors first discovered this valley thousands of years ago. They are a reclusive people, however, and today serve the Devil and his servants."
-> * ***Argynvostholt.*** Kasimir shares the information in [Vallaki Lore (p. 96)](../Source%20book/Curse%20of%20Strahd.md#page-96).
+> * ***Argynvostholt.*** Kasimir shares the information in [Vallaki Lore (p. 96)](../Source%20book/Curse%20of%20Strahd.md#vallaki-lore).
 > * ***The Amber Temple.*** Kasimir pauses thoughtfully, then shares that the Order of the Silver Dragon was once rumored to guard "secrets hidden in amber," and that their revenants and spirits yet haunt Argynvostholt to this day.
 > * ***The Werewolf Den.*** Kasimir shares that the werewolf pack has historically been bloodthirsty and brutal, but become far more reserved—even peaceful—a decade after Strahd entered hibernation. "I presume it was a change of leadership," he notes, "following the absence of pressure from the castle. With Strahd awoken, however, their aggression has reemerged." (Kasimir doesn't know where their den is, but knows that their activities have historically been focused on the western half of the valley.)
 
@@ -257,9 +257,9 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 # E3. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3.</em></span>
 
-The burgomaster's mansion is largely as described in [N3. Burgomaster's Mansion (p. 103)](../Source%20book/Curse%20of%20Strahd.md#page-103). However, the magic mirror in [N3p. Bridal Gown and Spirit Mirror (p. 108)](../Source%20book/Curse%20of%20Strahd.md#page-108) has been modified and moved to [N3t. Victor's Workroom (p. 109)](../Source%20book/Curse%20of%20Strahd.md#page-109). See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
+The burgomaster's mansion is largely as described in [N3. Burgomaster's Mansion (p. 103)](../Source%20book/Curse%20of%20Strahd.md#n3-burgomasters-mansion). However, the magic mirror in [N3p. Bridal Gown and Spirit Mirror (p. 108)](../Source%20book/Curse%20of%20Strahd.md#n3p-bridal-gown-and-spirit-mirror) has been modified and moved to [N3t. Victor's Workroom (p. 109)](../Source%20book/Curse%20of%20Strahd.md#n3t-victors-workroom). See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
 
-If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in [N3. Burgomaster's Mansion (p. 103)](../Source%20book/Curse%20of%20Strahd.md#page-103) and [N3e. Den (p. 106)](../Source%20book/Curse%20of%20Strahd.md#page-106). The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
+If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in [N3. Burgomaster's Mansion (p. 103)](../Source%20book/Curse%20of%20Strahd.md#n3-burgomasters-mansion) and [N3e. Den (p. 106)](../Source%20book/Curse%20of%20Strahd.md#n3e-den). The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
 ## E3a. Entering the Mansion
 If Ireena Kolyana has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
 
@@ -283,7 +283,7 @@ The Baron cannot be convinced with appeals to Arabelle’s safety, insisting tha
 
 If the players wish to visit the library, the baron summons Clavdia, the maid, to escort them to the library before departing. (Proceed to [[#E3b. Searching the Library]].) If the players wish to interview Tereska, the baron asks Clavdia to escort them to the kitchen instead. In both cases, as the Baron departs, he asks them to avoid discussing the spirit with anyone who lives outside the household. 
 
-The kitchen is largely as described in [N3g. Kitchen (p. 106)](../Source%20book/Curse%20of%20Strahd.md#page-106). The cook, Tereska, is a broad-shouldered, rough-hewn woman with a tough, no-nonsense attitude who wears her heart on her sleeve. She is reluctant to discuss the spirit, but can share the following information if asked:
+The kitchen is largely as described in [N3g. Kitchen (p. 106)](../Source%20book/Curse%20of%20Strahd.md#n3g-kitchen). The cook, Tereska, is a broad-shouldered, rough-hewn woman with a tough, no-nonsense attitude who wears her heart on her sleeve. She is reluctant to discuss the spirit, but can share the following information if asked:
 
 * The spirit has mostly been seen on the second floor, though strange sounds have been heard coming from the attic at night. 
 * Tereska experienced one particularly bad haunting while retrieving an old pot from the attic last week—an eerie presence, coupled with a cold draft and the unmistakable sound of breathing—which nearly pushed her to quit her job.
@@ -292,26 +292,26 @@ The kitchen is largely as described in [N3g. Kitchen (p. 106)](../Source%20book/
 * Few members of the household enter the attic anymore, though the Baron’s son, Victor Vallakovich, has been known to disappear into it for hours or even days at a time. When he does, Tereska usually leaves his meals on a table by the entrance to the attic and knocks on the trapdoor to alert him. 
 * If the players ask about Victor, Tereska notes that he eats too little and seems strangely isolated and terse for a young man his age, especially since the strange illness that struck “that Wachter girl” just over two months ago. (Tereska doesn’t remember her name, but knows that the girl was Lady Fiona Wachter’s daughter, and that she and Victor got along well.) Tereska declines to elaborate, insisting that the Baron’s family matters are none of her business.
 
-If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in [N3o. Master Bedroom (p. 108)](../Source%20book/Curse%20of%20Strahd.md#page-108). She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#E3c. Speaking with Victor]] below.
+If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in [N3o. Master Bedroom (p. 108)](../Source%20book/Curse%20of%20Strahd.md#n3o-master-bedroom). She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#E3c. Speaking with Victor]] below.
 ### 2. Infiltrating the Mansion
 The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by Izek Strazni one minute afterward. 
 
 The NPCs in the mansion behave as follows:
 
-* [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in [N3l. Library (p. 107)](../Source%20book/Curse%20of%20Strahd.md#page-107) during the day, and in [N3o. Master Bedroom (p. 108)](../Source%20book/Curse%20of%20Strahd.md#page-108) at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
-* Baroness Lydia Petrovna can generally be found in [N3c. Dining Room (p. 106)](../Source%20book/Curse%20of%20Strahd.md#page-106) during the day and in [N3o. Master Bedroom (p. 108)](../Source%20book/Curse%20of%20Strahd.md#page-108) at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
-* Victor Vallakovich can generally be found in [N3t. Victor's Workroom (p. 109)](../Source%20book/Curse%20of%20Strahd.md#page-109) both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
-* Tereska, the cook, can generally be found in [N3g. Kitchen (p. 106)](../Source%20book/Curse%20of%20Strahd.md#page-106) during the day, and in [N3f. Servants' Quarters (p. 106)](../Source%20book/Curse%20of%20Strahd.md#page-106) at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
-* Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in [N3f. Servants’ Quarters (p. 106)](../Source%20book/Curse%20of%20Strahd.md#page-106) at night. If she finds the players trespassing, she immediately raises the alarm.
+* [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in [N3l. Library (p. 107)](../Source%20book/Curse%20of%20Strahd.md#n3l-library) during the day, and in [N3o. Master Bedroom (p. 108)](../Source%20book/Curse%20of%20Strahd.md#n3o-master-bedroom) at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
+* Baroness Lydia Petrovna can generally be found in [N3c. Dining Room (p. 106)](../Source%20book/Curse%20of%20Strahd.md#n3c-dining-room) during the day and in [N3o. Master Bedroom (p. 108)](../Source%20book/Curse%20of%20Strahd.md#n3o-master-bedroom) at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
+* Victor Vallakovich can generally be found in [N3t. Victor's Workroom (p. 109)](../Source%20book/Curse%20of%20Strahd.md#n3t-victors-workroom) both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
+* Tereska, the cook, can generally be found in [N3g. Kitchen (p. 106)](../Source%20book/Curse%20of%20Strahd.md#n3g-kitchen) during the day, and in [N3f. Servants' Quarters (p. 106)](../Source%20book/Curse%20of%20Strahd.md#n3f-servants-quarters) at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
+* Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in [N3f. Servants’ Quarters (p. 106)](../Source%20book/Curse%20of%20Strahd.md#n3f-servants-quarters) at night. If she finds the players trespassing, she immediately raises the alarm.
 
 > [!abstract]+ **Banishment from Vallaki**
 > If Izek and the guards confront the players and defeat them in combat, they confiscate the players' weapons and throw them out of town, leaving them as food for the wolves of the Svalich Wood. The players awaken west of Vallaki, on the Old Svalich Road, stripped of their armor and any non-hidden weapons, equipment, or valuables. 
 > 
-> To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in [N3m. Locked Closet (p. 107)](../Source%20book/Curse%20of%20Strahd.md#page-107), near the chained Udo Lukovich.
+> To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in [N3m. Locked Closet (p. 107)](../Source%20book/Curse%20of%20Strahd.md#n3m-locked-closet), near the chained Udo Lukovich.
 ## E3b. Searching the Library
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3l.</em></span>
 
-If the players gain access to [N3l. Library (p. 107)](../Source%20book/Curse%20of%20Strahd.md#page-107), they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
+If the players gain access to [N3l. Library (p. 107)](../Source%20book/Curse%20of%20Strahd.md#n3l-library), they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
 
 In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while Ireena’s cause of death is marked as *Unknown (presumed devoured by wolves).*
 
@@ -337,7 +337,7 @@ Shortly after the players discover these records, however, they are interrupted 
 >
 > ***Relationships.*** Victor is the only child of Baron Vargas Vallakovich (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
 
-Victor, who is largely as described in [N3t. Victor's Workroom (p. 109)](../Source%20book/Curse%20of%20Strahd.md#page-109), is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
+Victor, who is largely as described in [N3t. Victor's Workroom (p. 109)](../Source%20book/Curse%20of%20Strahd.md#n3t-victors-workroom), is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
 If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of Arabelle’s disappearance or by making a successful DC 15 Charisma (Persuasion) check. 
 
@@ -383,19 +383,19 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 ## E3c. Speaking with Victor
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-Victor’s workroom is largely as described in [N3t. Victor’s Workroom (p. 109)](../Source%20book/Curse%20of%20Strahd.md#page-109), except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
+Victor’s workroom is largely as described in [N3t. Victor’s Workroom (p. 109)](../Source%20book/Curse%20of%20Strahd.md#n3t-victors-workroom), except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
 
 > [!Warning]+ Counterspell 2024
 > 
 > This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Arc H - The Lost Soul#Battle with the Hags|Arc H - The Lost Soul]].
 
 
-Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, there are no wooden dolls dressed as "disobedient pupils", and Victor has leaned the full-length mirror from [N3p. Bridal Gown and Spirit Mirror (p. 108)](../Source%20book/Curse%20of%20Strahd.md#page-108) against the wall beside the rug.
+Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, there are no wooden dolls dressed as "disobedient pupils", and Victor has leaned the full-length mirror from [N3p. Bridal Gown and Spirit Mirror (p. 108)](../Source%20book/Curse%20of%20Strahd.md#n3p-bridal-gown-and-spirit-mirror) against the wall beside the rug.
 
 The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of Stella Wachter.)
 
 > [!abstract]+ **Meeting Victor**
-> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in [N3t. Victor’s Workroom (p. 109)](../Source%20book/Curse%20of%20Strahd.md#page-109) if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
+> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in [N3t. Victor’s Workroom (p. 109)](../Source%20book/Curse%20of%20Strahd.md#n3t-victors-workroom) if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
 >
 > Shortly after the players enter the room, they can hear the sound of a sneeze from the corner where Victor is hiding. Victor then reveals himself—including his spellbook and the recognizable sigil upon it—and proceeds to speak with the players as described in [[#E3b. Searching the Library]] above.
 
@@ -435,12 +435,12 @@ Victor can tell the players that, while Szoldar and Yevgeni spend most mornings 
 >
 > According to the spellbook, a magical binding allowed Khazan to summon it by merely speaking his own name. With the aid of Khazan’s staff, Victor believes he may be able to rescue Stella’s soul from the Ethereal Plane and restore it to her body.
 >
-> Victor is, however, mistaken. Unlike the archmage’s spellbook, Strahd recovered Khazan’s staff from the remnants of his body. It is now concealed in [Crypt 15 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#page-88) in Castle Ravenloft. See [[Arc P - Ravenloft Heist]] for more information about Khazan's staff.
+> Victor is, however, mistaken. Unlike the archmage’s spellbook, Strahd recovered Khazan’s staff from the remnants of his body. It is now concealed in [Crypt 15 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#crypt-15) in Castle Ravenloft. See [[Arc P - Ravenloft Heist]] for more information about Khazan's staff.
 
 # E4. Lake Zarovich
 <span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
 
-Lake Zarovich is largely as described in [L. Lake Zarovich (p. 38)](../Source%20book/Curse%20of%20Strahd.md#page-38). However, Bluto is not present.
+Lake Zarovich is largely as described in [L. Lake Zarovich (p. 38)](../Source%20book/Curse%20of%20Strahd.md#l-lake-zarovich). However, Bluto is not present.
 
 As the players journey west toward Szoldar’s shack, read:
 
@@ -490,7 +490,7 @@ If the players retrieve the scrap of material, they find it to be a small, soake
 ## E5b. Luna River Crossroads
 <span class="citation"><em>This scene takes place in Chapter 2: Area P.</em></span>
 
-The Luna River Crossroads are largely as described in [P. Luna River Crossroads (p. 40)](../Source%20book/Curse%20of%20Strahd.md#page-40). 
+The Luna River Crossroads are largely as described in [P. Luna River Crossroads (p. 40)](../Source%20book/Curse%20of%20Strahd.md#p-luna-river-crossroads). 
 
 If this is the first time that the players have visited the Luna River Crossroads, four **twig blights** and two **scarecrows** are lying in wait here. Modify the area description as follows:
 
@@ -521,12 +521,12 @@ If the players approach the snapped signpost or move to leave the intersection, 
 # E6. Lake Baratok
 The journey from the Luna River Crossroads to Lake Baratok via the northwestern path is two and one-quarter miles long and takes forty-five minutes.
 
-Lake Baratok is as described in [Approaching the Tower (p. 167)](../Source%20book/Curse%20of%20Strahd.md#page-167). The tower itself is largely as described in [Chapter 11: Van Richten's Tower (p. 167)](../Source%20book/Curse%20of%20Strahd.md#chapter-11-van-richtens-tower).
+Lake Baratok is as described in [Approaching the Tower (p. 167)](../Source%20book/Curse%20of%20Strahd.md#approaching-the-tower). The tower itself is largely as described in [Chapter 11: Van Richten's Tower (p. 167)](../Source%20book/Curse%20of%20Strahd.md#chapter-11-van-richtens-tower).
 ## E6a. Ezmerelda’s Wagon
 <span class="citation"><em>This scene takes place in Chapter 11: Area V1.</em></span>
 
 ### Outside the Wagon
-Ezmerelda’s wagon is largely as described in [V1. Ezmerelda's Magic Wagon (p. 168)](../Source%20book/Curse%20of%20Strahd.md#page-168). However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
+Ezmerelda’s wagon is largely as described in [V1. Ezmerelda's Magic Wagon (p. 168)](../Source%20book/Curse%20of%20Strahd.md#v1-ezmereldas-magic-wagon). However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
 
 In addition, rather than a single wooden sign, a trio of wooden signs has been arranged in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
 
@@ -618,7 +618,7 @@ If eight different symbols are pressed in an incorrect sequence, their lights br
 ### 2. The Scaffolding
 <span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
 
-The scaffolding is as described in [V3. Rickety Scaffolding (p. 170)](../Source%20book/Curse%20of%20Strahd.md#page-170). If a creature climbs the scaffolding to the second floor, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
+The scaffolding is as described in [V3. Rickety Scaffolding (p. 170)](../Source%20book/Curse%20of%20Strahd.md#v3-rickety-scaffolding). If a creature climbs the scaffolding to the second floor, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
 
 <div class="statblock">
 <h2>Gargoyle</h2>
@@ -712,7 +712,7 @@ The handwriting matches the handwriting of the excerpt of *Van Richten's Guide t
 # E7. The Road Back
 The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
 
-When the players begin the trek back to Vallaki—either by the northern path or the Old Svalich Road to the south—the werewolves follow. Fifteen minutes after the players depart the lake, they encounter the two werewolves in human form. The scene unfolds largely as described in [Werewolves (p. 32)](../Source%20book/Curse%20of%20Strahd.md#page-32), but revise the descriptive text as follows: 
+When the players begin the trek back to Vallaki—either by the northern path or the Old Svalich Road to the south—the werewolves follow. Fifteen minutes after the players depart the lake, they encounter the two werewolves in human form. The scene unfolds largely as described in [Werewolves (p. 32)](../Source%20book/Curse%20of%20Strahd.md#werewolves), but revise the descriptive text as follows: 
 
 <div class="description">
 <p>A deep voice calls out, "Who goes there?" Through the chill mist you see a large man in drab clothing wearing a tattered gray cloak. He has shaggy, black hair and thick mutton chops. He leans heavily on a spear and has a small bundle of animal pelts slung over his shoulder.</p>

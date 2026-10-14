@@ -34,7 +34,7 @@ The envelope contains the following letter, with the blank filled with the name 
 <p>Lady Fiona Wachter</p>
 </div>
 
-If the players ask Urwin about Lady Wachter, he can share all of the information about her described in [Vallaki Lore (p. 96)](../Source%20book/Curse%20of%20Strahd.md#page-96). However, instead of describing Lady Wachter's "mad daughter," Urwin shares only that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons. He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. (Urwin, who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
+If the players ask Urwin about Lady Wachter, he can share all of the information about her described in [Vallaki Lore (p. 96)](../Source%20book/Curse%20of%20Strahd.md#vallaki-lore). However, instead of describing Lady Wachter's "mad daughter," Urwin shares only that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons. He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. (Urwin, who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
 # F2. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
@@ -46,9 +46,9 @@ Additionally, Stella's room is neither musty nor dark, and her bed is not fitted
 
 ***Storage Room.*** The manuscript and treatise contained in the iron chest in [N4q. Storage Room (p. 114)](../Source%20book/Curse%20of%20Strahd.md#n4q-storage-room) are now titled *Voices of the Mist* (a religious text written by Lady Fiona Wachter attesting that the worship of Ezra, goddess of the Mists, can bring peace, understanding, and solemnity), and *The Grimoire of Night's Whispers*, a ritual book and religious text to Mother Night written by the witch Baba Lysaga.
 
-***Master Bedroom.*** Lady Wachter’s late husband, Nikolai, was buried in the cemetery after his death several years ago and is no longer in Lady Wachter’s bed in [N4o. Master Bedroom (p. 113)](../Source%20book/Curse%20of%20Strahd.md#page-113).
+***Master Bedroom.*** Lady Wachter’s late husband, Nikolai, was buried in the cemetery after his death several years ago and is no longer in Lady Wachter’s bed in [N4o. Master Bedroom (p. 113)](../Source%20book/Curse%20of%20Strahd.md#n4o-master-bedroom).
 
-Additionally, the high shelf in [N4o. Master Bedroom (p. 113)](../Source%20book/Curse%20of%20Strahd.md#page-113) also holds a thirteen-inch scale model of Wachterhaus, crafted of twigs, clay, and painted thatch. The iron chest beside it still contains the bones of Leo Dilisnya, though Lady Wachter doesn't know its significance.
+Additionally, the high shelf in [N4o. Master Bedroom (p. 113)](../Source%20book/Curse%20of%20Strahd.md#n4o-master-bedroom) also holds a thirteen-inch scale model of Wachterhaus, crafted of twigs, clay, and painted thatch. The iron chest beside it still contains the bones of Leo Dilisnya, though Lady Wachter doesn't know its significance.
 
 ***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
 
@@ -63,13 +63,13 @@ As the players approach Wachterhaus, read the following description instead of t
 <p>A thick garden, filled with herbs and vines stands beside this wide, red-roofed manor. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. A handsome red-painted door stands at the house's entrance, its upper half set with frosted glass.</p>
 </div>
 
-When the players knock upon arrival, Lady Wachter's valet, Haliq, opens the door and welcomes the players warmly, using the same form of address used in Lady Wachter's letter. Haliq, a prim and proper butler, first offers to take the players' coats and other belongings, which he stores in the eastern closet of [N4a. Front Door and Vestibule (p. 110)](../Source%20book/Curse%20of%20Strahd.md#page-110). 
+When the players knock upon arrival, Lady Wachter's valet, Haliq, opens the door and welcomes the players warmly, using the same form of address used in Lady Wachter's letter. Haliq, a prim and proper butler, first offers to take the players' coats and other belongings, which he stores in the eastern closet of [N4a. Front Door and Vestibule (p. 110)](../Source%20book/Curse%20of%20Strahd.md#n4a-front-door-and-vestibule). 
 
-Haliq then leads the players into [N4b. Staircase (p. 110)](../Source%20book/Curse%20of%20Strahd.md#page-110), from which they can smell an assortment of delicious scents, both sweet and savory, wafting from [N4c. Kitchen (p. 112)](../Source%20book/Curse%20of%20Strahd.md#n4c-kitchen). (A player who peeks through the open door into the kitchen can see the cook, Dhavit, hard at work preparing a roast leg of lamb and assorted stewed vegetables.) 
+Haliq then leads the players into [N4b. Staircase (p. 110)](../Source%20book/Curse%20of%20Strahd.md#n4b-staircase), from which they can smell an assortment of delicious scents, both sweet and savory, wafting from [N4c. Kitchen (p. 112)](../Source%20book/Curse%20of%20Strahd.md#n4c-kitchen). (A player who peeks through the open door into the kitchen can see the cook, Dhavit, hard at work preparing a roast leg of lamb and assorted stewed vegetables.) 
 
-Haliq then guides the players through [N4j. Dining Room (p. 112)](../Source%20book/Curse%20of%20Strahd.md#page-112) and invites them to take seats in [N4i. Parlor (p. 112)](../Source%20book/Curse%20of%20Strahd.md#page-112). After determining which players would like glasses of wine, Haliq assures the players that Lady Wachter will be with them shortly and excuses himself.
+Haliq then guides the players through [N4j. Dining Room (p. 112)](../Source%20book/Curse%20of%20Strahd.md#n4j-dining-room) and invites them to take seats in [N4i. Parlor (p. 112)](../Source%20book/Curse%20of%20Strahd.md#n4i-parlor). After determining which players would like glasses of wine, Haliq assures the players that Lady Wachter will be with them shortly and excuses himself.
 
-The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to [N4k. Den (p. 112)](../Source%20book/Curse%20of%20Strahd.md#page-112) or [N4h. Servants' Quarters (p. 112)](../Source%20book/Curse%20of%20Strahd.md#page-112), they find both doors to be locked. Throughout the evening, Ernst Larnak, Lady Wachter’s spy, silently eavesdrops on the players’ conversations from the den as described in [N4i. Parlor (p. 112)](../Source%20book/Curse%20of%20Strahd.md#page-112). 
+The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to [N4k. Den (p. 112)](../Source%20book/Curse%20of%20Strahd.md#n4k-den) or [N4h. Servants' Quarters (p. 112)](../Source%20book/Curse%20of%20Strahd.md#n4h-servants-quarters), they find both doors to be locked. Throughout the evening, Ernst Larnak, Lady Wachter’s spy, silently eavesdrops on the players’ conversations from the den as described in [N4i. Parlor (p. 112)](../Source%20book/Curse%20of%20Strahd.md#n4i-parlor). 
 ## F2b. Meet the Wachters
 Shortly after the players arrive in the parlor, they notice that a young woman wearing slippers and a white nightgown, approximately sixteen years of age, is standing in the open doorway leading back to the staircase and front entrance. The woman appears to be staring vacantly into space toward them, but neither moves nor makes eye contact—even if approached.
 
@@ -130,7 +130,7 @@ Lady Wachter may also respond to player questions as follows:
 > If asked about the different factions and locations throughout Barovia, Lady Wachter can provide the following information:
 > 
 > * ***The Forest Folk.*** "They are descendants of the original inhabitants of the valley who now worship Count von Zarovich as a god. They use Yester Hill as a gathering place, but reside throughout the Svalich Wood."
-> * ***Argynvostholt.*** Lady Wachter shares the information in [Vallaki Lore (p. 96)](../Source%20book/Curse%20of%20Strahd.md#page-96).
+> * ***Argynvostholt.*** Lady Wachter shares the information in [Vallaki Lore (p. 96)](../Source%20book/Curse%20of%20Strahd.md#vallaki-lore).
 > * ***The Amber Temple.*** Lady Wachter can share that she once heard of an "order of knights" inhabiting the abandoned manor to the west, which was said to guard a place called the "Amber Temple." (She learned of this from her mentor, the swamp witch Baba Lysaga, who she refers to only as "Lysa.") She knows little else, however.
 > * ***The Werewolf Pack.*** "An uncivilized assortment of bloodthirsty brutes. Their aggression has intensified as of late, I fear, but Vallaki's walls and silver have kept us safe." (Lady Wachter doesn't know where the pack's den lies, and doesn't know enough to speculate.)
 
@@ -159,7 +159,7 @@ Should the players indicate an opposition to the Baron, Lady Wachter confesses t
 * Baron Vargas Vallakovich first came to power as burgomaster eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
 * Vargas is a firm believer in the superstition that the Devil Strahd first arrived as a punishment for the sins of the Barovians’ ancestors. He has therefore always had a strange fixation on the idea that “happiness” may one day allow the Vallakian people to return sunlight to the valley, hosting weekly “festivals” that most have always considered to be dull affairs.
 * Ever since Strahd’s awakening three months ago, Vargas’s once-harmless beliefs have become an obsessive fixation. He has instituted weekly festivals and made attendance mandatory. 
-* Vargas has also criminalized “malicious unhappiness,” as described in [Donkey-Headed Criminals (p. 119)](../Source%20book/Curse%20of%20Strahd.md#page-119). While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week as described in [N3m. Locked Closet (p. 107)](../Source%20book/Curse%20of%20Strahd.md#page-107). Udo hasn’t been seen since.
+* Vargas has also criminalized “malicious unhappiness,” as described in [Donkey-Headed Criminals (p. 119)](../Source%20book/Curse%20of%20Strahd.md#donkey-headed-criminals). While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week as described in [N3m. Locked Closet (p. 107)](../Source%20book/Curse%20of%20Strahd.md#n3m-locked-closet). Udo hasn’t been seen since.
 * Vargas’s fear and paranoia have even driven him to bar the refugees from the village of Barovia from entering Vallaki—an enormous abuse of power that has caused significant and undeserved suffering.
 * Vargas’s will is enforced by his right-hand man, Izek Strazni, who serves both as Vallaki’s Captain of the Guard and as Vargas’s personal enforcer. 
 
@@ -325,7 +325,7 @@ Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bo
 
 As Izek is leaving the Morning Gate, he idly commands one of the guards standing watch to purchase and deliver a dream pastry for him when the peddler returns the following day.
 ### 4. End of the Day
-When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to [N7. Blinsky Toys (p. 118)](../Source%20book/Curse%20of%20Strahd.md#page-118), where he attempts to pick up the doll that looks like Ireena Kolyana. 
+When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to [N7. Blinsky Toys (p. 118)](../Source%20book/Curse%20of%20Strahd.md#n7-blinsky-toys), where he attempts to pick up the doll that looks like Ireena Kolyana. 
 
 > [!abstract]+ **The Missing Doll**
 >
@@ -534,7 +534,7 @@ If the players return to Wachterhaus to obtain their promised compensation (if a
 
 All of the weapons, ammunition, and armor were taken from an old armory whose location was lost for several years due to Izek’s chronic mismanagement.
 
-If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading, or if she previously promised to share that information upon Izek's death, she guides them upstairs to [N4p. Library (p. 113)](../Source%20book/Curse%20of%20Strahd.md#page-113). There, she retrieves a thin, worn volume from an upper shelf titled *The Noble House of Wachter* by Lady Lovina Wachter.
+If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading, or if she previously promised to share that information upon Izek's death, she guides them upstairs to [N4p. Library (p. 113)](../Source%20book/Curse%20of%20Strahd.md#n4p-library). There, she retrieves a thin, worn volume from an upper shelf titled *The Noble House of Wachter* by Lady Lovina Wachter.
 
 Lady Wachter can share the following information as she retrieves and leafs through the book:
 

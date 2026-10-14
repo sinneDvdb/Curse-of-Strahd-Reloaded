@@ -12,7 +12,7 @@ Should the players survive the final leg of their journey, they emerge before th
 Upon learning from the spirit of Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian Vistani encampment, which is as described in [[Arc E - The Missing Vistana#E2. Vistani Camp|Arc E - The Missing Vistana]].
 
 > [!info]+ **Kasimir’s Spellbook**
-> Kasimir’s spellbook largely contains the spells described in [N9a. Kasimir’s Hovel (p. 121)](../Source%20book/Curse%20of%20Strahd.md#page-121). However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
+> Kasimir’s spellbook largely contains the spells described in [N9a. Kasimir’s Hovel (p. 121)](../Source%20book/Curse%20of%20Strahd.md#n9a-kasimirs-hovel). However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
 
 When the players first arrive, Kasimir is drinking tea and reading a book titled *The Crags of Mount Ghakis* by Finderway Ulbrek. If the players knock on the door, Kasimir marks his page, places it on his meditation mat by the fireplace, and goes to greet them.
 
@@ -81,7 +81,7 @@ Kasimir is glad to make small talk with the players while he prepares their tea.
 
 If any player asks him about the Amber Temple or his visit to Argynvostholt, however, a player with a passive Wisdom (Insight) score of 10 or greater notices Kasimir immediately stiffens. He is willing to share the following information:
 
-* ***If asked about Argynvostholt.*** Kasimir claims he recently found himself in the vicinity of Argynvostholt while assisting in the search for Arabelle. However, he took refuge in the manor for the reasons described in [Q11. Wine Storage (p. 133)](../Source%20book/Curse%20of%20Strahd.md#page-133). "I do recall speaking with one of the knights there to ask whether he had seen her," he says, his brow furrowing. "It had been some time since I had last encountered the Order of the Silver Dragon, so our conversation may have wandered down other paths. I can’t recall which other specific topics we discussed, however." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir is sweating slightly, his eyes occasionally darting to the side as he speaks.)
+* ***If asked about Argynvostholt.*** Kasimir claims he recently found himself in the vicinity of Argynvostholt while assisting in the search for Arabelle. However, he took refuge in the manor for the reasons described in [Q11. Wine Storage (p. 133)](../Source%20book/Curse%20of%20Strahd.md#q11-wine-storage). "I do recall speaking with one of the knights there to ask whether he had seen her," he says, his brow furrowing. "It had been some time since I had last encountered the Order of the Silver Dragon, so our conversation may have wandered down other paths. I can’t recall which other specific topics we discussed, however." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir is sweating slightly, his eyes occasionally darting to the side as he speaks.)
 * ***If asked about the existence of the Amber Temple.*** Kasimir pauses in mock-thought, then shares that the Amber Temple was once rumored, according to legend, to guard "secrets hidden in amber." "No one has ever seen it, however," he adds with a wry laugh. "Some legends are just legends, I suppose." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir’s voice trembles slightly as he speaks, and that he seems to be avoiding making eye contact.)
 * ***If asked about his interest in the Amber Temple.*** Kasimir chuckles, then asks whether the players have acquired an interest in "dusty old legends." "I’m afraid I have no knowledge of what you’re talking about," he insists. "I don’t think I’ve heard anyone mention that particular myth in centuries." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir’s chuckle is more nervous than mirthful, and that his hands are trembling as he speaks.)
 
@@ -300,7 +300,7 @@ The players can purchase cold-weather clothing from [N5. Arasek Stockyard (p. 11
 > * ***Barovia.*** The church and the Burgomaster’s manor
 > * ***Svalich Woods.*** Tser Falls, Old Bonegrinder, Lake Zarovich, Lake Baratok, Argynvostholt, the werewolf den, the Wizard of Wines, Yester Hill
 >
-> Even if Strahd can’t immediately identify the specific location where the players are staying, he can immediately identify the region where they can be found (e.g., the town of Vallaki) by inspecting their surroundings. If the scrying spell fails (e.g., because the players are concealed by [Khazan’s Spell Drain (p. 167)](../Source%20book/Curse%20of%20Strahd.md#page-167) at Van Richten’s Tower, Strahd assumes they are residing at Van Richten’s Tower.
+> Even if Strahd can’t immediately identify the specific location where the players are staying, he can immediately identify the region where they can be found (e.g., the town of Vallaki) by inspecting their surroundings. If the scrying spell fails (e.g., because the players are concealed by [Khazan’s Spell Drain (p. 167)](../Source%20book/Curse%20of%20Strahd.md#khazans-spell-drain) at Van Richten’s Tower, Strahd assumes they are residing at Van Richten’s Tower.
 >
 > Whether he knows the players’ specific location or not, Strahd then uses the teleportation brazier in [[Arc P - Ravenloft Heist#P11e. Brazier Room|P11e. Brazier Room]] to teleport to the area nearest the players’ current location. Upon arriving, if he doesn’t know the players’ specific location, he summons twenty **wolves**, twenty **swarms of bats**, and/or twenty **swarms of rats** and instructs them to explore the area (in pairs) to discern the players’ specific location. Strahd learns the players’ location if at least one spy is able to report it back to him.
 > 
@@ -321,17 +321,17 @@ Depending on the players’ resting place, Strahd uses a different strategy or s
 
 | Player Location | Strahd's Strategy |
 |-----------------|-------------------|
-| [E4. Burgomaster's Mansion (p. 44)](../Source%20book/Curse%20of%20Strahd.md#page-44) | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
-| [E5. Church (p. 45)](../Source%20book/Curse%20of%20Strahd.md#page-45) | Strahd uses [[#The Bat]], followed by [[#The Swarm]], [[#The Visitor]], [[#The Command]], and [[#The Storm]]. |
-| [N1. St. Andral's Church (p. 97)](../Source%20book/Curse%20of%20Strahd.md#page-97) | Strahd uses [[#The Storm]]. |
+| [E4. Burgomaster's Mansion (p. 44)](../Source%20book/Curse%20of%20Strahd.md#e4-burgomasters-mansion) | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
+| [E5. Church (p. 45)](../Source%20book/Curse%20of%20Strahd.md#e5-church) | Strahd uses [[#The Bat]], followed by [[#The Swarm]], [[#The Visitor]], [[#The Command]], and [[#The Storm]]. |
+| [N1. St. Andral's Church (p. 97)](../Source%20book/Curse%20of%20Strahd.md#n1-st-andrals-church) | Strahd uses [[#The Storm]]. |
 | [N2. Blue Water Inn (p. 98)](../Source%20book/Curse%20of%20Strahd.md#n2-blue-water-inn) | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
-| [N3. Burgomaster's Mansion (p. 103)](../Source%20book/Curse%20of%20Strahd.md#page-103) | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
+| [N3. Burgomaster's Mansion (p. 103)](../Source%20book/Curse%20of%20Strahd.md#n3-burgomasters-mansion) | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | [N4. Wachterhaus (p. 110)](../Source%20book/Curse%20of%20Strahd.md#n4-wachterhaus) | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
-| [N9. Vistani Camp (p. 119)](../Source%20book/Curse%20of%20Strahd.md#page-119) | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
+| [N9. Vistani Camp (p. 119)](../Source%20book/Curse%20of%20Strahd.md#n9-vistani-camp) | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
 | [Chapter 6: Old Bonegrinder (p. 125)](../Source%20book/Curse%20of%20Strahd.md#chapter-6-old-bonegrinder) | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | [Chapter 7: Argynvostholt (p. 129)](../Source%20book/Curse%20of%20Strahd.md#chapter-7-argynvostholt) | Strahd uses [[#The Hostage]]. |
-| [S3. Village of Krezk (p. 145)](../Source%20book/Curse%20of%20Strahd.md#page-145) | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Storm]]. |
-| [S19. Barracks (p. 154)](../Source%20book/Curse%20of%20Strahd.md#page-154) | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
+| [S3. Village of Krezk (p. 145)](../Source%20book/Curse%20of%20Strahd.md#s3-village-of-krezk) | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Storm]]. |
+| [S19. Barracks (p. 154)](../Source%20book/Curse%20of%20Strahd.md#s19-barracks) | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
 | <span class="citation">T4-5. Guard Tower, Ground/Upper Floor (pp. 157-59)</span> | Strahd uses [[#The Hostage]]. |
 | [Chapter 11: Van Richten's Tower (p. 167)](../Source%20book/Curse%20of%20Strahd.md#chapter-11-van-richtens-tower) | Strahd uses [[#The Visitor]], followed by [[#The Horde]]. |
 | [Chapter 12: The Wizard of Wines (p. 173)](../Source%20book/Curse%20of%20Strahd.md#chapter-12-the-wizard-of-wines) | Strahd uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
@@ -593,7 +593,7 @@ Strahd departs only when the chosen victim is dead. When he does, he warns the p
 # R4. Tsolenka Pass
 
 > [!warning]+ **Kasimir’s Spellbook**
-> Kasimir’s spellbook largely contains the spells described in [N9a. Kasimir’s Hovel (p. 121)](../Source%20book/Curse%20of%20Strahd.md#page-121). However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
+> Kasimir’s spellbook largely contains the spells described in [N9a. Kasimir’s Hovel (p. 121)](../Source%20book/Curse%20of%20Strahd.md#n9a-kasimirs-hovel). However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
 
 ## R4a. Setting Off
 At dawn on the first day after the players inform Kasimir that they are ready to begin the journey up Mt. Ghakis, Kasimir meets them outside the front of his cottage bearing a backpack and simple traveler’s clothes to travel to the Amber Temple. If asked, Kasimir can share that the journey to the Temple is as follows:
@@ -640,7 +640,7 @@ If, after he has finished his story, the players ask Kasimir why he lied about h
 ## R4b. The Druids’ Vengeance
 The journey from the dusk elf encampment to the Raven River Crossroads is four and one-quarter miles and takes one hour and twenty-five minutes.
 
-This area is largely as described in [R. Raven River Crossroads (p. 40)](../Source%20book/Curse%20of%20Strahd.md#page-40). However, the crossroads now hides three poisoned spiked pit traps (<span class="citation">Dungeon Master’s Guide, p. 122</span>), concealed as described in [False Trail (p. 30)](../Source%20book/Curse%20of%20Strahd.md#page-30). A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit traps.
+This area is largely as described in [R. Raven River Crossroads (p. 40)](../Source%20book/Curse%20of%20Strahd.md#r-raven-river-crossroads). However, the crossroads now hides three poisoned spiked pit traps (<span class="citation">Dungeon Master’s Guide, p. 122</span>), concealed as described in [False Trail (p. 30)](../Source%20book/Curse%20of%20Strahd.md#false-trail). A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit traps.
 
 Together, the pit traps form a diagonal across the road that runs from the start of the path to Lake Baratok (lake path) to the start of the trail to Mt. Ghakis (mountain trail). A 2-foot-wide catwalk between each pit trap provides safe passage between them.
 
@@ -831,7 +831,7 @@ The players have one round to prepare themselves before the snow maidens attack.
 <p>With a shriek, they descend upon you.</p>
 </div>
 
-The snow maidens are largely as described in [T6. Guard Tower Rooftop (p. 159)](../Source%20book/Curse%20of%20Strahd.md#page-159), but with the following changes:
+The snow maidens are largely as described in [T6. Guard Tower Rooftop (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t6-guard-tower-rooftop), but with the following changes:
 
 * The maidens are elementals instead of undead 
 * The maidens have 76 (17d8) hit points each
@@ -947,7 +947,7 @@ In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in 
 ## R4e. The Gatehouse
 The journey from the crevasse to the gatehouse is one and three-quarter miles long. It takes one hour and ten minutes if the players are traveling the day after the blizzard (due to the high snow banks), and two hours if the players are traveling during the blizzard.
 
-The players’ arrival at the gatehouse is largely as described in [T1. Gatehouse Portcullis (p. 157)](../Source%20book/Curse%20of%20Strahd.md#page-157), [T2. Demon Statues (p. 157)](../Source%20book/Curse%20of%20Strahd.md#page-157), and [T3. Curtain of Green Flame (p. 157)](../Source%20book/Curse%20of%20Strahd.md#page-157). However, add the following sentence to the end of the description of [T1. Gatehouse Portcullis (p. 157)](../Source%20book/Curse%20of%20Strahd.md#page-157):
+The players’ arrival at the gatehouse is largely as described in [T1. Gatehouse Portcullis (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t1-gatehouse-portcullis), [T2. Demon Statues (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t2-demon-statues), and [T3. Curtain of Green Flame (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t3-curtain-of-green-flame). However, add the following sentence to the end of the description of [T1. Gatehouse Portcullis (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t1-gatehouse-portcullis):
 
 <div class="description">
 <p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
@@ -969,7 +969,7 @@ In addition, increase the number of petrified vrocks to four. (If present, Kasim
 
 A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
-The guard tower of the gatehouse is as described in [T4. Guard Tower, Ground Floor (p. 157)](../Source%20book/Curse%20of%20Strahd.md#page-157), [T5. Guard Tower, Upper Floor (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t5-guard-tower-upper-floor), and [T6. Guard Tower Rooftop (p. 159)](../Source%20book/Curse%20of%20Strahd.md#page-159).
+The guard tower of the gatehouse is as described in [T4. Guard Tower, Ground Floor (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t4-guard-tower-ground-floor), [T5. Guard Tower, Upper Floor (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t5-guard-tower-upper-floor), and [T6. Guard Tower Rooftop (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t6-guard-tower-rooftop).
 ## R4f. The Tyrant’s Second Trial
 No matter where the players choose to rest, the blizzard comes to an end shortly after they begin their long rest. Read:
 
@@ -1211,7 +1211,7 @@ When the players awaken the following morning, the weather is crisp and cold, wi
 > [!info]+ **Traveling to the Gatehouse**
 > If the players chose to find shelter instead of proceeding toward the gatehouse the previous night, the journey from their place of shelter to the gatehouse is two-and-three-quarter miles long and takes one hour and fifty minutes. 
 > 
-> The players’ arrival at the gatehouse is largely as described in [T1. Gatehouse Portcullis (p. 157)](../Source%20book/Curse%20of%20Strahd.md#page-157), [T2. Demon Statues (p. 157)](../Source%20book/Curse%20of%20Strahd.md#page-157), and [T3. Curtain of Green Flame (p. 157)](../Source%20book/Curse%20of%20Strahd.md#page-157). However, add the following sentence to the end of the description of [T1. Gatehouse Portcullis (p. 157)](../Source%20book/Curse%20of%20Strahd.md#page-157):
+> The players’ arrival at the gatehouse is largely as described in [T1. Gatehouse Portcullis (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t1-gatehouse-portcullis), [T2. Demon Statues (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t2-demon-statues), and [T3. Curtain of Green Flame (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t3-curtain-of-green-flame). However, add the following sentence to the end of the description of [T1. Gatehouse Portcullis (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t1-gatehouse-portcullis):
 >
 > <hr>
 > 
@@ -1223,9 +1223,9 @@ When the players awaken the following morning, the weather is crisp and cold, wi
 > 
 > A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 > 
-> The guard tower of the gatehouse is as described in [T4. Guard Tower, Ground Floor (p. 157)](../Source%20book/Curse%20of%20Strahd.md#page-157), [T4. Guard Tower, Upper Floor (p. 159)](../Source%20book/Curse%20of%20Strahd.md#page-159), and [T6. Guard Tower Rooftop (p. 159)](../Source%20book/Curse%20of%20Strahd.md#page-159).
+> The guard tower of the gatehouse is as described in [T4. Guard Tower, Ground Floor (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t4-guard-tower-ground-floor), [T4. Guard Tower, Upper Floor (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t5-guard-tower-upper-floor), and [T6. Guard Tower Rooftop (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t6-guard-tower-rooftop).
 
-The bridge beyond the gatehouse is largely as described in [T7. Western Arch (p. 159)](../Source%20book/Curse%20of%20Strahd.md#page-159), [T8. Stone Bridge (p. 159)](../Source%20book/Curse%20of%20Strahd.md#page-159), and [T9. Eastern Arch (p. 159)](../Source%20book/Curse%20of%20Strahd.md#page-159). However, remove the description of the black-cloaked rider from the text of [T8. Stone Bridge (p. 159)](../Source%20book/Curse%20of%20Strahd.md#page-159).
+The bridge beyond the gatehouse is largely as described in [T7. Western Arch (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t7-western-arch), [T8. Stone Bridge (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t8-stone-bridge), and [T9. Eastern Arch (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t9-eastern-arch). However, remove the description of the black-cloaked rider from the text of [T8. Stone Bridge (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t8-stone-bridge).
 
 As the players depart the bridge, read:
 
@@ -1248,7 +1248,7 @@ A player can make a DC 20 Wisdom (Perception) check to identify the shape. On a 
 <p>The shape is a black-cloaked rider on a charcoal-colored horse. As you watch, it crosses the halfway point of the bridge—then lifts its head slightly in your direction, as though it has noticed your gaze.</p>
 </div>
 
-The rider is Rahadin, though the cloak he wears hides his features from view. Regardless of the players’ response, the rider then returns its attention to the bridge before it, vanishing from sight behind a mountain cliff upon reaching [T9. Eastern Arch (p. 159)](../Source%20book/Curse%20of%20Strahd.md#page-159).
+The rider is Rahadin, though the cloak he wears hides his features from view. Regardless of the players’ response, the rider then returns its attention to the bridge before it, vanishing from sight behind a mountain cliff upon reaching [T9. Eastern Arch (p. 159)](../Source%20book/Curse%20of%20Strahd.md#t9-eastern-arch).
 
 > [!abstract]+ **Ambushing Rahadin**
 > If the players indicate an interest in lying in wait and ambushing the rider, Kasimir points out that the road here is far too narrow and bare to easily serve as a hiding place. "More significantly," he adds, "we appear to be on a timeline—should we fail to reach our destination, we may lose one of our number when Zarovich returns tonight." Although he notes his willingness to defer to the players’ decision, Kasimir warns them that further delays may jeopardize their mission.
@@ -1675,7 +1675,7 @@ When the pendant first becomes visible, read:
 > * ***Hidden Fangs.*** Your vampiric fangs are naturally concealed. You can extend or retract your fangs as a bonus action on your turn.
 > * ***Curse.*** The amber shard is cursed. A character that accepts the shadow’s gift is secretly cursed until targeted by a *greater restoration* spell or similar magic. As long as the character remains cursed, the character cannot discard the pendant or shard, which immediately teleports back around their neck.
 >
-> If a character accepts the dark gift of the Vampyr in [X42. Amber Vault (p. 195)](../Source%20book/Curse%20of%20Strahd.md#page-195) and fulfills the conditions to become a **vampire** while cursed in this way, the character falls under Strahd’s permanent control, as if he turned them into a **vampire spawn**.
+> If a character accepts the dark gift of the Vampyr in [X42. Amber Vault (p. 195)](../Source%20book/Curse%20of%20Strahd.md#x42-amber-vault) and fulfills the conditions to become a **vampire** while cursed in this way, the character falls under Strahd’s permanent control, as if he turned them into a **vampire spawn**.
 
 > [!lore]+ **The Cursed Pendant**
 > Strahd intentionally placed this pendant here the night of [[#R4f. The Tyrant’s Second Trial]], hoping that one of the players might take it with them to the Amber Temple and accept the Vampyr’s dark gift—thereby giving him a full-blooded vampire under his control. (The vestige of the Vampyr doesn’t know that the pendant is cursed.)
@@ -2375,7 +2375,7 @@ The face belongs to Elder Burebis, a **storm giant**. Players who inspect Elder 
 >
 > Disquieted, but trusting in the vision he had seen, Burebis observed from afar as the Order of the Silver Dragon settled in Barovia, soon thereafter joined by the residents of the Abbey of St. Markovia. He saw the armies of Strahd von Zarovich sweep through the valley, and watched with horrified fascination as the Mists spirited the land beyond the Material Plane.
 >
-> By the time Strahd first met Marina Ulrich, Tatyana’s first reincarnation, Burebis’s daughter, Gira, was nearly two centuries old. Far more temperamental than her father, Gira grew enraged when Strahd drowned the village of Berez beneath the banks of the Luna River—and even moreso when the witch Baba Lysaga began to befoul the new swamp with black magic. After observing an omen that foretold Strahd’s death would swiftly follow Lysaga’s, Gira descended the slopes of Mt. Ghakis to the valley below to assault Lysaga’s cottage. Lysaga, however, easily emerged the victor—and enchanted Gira’s skull to create the giant flying skull described in [Giant Skull (p. 163)](../Source%20book/Curse%20of%20Strahd.md#page-163).
+> By the time Strahd first met Marina Ulrich, Tatyana’s first reincarnation, Burebis’s daughter, Gira, was nearly two centuries old. Far more temperamental than her father, Gira grew enraged when Strahd drowned the village of Berez beneath the banks of the Luna River—and even moreso when the witch Baba Lysaga began to befoul the new swamp with black magic. After observing an omen that foretold Strahd’s death would swiftly follow Lysaga’s, Gira descended the slopes of Mt. Ghakis to the valley below to assault Lysaga’s cottage. Lysaga, however, easily emerged the victor—and enchanted Gira’s skull to create the giant flying skull described in [Giant Skull (p. 163)](../Source%20book/Curse%20of%20Strahd.md#giant-skull).
 >
 > Enraged by his daughter’s death and the desecration of her remains, Burebis descended to Berez with all the fury of a maelstrom. Old age, however, had robbed him of his strength, and he barely escaped the encounter with his life. Dying of his wounds, but guided by the Roc of Mt. Ghakis—the Seeker’s familiar—Burebis found his way to Soldav, and the Shrine of the Rozana, where the primal roots therein pierced his flesh and sustained him with lifegiving sap. There he has remained ever since, a spiritual center of the Mountain Folks’ village and a living reminder of the world that their ancestors lost.
 
@@ -2468,6 +2468,6 @@ If Sangzor determines that a player intends to seek the power of the vestiges of
 
 If Sangzor does not detect any intent to seek the vestiges' power in the players' hearts, it bows its head as a show of respect, then turns to depart, soon vanishing into the snow and mist.
 ## R6b. The Amber Temple
-Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in [X1. Temple Facade (p. 183)](../Source%20book/Curse%20of%20Strahd.md#page-183). The players then begin [[Arc S - A Sword of Sunlight]].
+Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in [X1. Temple Facade (p. 183)](../Source%20book/Curse%20of%20Strahd.md#x1-temple-facade). The players then begin [[Arc S - A Sword of Sunlight]].
 
 ***Milestone.*** Reaching the Amber Temple achieves a story milestone. When the players arrive outside the Amber Temple, award each player 5,000 XP.

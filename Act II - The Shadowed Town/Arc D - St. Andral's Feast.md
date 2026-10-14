@@ -24,7 +24,7 @@ Can the players defeat Volenta's plan and restore the church's protection? Or wi
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 
-The church is largely as described in [N1. St. Andral's Church (p. 97)](../Source%20book/Curse%20of%20Strahd.md#page-97).
+The church is largely as described in [N1. St. Andral's Church (p. 97)](../Source%20book/Curse%20of%20Strahd.md#n1-st-andrals-church).
 
 The church's occupants follow the following schedule unless interrupted:
 
@@ -55,7 +55,7 @@ The church's occupants follow the following schedule unless interrupted:
 > [!lore]+ **The Stolen Bones**
 > Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
  >
-> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#page-97).
+> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#bones-of-st-andral).
 > 
 > When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
 > 
@@ -104,7 +104,7 @@ When the players first enter this area, read:
 <p>A broad-shouldered, black-haired young man stands atop a small stepladder before the broken window, nailing a tarp into place to cover it as a young boy sweeps the chapel floor not far away. A middle-aged priest, with graying hair and crisp, clean vestments watches them work from the pews, holding a broom of his own and looking lost in thought.</p>
 </div>
 
-The young man is Milivoj, who is as described in [N1. St. Andral's Church (p. 97)](../Source%20book/Curse%20of%20Strahd.md#page-97). The priest is Father Lucian Petrovich. The boy is Yeska.
+The young man is Milivoj, who is as described in [N1. St. Andral's Church (p. 97)](../Source%20book/Curse%20of%20Strahd.md#n1-st-andrals-church). The priest is Father Lucian Petrovich. The boy is Yeska.
 
 ![[Father Lucian Petrovich.png]]
 <span class="credit">"Father Lucian Petrovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -125,13 +125,13 @@ If the players agree not to spread his words beyond the church, Father Lucian so
 
 * The church is ordinarily hallowed ground, as though the building was protected by a *hallow* spell. This magical ward prevents fiends and undead from entering the church, and keeps them from magically charming, frightening, or possessing those within it.
 * The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
-* Originally, only Father Lucian knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#page-97).
+* Originally, only Father Lucian knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#bones-of-st-andral).
 * To retain the church's protection, Father Lucian must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
 * If the rite cannot be carried out at that time, the wards will fall until the rite is completed on a subsequent dawn.
 * Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, Father Lucian can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
 * Father Lucian is fearful that some fell creature or wicked soul has manufactured this crisis as an opportunity to cause his congregation harm; though the Baron is confident that no monsters could breach Vallaki's walls, Father Lucian fears that the town is not as safe as it appears.
 
-Father Lucian can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#page-97). He does not suspect Milivoj of stealing the bones either, having no reason to do so.
+Father Lucian can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#bones-of-st-andral). He does not suspect Milivoj of stealing the bones either, having no reason to do so.
 
 If the players express an interest in doing so, Father Lucian is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy. 
 
@@ -152,7 +152,7 @@ While accompanying the party, Father Lucian fights alongside them, but allows th
 
 The fresh boards and nails were delivered by Henrik. The opening is barely wide enough to allow one person to enter, and descends into the crypt.
 
-The crypt is as described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#page-97), lying largely beneath the chapel's altar. If a player enters the crypt, read:
+The crypt is as described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#bones-of-st-andral), lying largely beneath the chapel's altar. If a player enters the crypt, read:
 
 <div class="description">
 <p>You descend into a small, dark, damp chamber, the walls made of rough-hewn stone blocks stained with age and moisture. At the center stands a lonely stone slab, an empty, circular depression carved neatly into its surface.</p>
@@ -230,9 +230,9 @@ If the players inform Milivoj that they want to speak with him about St. Andral�
 
 Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
 
-If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#page-97). Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
+If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#bones-of-st-andral). Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
 
-If asked his motive for stealing the bones, Milivoj shares the reasons described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#page-97). He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in [Dream Pastries (p. 125)](../Source%20book/Curse%20of%20Strahd.md#page-125).)
+If asked his motive for stealing the bones, Milivoj shares the reasons described in [Bones of St. Andral (p. 97)](../Source%20book/Curse%20of%20Strahd.md#bones-of-st-andral). He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in [Dream Pastries (p. 125)](../Source%20book/Curse%20of%20Strahd.md#dream-pastries-1).)
 
 If informed that the bones may have been stolen to allow an attack upon the church, Milivoj dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that Henrik told him the bones were a powerless family heirloom, and that Henrik sought to recover them to honor his ancestor.
 
@@ -266,7 +266,7 @@ If the players successfully break the door to the wagon or pick its padlock, the
 The coffin maker's shop is largely as described in [N6. Coffin Maker's Shop (p. 116)](../Source%20book/Curse%20of%20Strahd.md#n6-coffin-makers-shop). However, the crates in [N6f. Vampire Nest (p. 118)](../Source%20book/Curse%20of%20Strahd.md#n6f-vampire-nest) have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore [N6f. Vampire Nest (p. 118)](../Source%20book/Curse%20of%20Strahd.md#n6f-vampire-nest) find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 
 > [!lore]+ **The Burned Pentagram**
-> The green pentagram is a remnant of Volenta's use of the teleportation brazier in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#page-82). If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  [N6f. Vampire Nest (p. 118)](../Source%20book/Curse%20of%20Strahd.md#n6f-vampire-nest) shortly thereafter.
+> The green pentagram is a remnant of Volenta's use of the teleportation brazier in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room). If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  [N6f. Vampire Nest (p. 118)](../Source%20book/Curse%20of%20Strahd.md#n6f-vampire-nest) shortly thereafter.
 
 Henrik van der Voort, the coffin maker, follows the following schedule:
 
@@ -290,7 +290,7 @@ Henrik does not know that Volenta has secretly installed a poison needle trap an
 > [!abstract]+ **Ambushing the Vampires**
 > Players who attempt to ambush the vampires in [N6f. Vampire Nest (p. 118)](../Source%20book/Curse%20of%20Strahd.md#n6f-vampire-nest) before recovering the bones must succeed on a DC 14 Dexterity (Stealth) check to approach a crate without awakening the nearby vampires, and a DC 14 Dexterity (Stealth) check with disadvantage to open it. A woken vampire attacks intruders on sight.
 ## D4b. Recovering the Bones
-The bones have been concealed as described in [N6e. Henrik's Bedroom (p. 117)](../Source%20book/Curse%20of%20Strahd.md#page-117). However, Volenta Popofsky has added two additional safeguards to the secret compartment:
+The bones have been concealed as described in [N6e. Henrik's Bedroom (p. 117)](../Source%20book/Curse%20of%20Strahd.md#n6e-henriks-bedroom). However, Volenta Popofsky has added two additional safeguards to the secret compartment:
 
 * a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
 * a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
@@ -305,7 +305,7 @@ The hidden wire can be identified before the compartment is fully opened with a 
 Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
 
 > [!lore]+ **The Noisemaker**
-> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in [N7. Blinsky Toys (p. 118)](../Source%20book/Curse%20of%20Strahd.md#page-118), several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
+> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in [N7. Blinsky Toys (p. 118)](../Source%20book/Curse%20of%20Strahd.md#n7-blinsky-toys), several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
 
 > [!abstract]+ **Disabling the Noisemaker**
 > If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of [N8. Town Square (p. 119)](../Source%20book/Curse%20of%20Strahd.md#n8-town-square). In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
