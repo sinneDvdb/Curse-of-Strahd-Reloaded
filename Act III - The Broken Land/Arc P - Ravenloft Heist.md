@@ -26,19 +26,19 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > > 
 > > <span class="credit">"Doru's Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > >
-> > [K1. Front Courtyard (p. 52)](../Source%20book/Curse%20of%20Strahd.md#k1-front-courtyard). “The drawbridge leads right into the front courtyard. I’m not sure if it’ll be up for you—it was down when we first went in, but the Master—er, Strahd kept it up often." 
-> > [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k7-entry). “The dragon statues here always gave me a weird feeling—like they were watching me. Be careful."
-> > [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry). “The gargoyles also always gave me a weird feeling. I swear I once saw one of them move."
-> > [K14. Hall of Faith (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k14-hall-of-faith). “This hall just gave me the creeps."
-> > [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k15-chapel). “I’m sure it was beautiful once, but not anymore. I saw an armored corpse there once, but it was gone the next day. It might be worth taking a look around to see if anything is left."
-> > [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k16-north-chapel-access). “I’m not sure where this chamber led, but it seemed to lead up."
-> > [K17. South Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k17-south-chapel-access). “This chamber led down."
-> > [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k18-high-tower-staircase). “This staircase led straight down to the crypts."
-> > [K84. Catacombs (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k84-catacombs). “I spent most of my time here, amongst the bats on the ceilings. I could never remember all of the names on the crypts, though." (If asked, Doru can mark the approximate locations of King Dostron’s and Saint Markovia’s crypts, which are now located in Crypt 34 and Crypt 40, respectively.)
-> > [K85. Sergei’s Tomb (p. 93)](../Source%20book/Curse%20of%20Strahd.md#k85-sergeis-tomb). “I never saw what was in this tomb—there was a portcullis blocking the entrance. It was always well-lit, though."
-> > [K86. Strahd’s Tomb (p. 93)](../Source%20book/Curse%20of%20Strahd.md#k86-strahds-tomb). “This was *his* tomb. I still remember opening the coffin when we first marched on it—and finding it empty."
-> > [K87. Guardians (p. 94)](../Source%20book/Curse%20of%20Strahd.md#k87-guardians). “There was a strange magic curtain blocking the staircase down. I didn’t know if it was helpful or harmful, but I tried to steer clear nonetheless."
-> > [K88. Tomb of King Barov and Queen Ravenovia (p. 94)](../Source%20book/Curse%20of%20Strahd.md#k88-tomb-of-king-barov-and-queen-ravenovia). “There was some kind of tomb down here, but I don’t know whose. Rahadin came here often."
+> > [K1. Front Courtyard (p. 52)](../Source%20book/Curse%20of%20Strahd.md#K1.%20Front%20Courtyard). “The drawbridge leads right into the front courtyard. I’m not sure if it’ll be up for you—it was down when we first went in, but the Master—er, Strahd kept it up often." 
+> > [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K7.%20Entry). “The dragon statues here always gave me a weird feeling—like they were watching me. Be careful."
+> > [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#K8.%20Great%20Entry). “The gargoyles also always gave me a weird feeling. I swear I once saw one of them move."
+> > [K14. Hall of Faith (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K14.%20Hall%20of%20Faith). “This hall just gave me the creeps."
+> > [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K15.%20Chapel). “I’m sure it was beautiful once, but not anymore. I saw an armored corpse there once, but it was gone the next day. It might be worth taking a look around to see if anything is left."
+> > [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K16.%20North%20Chapel%20Access). “I’m not sure where this chamber led, but it seemed to lead up."
+> > [K17. South Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K17.%20South%20Chapel%20Access). “This chamber led down."
+> > [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K18.%20High%20Tower%20Staircase). “This staircase led straight down to the crypts."
+> > [K84. Catacombs (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K84.%20Catacombs). “I spent most of my time here, amongst the bats on the ceilings. I could never remember all of the names on the crypts, though." (If asked, Doru can mark the approximate locations of King Dostron’s and Saint Markovia’s crypts, which are now located in Crypt 34 and Crypt 40, respectively.)
+> > [K85. Sergei’s Tomb (p. 93)](../Source%20book/Curse%20of%20Strahd.md#K85.%20Sergei's%20Tomb). “I never saw what was in this tomb—there was a portcullis blocking the entrance. It was always well-lit, though."
+> > [K86. Strahd’s Tomb (p. 93)](../Source%20book/Curse%20of%20Strahd.md#K86.%20Strahd's%20Tomb). “This was *his* tomb. I still remember opening the coffin when we first marched on it—and finding it empty."
+> > [K87. Guardians (p. 94)](../Source%20book/Curse%20of%20Strahd.md#K87.%20Guardians). “There was a strange magic curtain blocking the staircase down. I didn’t know if it was helpful or harmful, but I tried to steer clear nonetheless."
+> > [K88. Tomb of King Barov and Queen Ravenovia (p. 94)](../Source%20book/Curse%20of%20Strahd.md#K88.%20Tomb%20of%20King%20Barov%20and%20Queen%20Ravenovia). “There was some kind of tomb down here, but I don’t know whose. Rahadin came here often."
 >
 > > [!info]+ **What Van Richten Knows**
 > > If asked, Van Richten can provide a rough boxes-and-lines map of the following areas, with additional commentary:
@@ -47,24 +47,24 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > > 
 > > <span class="credit">"Van Richten's Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > >
-> > [K1. Front Courtyard (p. 52)](../Source%20book/Curse%20of%20Strahd.md#k1-front-courtyard). “The drawbridge leads into the front courtyard. I observed two gate towers, which I presume contain the mechanism that controls the bridge."
-> > [K2. Center Court Gate (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k2-center-court-gate). “There are two side courtyards—one north, one south. The north was obstructed by a heavy, old portcullis, which I only barely managed to lift. I presume the south was as well."
-> > [K3. Servants’ Courtyard (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k3-servants-courtyard). “The servants’ courtyard, I presume, complete with a servants’ entrance. The door sticks, so be careful should you need to flee through it in a hurry."
-> > [K4. Carriage House (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k4-carriage-house). “I presume it holds Strahd’s carriage."
-> > [K5. Chapel Garden (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k5-chapel-garden). “I believe a garden sits back here. I didn’t get a good look, however."
-> > [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k7-entry). “Be careful should you enter through the front—doubtless, something will be watching."
-> > [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry). “A major junction. Be careful you don’t get lost."
-> > [K14. Hall of Faith (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k14-hall-of-faith). “I’m sure I briefly heard a metallic grinding behind the south wall, but I suppose it might have been my imagination."
-> > [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k15-chapel). “Don’t forget to check the balcony overhead, just to make sure you’re not being watched."
-> > [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k16-north-chapel-access). “I’m confident this chamber led up to the balcony overlooking the chapel."
-> > [K17. South Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k17-south-chapel-access). “This chamber led down."
-> > [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k18-high-tower-staircase). “This staircase led straight down to the crypts. I noticed a large crack in one of the walls, about halfway down—likely a passageway for a vampire in mist form."
-> > [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair). “The heart of the castle. If you can find this staircase, you always know where you are."
-> > [K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance). “The rear entrance. An excellent place to sneak in."
-> > [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k61-elevator-trap). “A quiet corridor. I noticed some strange indentations along the floor as I fled the castle, but couldn’t afford the time to investigate."
-> > [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#k62-servants-hall). “The servants’ hall, I presume."
-> > [K84. Catacombs (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k84-catacombs). “Be careful you don’t get lost down here—or open the wrong door. Dark things lurk amongst the crypts. I’m sure it’s only gotten worse with Strahd’s awakening."
-> > [K86. Strahd’s Tomb (p. 93)](../Source%20book/Curse%20of%20Strahd.md#k86-strahds-tomb). “Strahd’s tomb—and the resting place of his coffin. I’m sure he’s a light sleeper, though."
+> > [K1. Front Courtyard (p. 52)](../Source%20book/Curse%20of%20Strahd.md#K1.%20Front%20Courtyard). “The drawbridge leads into the front courtyard. I observed two gate towers, which I presume contain the mechanism that controls the bridge."
+> > [K2. Center Court Gate (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K2.%20Center%20Court%20Gate). “There are two side courtyards—one north, one south. The north was obstructed by a heavy, old portcullis, which I only barely managed to lift. I presume the south was as well."
+> > [K3. Servants’ Courtyard (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K3.%20Servants'%20Courtyard). “The servants’ courtyard, I presume, complete with a servants’ entrance. The door sticks, so be careful should you need to flee through it in a hurry."
+> > [K4. Carriage House (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K4.%20Carriage%20House). “I presume it holds Strahd’s carriage."
+> > [K5. Chapel Garden (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K5.%20Chapel%20Garden). “I believe a garden sits back here. I didn’t get a good look, however."
+> > [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K7.%20Entry). “Be careful should you enter through the front—doubtless, something will be watching."
+> > [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#K8.%20Great%20Entry). “A major junction. Be careful you don’t get lost."
+> > [K14. Hall of Faith (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K14.%20Hall%20of%20Faith). “I’m sure I briefly heard a metallic grinding behind the south wall, but I suppose it might have been my imagination."
+> > [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K15.%20Chapel). “Don’t forget to check the balcony overhead, just to make sure you’re not being watched."
+> > [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K16.%20North%20Chapel%20Access). “I’m confident this chamber led up to the balcony overlooking the chapel."
+> > [K17. South Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K17.%20South%20Chapel%20Access). “This chamber led down."
+> > [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K18.%20High%20Tower%20Staircase). “This staircase led straight down to the crypts. I noticed a large crack in one of the walls, about halfway down—likely a passageway for a vampire in mist form."
+> > [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair). “The heart of the castle. If you can find this staircase, you always know where you are."
+> > [K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K23.%20Servants'%20Entrance). “The rear entrance. An excellent place to sneak in."
+> > [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#K61.%20Elevator%20Trap). “A quiet corridor. I noticed some strange indentations along the floor as I fled the castle, but couldn’t afford the time to investigate."
+> > [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#K62.%20Servants'%20Hall). “The servants’ hall, I presume."
+> > [K84. Catacombs (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K84.%20Catacombs). “Be careful you don’t get lost down here—or open the wrong door. Dark things lurk amongst the crypts. I’m sure it’s only gotten worse with Strahd’s awakening."
+> > [K86. Strahd’s Tomb (p. 93)](../Source%20book/Curse%20of%20Strahd.md#K86.%20Strahd's%20Tomb). “Strahd’s tomb—and the resting place of his coffin. I’m sure he’s a light sleeper, though."
 
 > [!abstract]+ **What the Martikovs Know**
 > Players who ask Davian or Urwin Martikov for information about Castle Ravenloft's layout can learn that the castle has three towers: (1) the north tower, which stands atop the guards' quarters beneath the castle, and was primarily used for defending the keep; (2) the south tower, which connects every level of the main castle, and which was used by guests, servants and Strahd's court alike; and (3) the high tower in the east, which runs from the depths of the catacombs to the castle's highest point, and which bears a shaft in the center that leads directly from the tower's peak to the catacombs below.
@@ -84,16 +84,16 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > **Muriel Vinshaw (Any).** Muriel is reluctant to venture into Ravenloft due to Davian’s orders and her grief over Elric’s death, though she is more than happy to meet the players with several **swarms of ravens** to assist their efforts to enter the castle. However, a player who promises Muriel an opportunity to obtain justice for Elric and succeeds on a DC 20 Charisma (Persuasion) check can convince her to join the party in the castle as well.
 # P2. The Old Svalich Road
 ## P2a. Approaching the Crossroads
-The journey from Vallaki to the castle crossroads is eight-and-a-half miles long and takes two hours and fifty minutes. As they travel, the players pass [Chapter 6: Old Bonegrinder (p. 125)](../Source%20book/Curse%20of%20Strahd.md#chapter-6-old-bonegrinder) and the western [B. Gates of Barovia (p. 33)](../Source%20book/Curse%20of%20Strahd.md#b-gates-of-barovia).
+The journey from Vallaki to the castle crossroads is eight-and-a-half miles long and takes two hours and fifty minutes. As they travel, the players pass [Chapter 6: Old Bonegrinder (p. 125)](../Source%20book/Curse%20of%20Strahd.md#Chapter%206%3A%20Old%20Bonegrinder) and the western [B. Gates of Barovia (p. 33)](../Source%20book/Curse%20of%20Strahd.md#B.%20Gates%20of%20Barovia).
 
-Alternatively, if the players are traveling from Barovia, the journey is ten and one-half miles long and takes three hours and thirty minutes. As they travel, the players cross [D. River Ivlis (p. 35)](../Source%20book/Curse%20of%20Strahd.md#d-river-ivlis), pass through [F. River Ivlis Crossroads (p. 35)](../Source%20book/Curse%20of%20Strahd.md#f-river-ivlis-crossroads), pass the watchtower described in [[Act I - Into the Mists/Arc C - Into the Valley#C6. The Watchtower|Arc C - Into the Valley]], and cross the bridge at [H. Tser Falls (p. 37)](../Source%20book/Curse%20of%20Strahd.md#h-tser-falls).
+Alternatively, if the players are traveling from Barovia, the journey is ten and one-half miles long and takes three hours and thirty minutes. As they travel, the players cross [D. River Ivlis (p. 35)](../Source%20book/Curse%20of%20Strahd.md#D.%20River%20Ivlis), pass through [F. River Ivlis Crossroads (p. 35)](../Source%20book/Curse%20of%20Strahd.md#F.%20River%20Ivlis%20Crossroads), pass the watchtower described in [[Act I - Into the Mists/Arc C - Into the Valley#C6. The Watchtower|Arc C - Into the Valley]], and cross the bridge at [H. Tser Falls (p. 37)](../Source%20book/Curse%20of%20Strahd.md#H.%20Tser%20Falls).
 
 > [!abstract]+ **The Revenant at the Falls**
 > As the players cross the bridge at Tser Falls, the **revenant** described in [[Act I - Into the Mists/Arc C - Into the Valley#C7b. Tser Falls|Arc C - Into the Valley]] hails them with familiarity. Although the revenant isn’t willing or able to take up arms against Strahd or his servants, players who mention their friendship with Sir Godfrey Gwilym and succeed on a DC 10 Charisma (Persuasion) check can convince the revenant to take some minor action to assist them, succeeding automatically if they mention their quest to restore Argynvost’s skull to his tomb. (The revenant won’t enter the castle or its grounds, but is otherwise glad to assist creative players.)
 
-As the players travel, they encounter a caravan of three **Vistani** riding a colorful, horse-drawn wagon from Tser Pool to Vallaki. (If the players are traveling from Vallaki, they encounter the Vistani near the monument to the Seeker described in [[Act I - Into the Mists/Arc C - Into the Valley#C9. Old Bonegrinder|Arc C - Into the Valley]]. If the players are traveling from Barovia, they encounter the Vistani at [F. River Ivlis Crossroads (p. 35)](../Source%20book/Curse%20of%20Strahd.md#f-river-ivlis-crossroads).)
+As the players travel, they encounter a caravan of three **Vistani** riding a colorful, horse-drawn wagon from Tser Pool to Vallaki. (If the players are traveling from Vallaki, they encounter the Vistani near the monument to the Seeker described in [[Act I - Into the Mists/Arc C - Into the Valley#C9. Old Bonegrinder|Arc C - Into the Valley]]. If the players are traveling from Barovia, they encounter the Vistani at [F. River Ivlis Crossroads (p. 35)](../Source%20book/Curse%20of%20Strahd.md#F.%20River%20Ivlis%20Crossroads).)
 
-This encounter begins as described in [Vistani Bandits (p. 32)](../Source%20book/Curse%20of%20Strahd.md#vistani-bandits). However, as the Vistani come into view, read:
+This encounter begins as described in [Vistani Bandits (p. 32)](../Source%20book/Curse%20of%20Strahd.md#Vistani%20Bandits). However, as the Vistani come into view, read:
 
 <div class="description">
 <p>A splash of color pierces the dreary gray, revealing a horse-drawn wagon painted in bold reds, blues, and golds. Two brightly-dressed Vistani amble alongside it, and an old Vistani man holds the reins gently from his place atop the coach, his long, grey beard swaying gently in the chill wind as he puffs smoke rings from an old wooden pipe.</p>
@@ -108,7 +108,7 @@ If asked to share Madam Eva’s “token," Stanimir removes a bead pouch from hi
 > [!lore]+ **The Stone Crest**
 > Only Madam Eva knows that the stone crest carried by Stanimir is secretly a holy symbol of the Ladies of the Fanes, allowing a faithful worshipper of the Ladies to call upon their divine magic to fuel spells.
 
-If the players are traveling from Barovia, Stanimir is glad to journey with them as far as the Ravenloft crossroads described in [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#i-black-carriage) before parting ways.
+If the players are traveling from Barovia, Stanimir is glad to journey with them as far as the Ravenloft crossroads described in [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#I.%20Black%20Carriage) before parting ways.
 
 Whether the players are coming from Barovia or Vallaki, if the players reunited Varushka’s spirit with Katarina’s locket in [[Arc O - Dinner with the Devil]], Stanimir abruptly recalls before departing that Madam Eva asked him to give the players a gift if he came across them in the valley, as thanks for assisting a “dear friend" of hers. (Stanimir doesn’t know who this friend is.) Stanimir then gives the players a _clairvoyance stone_ before wishing them well on their journey.
 
@@ -117,7 +117,7 @@ Whether the players are coming from Barovia or Vallaki, if the players reunited 
 >
 > The stone can be used to cast the _clairvoyance_ spell three times. The third time the spell is cast, the stone crumbles to dust after the spell ends.
 ## P2b. Approaching the Castle
-The castle crossroads are largely as described in [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#i-black-carriage), except Strahd’s black carriage isn’t present. The journey from the crossroads to the castle gates is two and one-half miles long and takes fifty minutes.
+The castle crossroads are largely as described in [I. Black Carriage (p. 37)](../Source%20book/Curse%20of%20Strahd.md#I.%20Black%20Carriage), except Strahd’s black carriage isn’t present. The journey from the crossroads to the castle gates is two and one-half miles long and takes fifty minutes.
 
 As the players approach the castle, read:
 
@@ -126,7 +126,7 @@ As the players approach the castle, read:
 <p>A thick blanket of fog rolls across the road, creeping along the land like a skulking spider. Within it, eerie shapes occasionally form and dissipate—a grasping hand, a writhing serpent, a screaming face—then vanish, as quickly as they came.</p>
 </div>
 
-The gates of Ravenloft are largely as described in [J. Gates of Ravenloft (p. 38)](../Source%20book/Curse%20of%20Strahd.md#j-gates-of-ravenloft). However, revise this area’s description as follows:
+The gates of Ravenloft are largely as described in [J. Gates of Ravenloft (p. 38)](../Source%20book/Curse%20of%20Strahd.md#J.%20Gates%20of%20Ravenloft). However, revise this area’s description as follows:
 
 <div class="description">
 <p>After winding through the craggy mountain peaks, the road takes a sudden turn to the east. Twin stone guard towers stand before you, their rotted wooden doors creaking in the wind. Beyond these twin turrets lies the precipice of a fifty-foot-wide, fog-filled chasm that plummets to unknown depths below.</p>
@@ -141,7 +141,7 @@ If any player has a passive Wisdom (Perception) score of 14 or greater, add:
 
 The figures are **wights**. (Because they’re patrolling the walls, the wights don’t notice the players immediately.)
 ## P2c. Strahd’s Departure
-Approximately fifteen minutes after dusk, Strahd descends to [Crypt 39 (p. 93)](../Source%20book/Curse%20of%20Strahd.md#crypt-39) and retrieves Beucephalus from his crypt. Strahd then mounts the **nightmare**, flies it up [K18a. High Tower Shaft (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k18a-high-tower-shaft), and emerges from [K59. High Tower Peak (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k59-high-tower-peak) into the skies above Ravenloft. Read:
+Approximately fifteen minutes after dusk, Strahd descends to [Crypt 39 (p. 93)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2039) and retrieves Beucephalus from his crypt. Strahd then mounts the **nightmare**, flies it up [K18a. High Tower Shaft (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K18a.%20High%20Tower%20Shaft), and emerges from [K59. High Tower Peak (p. 73)](../Source%20book/Curse%20of%20Strahd.md#K59.%20High%20Tower%20Peak) into the skies above Ravenloft. Read:
 
 <div class="description">
 <p>A fiery ember emerges from the castle’s highest tower peak and cuts a blazing swathe westward across the sky. You catch the barest glimpse of an onyx-black steed, its mane awash with crimson flames, and a tall, richly-dressed silhouette atop its back—and then the air ripples around them, and both vanish into the abyss of the night sky.</p>
@@ -186,13 +186,13 @@ The players might use any of the following methods to distract the **wights** pa
 > 
 > Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
 > 
-> * [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), if the players are attempting to leave via [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k7-entry),
-> * [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room), if the players are attempting to leave via the teleportation brazier there,
-> * [K23. Servants' Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance), if the players are attempting to leave via that route,
-> * [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k46-parapets), if the players are attempting to leave by that route, and
-> * [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow) otherwise.
+> * [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#K8.%20Great%20Entry), if the players are attempting to leave via [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K7.%20Entry),
+> * [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room), if the players are attempting to leave via the teleportation brazier there,
+> * [K23. Servants' Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K23.%20Servants'%20Entrance), if the players are attempting to leave via that route,
+> * [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K46.%20Parapets), if the players are attempting to leave by that route, and
+> * [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow) otherwise.
 > 
-> If Rahadin confronts the players in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room), he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+> If Rahadin confronts the players in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room), he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
 >
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 
@@ -207,7 +207,7 @@ The players might use any of the following methods to distract the **wights** pa
 ## P3a. Front Courtyard
 <span class="citation"><em>This scene takes place in Chapter 4, Area K1.</em></span>
 
-This area is largely as described in [K1. Front Courtyard (p. 52)](../Source%20book/Curse%20of%20Strahd.md#k1-front-courtyard). However, the doors into the keep are closed.
+This area is largely as described in [K1. Front Courtyard (p. 52)](../Source%20book/Curse%20of%20Strahd.md#K1.%20Front%20Courtyard). However, the doors into the keep are closed.
 
 > [!info]+ **Sneaking Past the Guards**
 > If the players haven’t alerted the **wights** atop the walls yet, they must succeed on a DC 14 group Dexterity (Stealth) check to evade detection each time they move across the grounds without pausing. If the players fail the check, the **wights** attack from atop the walls using their longbows, but don’t follow the players into the castle.
@@ -217,26 +217,26 @@ This area is largely as described in [K1. Front Courtyard (p. 52)](../Source%20b
 ## P3b. Center Court Gate
 <span class="citation"><em>These scenes take place in Chapter 4, Area K2.</em></span>
 
-These north and south courtyards are largely as described in [K2. Center Court Gate (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k2-center-court-gate). In addition, a creature that attempts to lift one of the portcullises in these areas must succeed on a DC 13 Dexterity (Stealth) check with disadvantage to avoid alerting any **wights** nearby.
+These north and south courtyards are largely as described in [K2. Center Court Gate (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K2.%20Center%20Court%20Gate). In addition, a creature that attempts to lift one of the portcullises in these areas must succeed on a DC 13 Dexterity (Stealth) check with disadvantage to avoid alerting any **wights** nearby.
 ## P3c. Servants’ Courtyard
 <span class="citation"><em>This scene takes place in Chapter 4, Area K3.</em></span>
 
-This area is as described in [K3. Servants’ Courtyard (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k3-servants-courtyard).
+This area is as described in [K3. Servants’ Courtyard (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K3.%20Servants'%20Courtyard).
 
 > [!info]+ **Entering the Servants’ Entrance**
 > Players who enter the wooden door here exit the castle grounds and enter [[#P5. Servants’ Wing]] via [[Arc P - Ravenloft Heist#Servants’ Entrance|Servants’ Entrance]].
 ## P3d. Carriage House
 <span class="citation"><em>This scene takes place in Chapter 4, Area K4.</em></span>
 
-This area is as described in [K4. Carriage House (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k4-carriage-house).
+This area is as described in [K4. Carriage House (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K4.%20Carriage%20House).
 ## P3e. Chapel Garden
 <span class="citation"><em>This scene takes place in Chapter 4, Area K5.</em></span>
 
-This area is as described in [K5. Chapel Garden (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k5-chapel-garden).
+This area is as described in [K5. Chapel Garden (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K5.%20Chapel%20Garden).
 ## P3f. Overlook
 <span class="citation"><em>This scene takes place in Chapter 4, Area K6.</em></span>
 
-This area is as described in [K6. Overlook (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k6-overlook).
+This area is as described in [K6. Overlook (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K6.%20Overlook).
 
 > [!info]+ **Descending to the Crypts**
 > Players who use ropes, flight, or other means to descend to the windows in the cliff face beneath the overlook can exit the castle grounds and enter [[#P12. Catacombs]] via the King & Queen's Tomb in [[#P12b. Central Catacombs]].
@@ -246,14 +246,14 @@ This area of the castle, including the main entry, the castle dining hall, and t
 ### Main Entrance
 <span class="citation"><em>This scene takes place in Chapter 4, Area K7.</em></span>
 
-This area is largely as described in [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k7-entry). However, there are only two **red dragon wyrmling** statues instead of four. (As in the original campaign, the dragons only attack strangers leaving the castle, not entering it.)
+This area is largely as described in [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K7.%20Entry). However, there are only two **red dragon wyrmling** statues instead of four. (As in the original campaign, the dragons only attack strangers leaving the castle, not entering it.)
 
 > [!info]+ **Exiting the Main Entrance**
 > Players who depart through the double doors here exit the castle commons and enter [[#P3. Castle Grounds]] via [[#P3a. Front Courtyard]].
 ### Main Foyer
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K8, K9, and K19.</em></span>
 
-This area is largely as described in [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), [K9. Guests’ Hall (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall), and [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing). However, reduce the number of **gargoyles** from eight to four. 
+This area is largely as described in [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#K8.%20Great%20Entry), [K9. Guests’ Hall (p. 55)](../Source%20book/Curse%20of%20Strahd.md#K9.%20Guests'%20Hall), and [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K19.%20Grand%20Landing). However, reduce the number of **gargoyles** from eight to four. 
 
 > [!combat]- **Combat - The Entryway**  
 > **Combat Level**: Mild
@@ -268,7 +268,7 @@ This area is largely as described in [K8. Great Entry (p. 55)](../Source%20book/
 > | Gargoyle | 3 | 3 | 4 | 5 |
 
 
-***The First Visit.*** The first time the players enter this area, a *glyph of warding* hidden among the dust on the ceiling activates, casting a *major image* spell originating from the organ in the [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall). (The *major image* is the source of the “sad and majestic organ tones" described in [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry).)
+***The First Visit.*** The first time the players enter this area, a *glyph of warding* hidden among the dust on the ceiling activates, casting a *major image* spell originating from the organ in the [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#K10.%20Dining%20Hall). (The *major image* is the source of the “sad and majestic organ tones" described in [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#K8.%20Great%20Entry).)
 
 Shortly after the players first enter this area, the *major image* abruptly changes. Read:
 
@@ -277,13 +277,13 @@ Shortly after the players first enter this area, the *major image* abruptly chan
 </div>
 
 > [!abstract]+ **Ludmilla’s Arrival**
-> When the woman’s shriek rings out, Ludmilla Vilisevic, one of Strahd’s vampiric brides, hears the disturbance and departs [[#P9. Coven’s Quarters]], casting *gaseous form* and descending [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) and [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) to [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k9-guests-hall). She then climbs [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing) and conceals herself, waiting for the players to return.
+> When the woman’s shriek rings out, Ludmilla Vilisevic, one of Strahd’s vampiric brides, hears the disturbance and departs [[#P9. Coven’s Quarters]], casting *gaseous form* and descending [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K48.%20Offstair) and [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) to [K9. Guests’ Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#K9.%20Guests'%20Hall). She then climbs [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K19.%20Grand%20Landing) and conceals herself, waiting for the players to return.
 >
-> However, if the players don’t enter [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall) and instead ascend [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair), Ludmilla hears them coming and returns to [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd). There, in order to lure the players to the roof, she uses her ***claws*** attack to slice a wound along her own shoulder, allowing blood to drip down to form a trail on the floor behind her as she ascends [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) to [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof).
+> However, if the players don’t enter [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#K10.%20Dining%20Hall) and instead ascend [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair), Ludmilla hears them coming and returns to [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K47.%20Portrait%20of%20Strahd). There, in order to lure the players to the roof, she uses her ***claws*** attack to slice a wound along her own shoulder, allowing blood to drip down to form a trail on the floor behind her as she ascends [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K48.%20Offstair) to [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#K57.%20Tower%20Roof).
 > 
-> If the players neither enter  [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall) nor ascend [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair), and instead ascend [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing), Ludmilla hears them coming and creates a blood trail to lure them through [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall) into [K26. Guards’ Post (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k26-guards-post), through [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k27-kings-hall) onto [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k28-kings-balcony), and down [K29. Creaky Landing (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k29-creaky-landing) into [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k15-chapel). 
+> If the players neither enter  [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#K10.%20Dining%20Hall) nor ascend [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair), and instead ascend [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K19.%20Grand%20Landing), Ludmilla hears them coming and creates a blood trail to lure them through [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K25.%20Audience%20Hall) into [K26. Guards’ Post (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K26.%20Guards'%20Post), through [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K27.%20King's%20Hall) onto [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#K28.%20King's%20Balcony), and down [K29. Creaky Landing (p. 62)](../Source%20book/Curse%20of%20Strahd.md#K29.%20Creaky%20Landing) into [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K15.%20Chapel). 
 
-***The Second Visit.*** The second time the players enter this area (e.g., after investigating the [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall), they find a thick carpet of fog has covered its entire floor. They also find Ludmilla Vilisevic standing at the center of [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), waiting for them.
+***The Second Visit.*** The second time the players enter this area (e.g., after investigating the [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#K10.%20Dining%20Hall), they find a thick carpet of fog has covered its entire floor. They also find Ludmilla Vilisevic standing at the center of [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#K8.%20Great%20Entry), waiting for them.
 
 Ludmilla greets the players coldly and notes her regrets that the guards upon the walls evidently could not keep “troglodytes" such as them outside of the keep. She proceeds to attempt to provoke the players into attacking her, preferring to focus her insults and provocations upon melee-oriented players most likely to lose their tempers. (Ludmilla might threaten characters the player holds dear, impugn their principles or sense of honor, or imply that they are weak or otherwise incapable.)
 
@@ -311,7 +311,7 @@ Ludmilla always uses her bonus action to cast *darkness* on her first turn in co
 
 If Ludmilla isn’t hidden from the target, her attempt to take the *Holy Symbol of Ravenkind* automatically fails. Otherwise, the symbol’s wielder must make a DC 18 Dexterity saving throw to prevent Ludmilla from removing it.
 
-Whether Ludmilla successfully steals the symbol or not, she then retreats up [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing) and releases concentration on her *darkness* spell. If she has taken the symbol, she taunts the players with an invitation to "come take it back." She then crosses [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall) into [K26. Guards’ Post (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k26-guards-post), and passes through [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k27-kings-hall) onto [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k28-kings-balcony) before descending into [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k15-chapel). (Following her encounter with the players at Yester Hill, Ludmilla is happy to allow the **gargoyles** in the Great Entry to dispatch or weaken them before confronting them herself.)
+Whether Ludmilla successfully steals the symbol or not, she then retreats up [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K19.%20Grand%20Landing) and releases concentration on her *darkness* spell. If she has taken the symbol, she taunts the players with an invitation to "come take it back." She then crosses [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K25.%20Audience%20Hall) into [K26. Guards’ Post (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K26.%20Guards'%20Post), and passes through [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K27.%20King's%20Hall) onto [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#K28.%20King's%20Balcony) before descending into [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K15.%20Chapel). (Following her encounter with the players at Yester Hill, Ludmilla is happy to allow the **gargoyles** in the Great Entry to dispatch or weaken them before confronting them herself.)
 
 > [!warning]+ **Opportunity Attacks in Darkness**
 > Because creatures can take opportunity attacks only against targets they can see, a character blinded by Ludmilla’s *darkness* can’t make opportunity attacks against her while she’s attempting to steal the *Holy Symbol of Ravenkind*.
@@ -506,27 +506,27 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up [K1
 </div>
 
 > [!info]+ **Ascending the Landing**
-> Players who ascend [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k19-grand-landing) reach [[Arc P - Ravenloft Heist#Audience Hall|Audience Hall]].
+> Players who ascend [K19. Grand Landing (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K19.%20Grand%20Landing) reach [[Arc P - Ravenloft Heist#Audience Hall|Audience Hall]].
 
 > [!info]+ **South Tower Stair**
-> ***B2F.*** Players who descend two flights of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) exit the castle commons and enter [[#P11. Dungeons]] via [[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]].
+> ***B2F.*** Players who descend two flights of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) exit the castle commons and enter [[#P11. Dungeons]] via [[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]].
 >
-> ***B1F.*** Players who descend one flight of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
+> ***B1F.*** Players who descend one flight of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
 >
-> ***3F.*** Players who ascend two flights of stairs up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) exit the castle commons and enter [[#P6. King’s Apartments]] via [[Arc P - Ravenloft Heist#King’s Antechamber|King's Antechamber]].
+> ***3F.*** Players who ascend two flights of stairs up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) exit the castle commons and enter [[#P6. King’s Apartments]] via [[Arc P - Ravenloft Heist#King’s Antechamber|King's Antechamber]].
 >
-> ***4F.*** Players who ascend three flights of stairs up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) exit the castle commons and enter [[Arc P - Ravenloft Heist#P8. Guest Suite|Guest Suite]] via [[Arc P - Ravenloft Heist#P8a. Guest Landing|Guest Landing]].
+> ***4F.*** Players who ascend three flights of stairs up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) exit the castle commons and enter [[Arc P - Ravenloft Heist#P8. Guest Suite|Guest Suite]] via [[Arc P - Ravenloft Heist#P8a. Guest Landing|Guest Landing]].
 ### Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K10.</em></span>
 
-This area is largely as described in [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall). However, there is no illusion of Strahd sitting at the organ. In addition, revise the area’s description to read as follows:
+This area is largely as described in [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#K10.%20Dining%20Hall). However, there is no illusion of Strahd sitting at the organ. In addition, revise the area’s description to read as follows:
 
 <div class="description">
 <p>Three enormous crystal chandeliers brilliantly illuminate this magnificent chamber. Pillars of stone stand against dull white marble walls, supporting the ceiling. In the center of the room, a long, heavy table is covered with a fine white satin cloth. At the center of the far west wall, between floor-to-ceiling mirrors, stands a massive organ, its once-thunderous pipes now plunged into a deep, unsettling silence.</p>
 <p>No food stands upon the table. Instead, a woman’s corpse lies limply across its surface.</p>
 </div>
 
-The woman’s corpse is an illusion created by the *major image* spell, and resembles a nondescript Barovian woman in her twenties. If the players touch it or interact with it in any way, it vanishes. The events described in [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall) following the illusion’s disappearance then occur, including the “fierce, bone-chilling wind," then occur. Read:
+The woman’s corpse is an illusion created by the *major image* spell, and resembles a nondescript Barovian woman in her twenties. If the players touch it or interact with it in any way, it vanishes. The events described in [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#K10.%20Dining%20Hall) following the illusion’s disappearance then occur, including the “fierce, bone-chilling wind," then occur. Read:
 
 <div class="description">
 <p>A fierce, bone-chilling wind rises up and roars through the hall, extinguishing every open flame and plunging the majestic hall into darkness. Ancient hinges screech, and the air is briefly filled with the sounds of many heavy doors slamming shut, one after another, into the distance.</p>
@@ -537,12 +537,12 @@ The woman’s corpse is an illusion created by the *major image* spell, and rese
 ### Hall of Faith
 <span class="citation"><em>This scene takes place in Chapter 4, Area K14.</em></span>
 
-This area is as described in [K14. Hall of Faith (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k14-hall-of-faith). 
+This area is as described in [K14. Hall of Faith (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K14.%20Hall%20of%20Faith). 
 ### Chapel
 #### Nave & Chancel
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K15, K16, and K17.</em></span>
 
-This area is largely as described in [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k15-chapel), [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k16-north-chapel-access), and [K17. South Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k17-south-chapel-access). However, remove the last two sentences from the description of [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k15-chapel). 
+This area is largely as described in [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K15.%20Chapel), [K16. North Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K16.%20North%20Chapel%20Access), and [K17. South Chapel Access (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K17.%20South%20Chapel%20Access). However, remove the last two sentences from the description of [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K15.%20Chapel). 
 
 Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the following sentence to the end of the chapel's description:
 
@@ -552,23 +552,23 @@ Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the fo
 
 If Ludmilla successfully stole the *Holy Symbol of Ravenkind*, it is hanging from a broken window pane behind the altar, thirty feet above the floor. 
 
-Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they enter [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k15-chapel). Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
+Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they enter [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K15.%20Chapel). Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
 
 > [!warning]+ **Ezmerelda's *Holy Water***
 > Don't forget Ezmerelda's six *vials of holy water*, which she freely offers to the players as-needed to weaken Ludmilla's ***shroud of shadows***.
 
 > [!info]+ **The High Tower**
-> Players who ascend the high tower staircase reach the high tower peak, which is largely as described in [K59. High Tower Peak (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k59-high-tower-peak), except Pidlwick II cannot be found there.
+> Players who ascend the high tower staircase reach the high tower peak, which is largely as described in [K59. High Tower Peak (p. 73)](../Source%20book/Curse%20of%20Strahd.md#K59.%20High%20Tower%20Peak), except Pidlwick II cannot be found there.
 >
-> Players who descend the high tower staircase are obstructed by the masonry wall described in [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#k18-high-tower-staircase). Players who bypass the wall and continue to descend exit the castle commons and enter [[Arc P - Ravenloft Heist#P12. Catacombs|Castle Crypts]] via [[Arc P - Ravenloft Heist#P12. Catacombs|P12. Catacombs]].
+> Players who descend the high tower staircase are obstructed by the masonry wall described in [K18. High Tower Staircase (p. 58)](../Source%20book/Curse%20of%20Strahd.md#K18.%20High%20Tower%20Staircase). Players who bypass the wall and continue to descend exit the castle commons and enter [[Arc P - Ravenloft Heist#P12. Catacombs|Castle Crypts]] via [[Arc P - Ravenloft Heist#P12. Catacombs|P12. Catacombs]].
 #### Chapel Stairs
 <span class="citation"><em>This scene takes place in Chapter 4, Area K29.</em></span>
 
-This area is as described in [K29. Creaky Landing (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k29-creaky-landing).
+This area is as described in [K29. Creaky Landing (p. 62)](../Source%20book/Curse%20of%20Strahd.md#K29.%20Creaky%20Landing).
 #### Chapel Balcony
 <span class="citation"><em>This scene takes place in Chapter 4, Area K28.</em></span>
 
-This area is largely as described in [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k28-kings-balcony). However, remove the two **Strahd zombies**.
+This area is largely as described in [K28. King’s Balcony (p. 62)](../Source%20book/Curse%20of%20Strahd.md#K28.%20King's%20Balcony). However, remove the two **Strahd zombies**.
 
 Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the following sentence to the end of this area's description:
 
@@ -578,19 +578,19 @@ Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the fo
 
 If Ludmilla successfully stole the *Holy Symbol of Ravenkind*, it is hanging from a broken window pane behind the altar, thirty feet above the floor. 
 
-Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they descend into [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k15-chapel), or if they somehow manage to retrieve the *Holy Symbol* from atop the balcony. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
+Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they descend into [K15. Chapel (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K15.%20Chapel), or if they somehow manage to retrieve the *Holy Symbol* from atop the balcony. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
 ## P4b. Castle Commons, Second Floor 
 ### Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K25.</em></span>
 
-This area is largely as described in [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall). However, if Ludmilla has passed through here, the doors leading to [K27. King’s Hall (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k27-kings-hall) are slightly ajar.
+This area is largely as described in [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K25.%20Audience%20Hall). However, if Ludmilla has passed through here, the doors leading to [K27. King’s Hall (p. 62)](../Source%20book/Curse%20of%20Strahd.md#K27.%20King's%20Hall) are slightly ajar.
 
 > [!info]+ **Secret Door**
 > Players who find and enter the secret door behind the throne exit the castle commons and enter [[#P10. Garrison]] via [[Arc P - Ravenloft Heist#Second Floor South Archers’ Post Access Hall|Second Floor South Archers’ Post Access Hall]].
 ### Accountant’s Office
 <span class="citation"><em>This scene takes place in Chapter 4, Area K30.</em></span>
 
-This area is largely as described in [K30. King’s Accountant (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k30-kings-accountant). However, Lief Lipsiege is a lawful neutral **wight** with no attacks. When the players first approach, notice, or interact with him, read:
+This area is largely as described in [K30. King’s Accountant (p. 62)](../Source%20book/Curse%20of%20Strahd.md#K30.%20King's%20Accountant). However, Lief Lipsiege is a lawful neutral **wight** with no attacks. When the players first approach, notice, or interact with him, read:
 
 <div class="description">
 <p>The corpselike figure atop the stool is—or once was—an elderly man, clad in a high-collared, once-crisp white shirt, a deep brown vest, and a light pink ascot, all of which have grown faded and rotted with the ravages of age. His thinning, white-haired combover is neatly parted over his pallid, wrinkled forehead, and his gaunt, ash-gray face is framed by an impressively thick pair of mutton chops. His near-skeletal hands tremble slightly as he scribbles along a crumbling parchment scroll, his gray eyes never once flickering in your direction.</p>
@@ -604,7 +604,7 @@ This area is largely as described in [K30. King’s Accountant (p. 62)](../Sourc
 
 Lief is not chained to his wooden desk. However, he won’t leave the room voluntarily under any circumstances. 
 
-If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k41-treasury), rather than that of the *Holy Symbol of Ravenkind*. Read:
+If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#K41.%20Treasury), rather than that of the *Holy Symbol of Ravenkind*. Read:
 
 <div class="description">
 <p>"If only Count Strahd would let me properly tabulate the items he’s added to the old treasury over the years," Lief grumbles. “Too many trinkets and baubles, all layered in dust. No ledger entries, no tallies, and he expects the numbers to match!" The old wight scratches his chin, grunting. “At least the old girl keeps an eye on them, bless her heart. A dreadful business when she was alive, though. A right shame."</p>
@@ -612,13 +612,13 @@ If treated with kindness and allowed to ramble regarding Strahd’s assorted ric
 
 Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
 
-If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#k37-study).
+If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#K37.%20Study).
 ### King’s Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K27.</em></span>
 
-This area is largely as described in [K27. King’s Hall (p. 62)](../Source%20book/Curse%20of%20Strahd.md#k27-kings-hall), including the [Flight of the Vampire (p. 61)](../Source%20book/Curse%20of%20Strahd.md#flight-of-the-vampire) event. However, this room now contains the tapestry described in [K83a. Spiral Stair Landing (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k83a-spiral-stair-landing). Add the description of that tapestry to the end of this area’s description.
+This area is largely as described in [K27. King’s Hall (p. 62)](../Source%20book/Curse%20of%20Strahd.md#K27.%20King's%20Hall), including the [Flight of the Vampire (p. 61)](../Source%20book/Curse%20of%20Strahd.md#Flight%20of%20the%20Vampire) event. However, this room now contains the tapestry described in [K83a. Spiral Stair Landing (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K83a.%20Spiral%20Stair%20Landing). Add the description of that tapestry to the end of this area’s description.
 
-A player can find the secret door described in [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k27-kings-hall) behind the tapestry of King Barov and his army. The secret door can be found as described in [The Lands of Barovia: Common Features (p. 33)](../Source%20book/Curse%20of%20Strahd.md#the-lands-of-barovia-common-features), or by spending 1 minute searching the wall for hidden doors.
+A player can find the secret door described in [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K27.%20King's%20Hall) behind the tapestry of King Barov and his army. The secret door can be found as described in [The Lands of Barovia: Common Features (p. 33)](../Source%20book/Curse%20of%20Strahd.md#The%20Lands%20of%20Barovia%3A%20Common%20Features), or by spending 1 minute searching the wall for hidden doors.
 
 > [!info]+ **Shaft Door**
 > Players who find and enter the secret door behind the tapestry exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Second-Floor Elevator Access]].
@@ -628,7 +628,7 @@ This area of the castle, including the servants’ entrance, the servants’ qua
 ### Servants’ Entrance
 <span class="citation"><em>This scene takes place in Chapter 4, Area K23.</em></span>
 
-This area is largely as described in [K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance). However, add the following to the end of this area’s description:
+This area is largely as described in [K23. Servants’ Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K23.%20Servants'%20Entrance). However, add the following to the end of this area’s description:
 
 <div class="description">
 <p>A withered corpse lies slumped against the table, unmoving. A dried trail of blood leads from it to the steps leading down.</p>
@@ -638,19 +638,19 @@ Four puncture wounds disfigure the corpse’s neck. A player who succeeds on a D
 ### Servants’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K24.</em></span>
 
-This area is as described in [K24. Servants’ Quarters (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k24-servants-quarters).
+This area is as described in [K24. Servants’ Quarters (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K24.%20Servants'%20Quarters).
 ## P5b. Servants’ Wing, Second Floor
 ### Servants’ Upper Floor
 <span class="citation"><em>This scene takes place in Chapter 4, Area K34.</em></span>
 
-This area is as described in [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k34-servants-upper-floor).
+This area is as described in [K34. Servants’ Upper Floor (p. 64)](../Source%20book/Curse%20of%20Strahd.md#K34.%20Servants'%20Upper%20Floor).
 
 > [!info]+ **North Tower Secret Door**
 > Players who find and pass through the secret door here exit the servants’ wing and enter [[#P10. Garrison]] via [[#Servants’ Landing]].
 ### Second-Floor Elevator Access
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K31 and K31a.</em></span>
 
-This area is as described in [K31. Trapworks (p. 63)](../Source%20book/Curse%20of%20Strahd.md#k31-trapworks) and [K31a. Elevator Shaft (p. 63)](../Source%20book/Curse%20of%20Strahd.md#k31a-elevator-shaft).
+This area is as described in [K31. Trapworks (p. 63)](../Source%20book/Curse%20of%20Strahd.md#K31.%20Trapworks) and [K31a. Elevator Shaft (p. 63)](../Source%20book/Curse%20of%20Strahd.md#K31a.%20Elevator%20Shaft).
 
 > [!lore]+ **The Elevator**
 > The elevator trap was once a proper elevator, designed by the genius toymaker Fritz von Weerg. In its heyday, servants used it to reach the [[#King’s Hall]] (for access to the [[#Audience Hall]] and [[#Chapel Balcony]]), [[Arc P - Ravenloft Heist#P7b. Belfry Access Hall|Belfry Access Hall]] (to ring the bell to mark meals, mornings, emergencies, and other occasions), and [[#P8. Guest Suite]] (to deliver meals to visiting guests and dignitaries). After he became a vampire, however, Strahd turned the elevator into a trap for thieves and vampire hunters.
@@ -663,7 +663,7 @@ This area is as described in [K31. Trapworks (p. 63)](../Source%20book/Curse%20o
 ### Third-Floor Elevator Access
 <span class="citation"><em>This scene takes place in Chapter 4, Area K31b.</em></span>
 
-This area is as described in [K31b. Shaft Access (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k31b-shaft-access).
+This area is as described in [K31b. Shaft Access (p. 64)](../Source%20book/Curse%20of%20Strahd.md#K31b.%20Shaft%20Access).
 
 > [!info]+ **Third-Floor Shaft Access**
 > Players who find and pass through the secret door exit the servants’ wing and enter [[#P7. Bell Tower]] via [[#P7b. Belfry Access Hall]].
@@ -671,7 +671,7 @@ This area is as described in [K31b. Shaft Access (p. 64)](../Source%20book/Curse
 ### Servants’ Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K62.</em></span>
 
-This area is largely as described in [K62. (p. 76)](../Source%20book/Curse%20of%20Strahd.md#k62-servants-hall). However, revise this area's description as follows:
+This area is largely as described in [K62. (p. 76)](../Source%20book/Curse%20of%20Strahd.md#K62.%20Servants'%20Hall). However, revise this area's description as follows:
 
 <div class="description">
 <p>Heavy beams support the sagging, ten-foot-high ceiling of this long hall, its mortared walls illuminated by flickering torchlight. Fog clings to the floor, obscuring everything that lies less than three feet above it.</p>
@@ -679,7 +679,7 @@ This area is largely as described in [K62. (p. 76)](../Source%20book/Curse%20of%
 <p>A giant shadow lurches across the ceiling as a dark figure shuffles purposefully down the corridor toward you.</p>
 </div>
 
-The figure is Cyrus, as described in [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#k62-servants-hall). However, Cyrus does not try to escort the players to the guest suite, nor does he know of the elevator trap. 
+The figure is Cyrus, as described in [K62. Servants’ Hall (p. 76)](../Source%20book/Curse%20of%20Strahd.md#K62.%20Servants'%20Hall). However, Cyrus does not try to escort the players to the guest suite, nor does he know of the elevator trap. 
 
 > [!profile]+ **Profile: Cyrus Belview**
 > **Roleplaying Information**
@@ -702,7 +702,7 @@ If Cyrus already encountered any players the [[Arc O - Dinner with the Devil]], 
 
 In either case, once Cyrus has confirmed that the players are no danger to him, he suspiciously asks to know their business in the castle, then immediately insists that they not tell him. “Plausible deniability; that’s what my grandmammy always told me," he grunts. “Tell me no truths, and I won’t tell no one no lies."
 
-If the players seem friendly, Cyrus asks them to retrieve his “favorite cooking spoon" from the old garrison (see [[#P10. Garrison]]). “Saw one of those shamblers grab it, then vanish through those doors," he says, pointing to the doors to [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones). (The “shambler" Cyrus is referring to is a **zombie**. Cyrus has seen numerous zombies wandering the lower halls recently, and is too frightened of them to enter the garrison himself.) In exchange for this favor, Cyrus promises to draw the players a rough map of the castle once his spoon is returned to him.
+If the players seem friendly, Cyrus asks them to retrieve his “favorite cooking spoon" from the old garrison (see [[#P10. Garrison]]). “Saw one of those shamblers grab it, then vanish through those doors," he says, pointing to the doors to [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#K67.%20Hall%20of%20Bones). (The “shambler" Cyrus is referring to is a **zombie**. Cyrus has seen numerous zombies wandering the lower halls recently, and is too frightened of them to enter the garrison himself.) In exchange for this favor, Cyrus promises to draw the players a rough map of the castle once his spoon is returned to him.
 
 > [!info]+ **Cyrus’s Map**
 > If the players retrieve his favorite cooking spoon, Cyrus can draw them a simple boxes-and-lines map with the following details:
@@ -721,7 +721,7 @@ Whether the players accept his quest or not, Cyrus then returns to the kitchen, 
 > * The Abbot, however, did not act alone. He gave the Belviews their bestial traits with the benefit of knowledge furnished by Strahd von Zarovich. While the Belviews have long sought the “perfection" of their forms, Cyrus believes that true salvation will only come once his family has returned to their true, human nature.
 > * To this end, Cyrus agreed to work for Strahd as a butler at Castle Ravenloft at the Abbot’s recommendation. Strahd has promised him that, should Cyrus restore the castle to its former glory and maintain that restoration for a period of ten years, he will furnish Cyrus with the knowledge necessary to restore his family to their original forms—curing them of their infirmities and madness forever.
 #### The Ravenous Spawn
-The first time any player approaches the doors to [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones) or [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k61-elevator-trap), the door leading to [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k61-elevator-trap) opens. An *unseen servant* carrying a crystal dinner bell then emerges from beyond the door, acting as described in [Unseen Servant (p. 51)](../Source%20book/Curse%20of%20Strahd.md#unseen-servant).
+The first time any player approaches the doors to [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#K67.%20Hall%20of%20Bones) or [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#K61.%20Elevator%20Trap), the door leading to [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#K61.%20Elevator%20Trap) opens. An *unseen servant* carrying a crystal dinner bell then emerges from beyond the door, acting as described in [Unseen Servant (p. 51)](../Source%20book/Curse%20of%20Strahd.md#Unseen%20Servant).
 
 When the dinner bell rings, the two **vampire spawn** lurking in [[#Kitchen]] and [[#Butler’s Quarters]] quietly scuttle across the 10-foot ceiling, attacking from above the following round. Players with a passive Wisdom (Perception) score of 15 or below are surprised when the vampires attack.
   
@@ -748,47 +748,47 @@ The vampires prefer to target easy prey, including unarmored or surprised charac
 ### Elevator Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K61.</em></span>
 
-This area is largely as described in [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k61-elevator-trap). However, the elevator trap triggers whenever three or more Small- and/or Medium-sized creatures are standing on its pressure plate (e.g., a **vampire spawn**, its victim, and any other creature).
+This area is largely as described in [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#K61.%20Elevator%20Trap). However, the elevator trap triggers whenever three or more Small- and/or Medium-sized creatures are standing on its pressure plate (e.g., a **vampire spawn**, its victim, and any other creature).
 
 > [!info]+ **Sleeping Gas**
 > Because vampire spawn have no need to breathe, as described in <span class="citation">Vampire (Monster Manual, p. 297)</span>, they are unaffected by the sleep gas that fills the elevator compartment as it rises.
 > 
-> Note that, as described in [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k61-elevator-trap), a creature that falls unconscious due to the sleeping gas can be awoken as described in the *sleep* spell.
+> Note that, as described in [K61. Elevator Trap (p. 74)](../Source%20book/Curse%20of%20Strahd.md#K61.%20Elevator%20Trap), a creature that falls unconscious due to the sleeping gas can be awoken as described in the *sleep* spell.
 
 > [!info]+ **Chasing the Elevator**
 > A player ascending the stairs from the elevator hall to the elevator's destination at [[#P8a. Guest Landing]] must traverse 170 feet of stairs, which constitute difficult terrain.
 
 > [!abstract]+ **Escher's Intervention**
-> If a vampire spawn successfully lures one or more players into the elevator trap and knocks all of them unconscious, it attempts to drag its prey out of the elevator trap upon arriving at [[#P8a. Guest Landing]]. When it does so, it is confronted by Escher, who commands it to leave its victims and depart. Escher then brings any unconscious characters into [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge), where he drapes them across any available couches or chairs. 
+> If a vampire spawn successfully lures one or more players into the elevator trap and knocks all of them unconscious, it attempts to drag its prey out of the elevator trap upon arriving at [[#P8a. Guest Landing]]. When it does so, it is confronted by Escher, who commands it to leave its victims and depart. Escher then brings any unconscious characters into [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K49.%20Lounge), where he drapes them across any available couches or chairs. 
 > 
 > Escher isn't entirely sure why he's doing this, but feels a mild sense of obligation to the players for keeping Ireena safe. If the players ask him to explain himself, he merely sneers and claims that it would be "unsightly" for them to bleed out all over the guest landing carpet.
 ### Wine Cellar
 <span class="citation"><em>This scene takes place in Chapter 4, Area K63.</em></span>
 
-This area is as described in [K63. Wine Cellar (p. 77)](../Source%20book/Curse%20of%20Strahd.md#k63-wine-cellar).
+This area is as described in [K63. Wine Cellar (p. 77)](../Source%20book/Curse%20of%20Strahd.md#K63.%20Wine%20Cellar).
 ### Kitchen
 <span class="citation"><em>This scene takes place in Chapter 4, Area K65.</em></span>
 
-This area is largely as described in [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k65-kitchen). However, a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring above one of the shelves.
+This area is largely as described in [K65. Kitchen (p. 78)](../Source%20book/Curse%20of%20Strahd.md#K65.%20Kitchen). However, a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring above one of the shelves.
 
 The vampire attacks if noticed, or if any player enters this area alone.
 ### Butler’s Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K66.</em></span>
 
-This area is largely as described in [K66. Butler’s Quarters (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k66-butlers-quarters). However, the clutter in the room was not collected by Cyrus, and a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring in the southwest corner.
+This area is largely as described in [K66. Butler’s Quarters (p. 78)](../Source%20book/Curse%20of%20Strahd.md#K66.%20Butler's%20Quarters). However, the clutter in the room was not collected by Cyrus, and a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring in the southwest corner.
 
 The vampire attacks if noticed, or if any player enters this area alone.
 # P6. King’s Apartments
-This area of the castle once hosted Strahd’s private apartments on the third floor, as well as the sleeping quarters of the members of his court on the floor immediately below. The apartments are connected to the North Tower ([K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow) for ease of access by servants ascending from the servants’ quarters, as well as [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) for easy access to the castle commons, including Strahd’s audience hall and the main dining hall.
+This area of the castle once hosted Strahd’s private apartments on the third floor, as well as the sleeping quarters of the members of his court on the floor immediately below. The apartments are connected to the North Tower ([K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow) for ease of access by servants ascending from the servants’ quarters, as well as [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) for easy access to the castle commons, including Strahd’s audience hall and the main dining hall.
 ## P6a. King’s Apartments, Second Floor
 ### King’s Apartment Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Area K33.</em></span>
 
-This area is as described in [K33. King’s Apartment Stair (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k33-kings-apartment-stair).
+This area is as described in [K33. King’s Apartment Stair (p. 64)](../Source%20book/Curse%20of%20Strahd.md#K33.%20King's%20Apartment%20Stair).
 ### Court’s Bedchamber
 <span class="citation"><em>This scene takes place in Chapter 4, Area K32.</em></span>
 
-This area is largely as described in [K32. Maid in Hell (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k32-maid-in-hell). However, replace Helga with a **broom of animated attack**. The broom is largely as described in [Broom of Animated Attack (p. 50)](../Source%20book/Curse%20of%20Strahd.md#broom-of-animated-attack), except it’s wearing Helga’s necklace wrapped around its wooden shaft. The broom attacks if a player attempts to remove the necklace or otherwise interfere with its cleaning.
+This area is largely as described in [K32. Maid in Hell (p. 64)](../Source%20book/Curse%20of%20Strahd.md#K32.%20Maid%20in%20Hell). However, replace Helga with a **broom of animated attack**. The broom is largely as described in [Broom of Animated Attack (p. 50)](../Source%20book/Curse%20of%20Strahd.md#Broom%20of%20Animated%20Attack), except it’s wearing Helga’s necklace wrapped around its wooden shaft. The broom attacks if a player attempts to remove the necklace or otherwise interfere with its cleaning.
 
 > [!lore]+ **The Witches’ Broom**
 > The broom belongs to the witches’ coven that resides in [[#P9. Coven’s Quarters]], whose members affectionately refer to the broom as their “pet."
@@ -799,7 +799,7 @@ This area is largely as described in [K32. Maid in Hell (p. 64)](../Source%20boo
 ### King’s Antechamber
 <span class="citation"><em>This scene takes place in Chapter 4, Area K35.</em></span>
 
-This area is largely as described in [K35. Guardian Vermin (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k35-guardian-vermin). However, seven **crawling claws** emerge from the alcoves behind the **swarms of rats** on the first round of combat as described in [Crawling Claws (p. 50)](../Source%20book/Curse%20of%20Strahd.md#crawling-claws).
+This area is largely as described in [K35. Guardian Vermin (p. 64)](../Source%20book/Curse%20of%20Strahd.md#K35.%20Guardian%20Vermin). However, seven **crawling claws** emerge from the alcoves behind the **swarms of rats** on the first round of combat as described in [Crawling Claws (p. 50)](../Source%20book/Curse%20of%20Strahd.md#Crawling%20Claws).
   
 > [!combat]- **Combat - The Guardian Vermin**  
 > **Combat Level**: Mild
@@ -815,42 +815,42 @@ This area is largely as described in [K35. Guardian Vermin (p. 64)](../Source%20
 > | Swarm of Rats | 3 | 4 | 4 | 5 |
 
 > [!info]+ **South Tower Stair**
-> ***B2F.*** Players who descend four flights of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) exit the king’s apartments and enter [[#P11. Dungeons]] via [[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]].
+> ***B2F.*** Players who descend four flights of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) exit the king’s apartments and enter [[#P11. Dungeons]] via [[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]].
 >
-> ***B1F.*** Players who descend three flights of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) exit the king’s apartments  and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
+> ***B1F.*** Players who descend three flights of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) exit the king’s apartments  and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
 >
-> ***1F.*** Players who descend two flights of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) exit the king’s apartments and enter [[#P4. Castle Commons]] via [[Arc P - Ravenloft Heist#Main Entrance|Main Entrance]].
+> ***1F.*** Players who descend two flights of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) exit the king’s apartments and enter [[#P4. Castle Commons]] via [[Arc P - Ravenloft Heist#Main Entrance|Main Entrance]].
 >
-> ***2F.*** Players who descend one flight of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) exit the king’s apartments and enter [[#P4. Castle Commons]] via [[#Accountant’s Office]].
+> ***2F.*** Players who descend one flight of stairs down [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) exit the king’s apartments and enter [[#P4. Castle Commons]] via [[#Accountant’s Office]].
 >
-> ***4F.*** Players who ascend one flight of stairs up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair) exit the king’s apartments  and enter [[#P8. Guest Suite]] via [[Arc P - Ravenloft Heist#P8a. Guest Landing|Guest Landing]].
+> ***4F.*** Players who ascend one flight of stairs up [K21. South Tower Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair) exit the king’s apartments  and enter [[#P8. Guest Suite]] via [[Arc P - Ravenloft Heist#P8a. Guest Landing|Guest Landing]].
 ### King’s Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K36.</em></span>
 
-This area is largely as described in [K36. (p. 65)](../Source%20book/Curse%20of%20Strahd.md#k36-dining-hall-of-the-count). However, nothing happens if the players take the groom figurine from the cake, and Pidlwick’s ghost doesn’t appear if a player plays the harp. In addition, the doors leading to [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#k37-study) and [K43. Bath Chamber (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k43-bath-chamber) are locked as described in [The Lands of Barovia: Common Features (p. 33)](../Source%20book/Curse%20of%20Strahd.md#the-lands-of-barovia-common-features).
+This area is largely as described in [K36. (p. 65)](../Source%20book/Curse%20of%20Strahd.md#K36.%20Dining%20Hall%20of%20the%20Count). However, nothing happens if the players take the groom figurine from the cake, and Pidlwick’s ghost doesn’t appear if a player plays the harp. In addition, the doors leading to [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#K37.%20Study) and [K43. Bath Chamber (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K43.%20Bath%20Chamber) are locked as described in [The Lands of Barovia: Common Features (p. 33)](../Source%20book/Curse%20of%20Strahd.md#The%20Lands%20of%20Barovia%3A%20Common%20Features).
 ### Study
 <span class="citation"><em>This scene takes place in Chapter 4, Area K37.</em></span>
 
-This area is largely as described in [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#k37-study). However, the doors leading to [K36. Dining Hall of the Count (p. 65)](../Source%20book/Curse%20of%20Strahd.md#k36-dining-hall-of-the-count), [K45. Hall of Heroes (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k45-hall-of-heroes), and [K83. Spiral Stair (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k83-spiral-stair) are locked as described in [The Lands of Barovia: Common Features (p. 33)](../Source%20book/Curse%20of%20Strahd.md#the-lands-of-barovia-common-features).
+This area is largely as described in [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#K37.%20Study). However, the doors leading to [K36. Dining Hall of the Count (p. 65)](../Source%20book/Curse%20of%20Strahd.md#K36.%20Dining%20Hall%20of%20the%20Count), [K45. Hall of Heroes (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K45.%20Hall%20of%20Heroes), and [K83. Spiral Stair (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K83.%20Spiral%20Stair) are locked as described in [The Lands of Barovia: Common Features (p. 33)](../Source%20book/Curse%20of%20Strahd.md#The%20Lands%20of%20Barovia%3A%20Common%20Features).
 
 In addition, a player who inspects the portrait of Tatyana notices that she is wearing a silver bracelet carved with an intricate pattern of the moon and stars, with a moonstone gem embedded at the center of the moon and multiple lapis-lazuli serving as the stars. A player who has previously seen Ireena’s bracelet in [[Act I - Into the Mists/Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Arc B - Welcome to Barovia]] recognizes it as the same bracelet.
 
 If present, Ireena is disturbed at the sight of the portrait and its clear resemblance to her, and voices her disbelief and discomfort at the thought that Strahd would commission a portrait of her. A player who succeeds on a DC 10 Intelligence (Investigation) check discerns that the portrait is centuries old. If informed of this fact, Ireena’s discomfort lessens, though she becomes stressed and disturbed at the prospect of this strange woman’s resemblance to her—especially if the players suggest she might be this woman’s reincarnation.
 
 > [!info]+ **Exiting the Study**
-> A player who departs the study via [K83. Spiral Stair (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k83-spiral-stair) exits the king’s apartments, passes through [K83a. Spiral Stair Landing (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k83a-spiral-stair-landing), and enters the [[Arc P - Ravenloft Heist#P11. Dungeons|Dungeons]] via [[#P11e. Brazier Room]].
+> A player who departs the study via [K83. Spiral Stair (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K83.%20Spiral%20Stair) exits the king’s apartments, passes through [K83a. Spiral Stair Landing (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K83a.%20Spiral%20Stair%20Landing), and enters the [[Arc P - Ravenloft Heist#P11. Dungeons|Dungeons]] via [[#P11e. Brazier Room]].
 >
-> The spiral stair landing is largely as described in [K83a. Spiral Stair Landing (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k83a-spiral-stair-landing), but the tapestry is no longer present.
+> The spiral stair landing is largely as described in [K83a. Spiral Stair Landing (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K83a.%20Spiral%20Stair%20Landing), but the tapestry is no longer present.
 ### Bath Chamber & Closet
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K43 & K44.</em></span>
 
-This area is largely as described in [K43. Bath Chamber (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k43-bath-chamber) and [K44. Closet (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k44-closet). However, while the tub is stained with ancient blood, it does not currently contain any blood, and Varushka’s spirit doesn’t haunt it.
+This area is largely as described in [K43. Bath Chamber (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K43.%20Bath%20Chamber) and [K44. Closet (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K44.%20Closet). However, while the tub is stained with ancient blood, it does not currently contain any blood, and Varushka’s spirit doesn’t haunt it.
 
 In addition, the closet contains only three capes, rather than twenty-eight.
 ### King’s Bedchamber
 <span class="citation"><em>This scene takes place in Chapter 4, Area K42.</em></span>
 
-This area is largely as described in [K42. King’s Bedchamber (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k42-kings-bedchamber). However, remove the word “dainty" from the description of Gertruda’s slipper in this area’s description.
+This area is largely as described in [K42. King’s Bedchamber (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K42.%20King's%20Bedchamber). However, remove the word “dainty" from the description of Gertruda’s slipper in this area’s description.
 
 ![[Gertruda.png]]
 <span class="credit">"Gertruda" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -918,7 +918,7 @@ In either case, add:
 
 Adjust the above text as needed if any players remain in the study at the time of Anastrasya's arrival.
 
-Anastrasya is also secretly joined by two additional **wights**, which conceal themselves in the secret passage between [K42. King’s Bedchamber (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k42-kings-bedchamber) and the western end of [K45. Hall of Heroes (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k45-hall-of-heroes).
+Anastrasya is also secretly joined by two additional **wights**, which conceal themselves in the secret passage between [K42. King’s Bedchamber (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K42.%20King's%20Bedchamber) and the western end of [K45. Hall of Heroes (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K45.%20Hall%20of%20Heroes).
 
 If any doors leading from the study and bedchamber have been opened, Anastrasya telekinetically causes them to slam shut with a flick of her wrist upon entering.
 
@@ -1078,20 +1078,20 @@ As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s w
 ### Hall of Heroes
 <span class="citation"><em>This scene takes place in Chapter 4, Area K45.</em></span>
 
-This area is largely as described in [K45. Hall of Heroes (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k45-hall-of-heroes). However, the statues are not imbued with the spirits of Strahd’s ancestors and cannot answer questions.
+This area is largely as described in [K45. Hall of Heroes (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K45.%20Hall%20of%20Heroes). However, the statues are not imbued with the spirits of Strahd’s ancestors and cannot answer questions.
 
-A secret door behind the furthest-west statue on the south side of the corridor leads to [[#King’s Bedchamber]], as described in [K42. King’s Bedchamber (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k42-kings-bedchamber). To open it, the statue’s sword arm must be pulled thirty degrees upward.
+A secret door behind the furthest-west statue on the south side of the corridor leads to [[#King’s Bedchamber]], as described in [K42. King’s Bedchamber (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K42.%20King's%20Bedchamber). To open it, the statue’s sword arm must be pulled thirty degrees upward.
 # P7. Bell Tower
 This area of the castle hosts the castle belfry, whose bell once marked the hours of the day and announced castle ceremonies, holidays, or other special events. Because of its relative isolation, Strahd also chose this section to host his concealed treasury—as well as a false treasury to lure would-be thieves to their doom.
 ## P7a. False Treasury
 <span class="citation"><em>This scene takes place in Chapter 4, Area K38.</em></span>
 
-This area is largely as described in [K38. False Treasury (p. 66)](../Source%20book/Curse%20of%20Strahd.md#k38-false-treasury). However, a character that inspects the skeleton and succeeds on a DC 14 Wisdom (Medicine) check learns that it died of suffocation. In addition, a character that inspects the skeleton’s attire or equipment observes that its pockets are stuffed with gold coins.
+This area is largely as described in [K38. False Treasury (p. 66)](../Source%20book/Curse%20of%20Strahd.md#K38.%20False%20Treasury). However, a character that inspects the skeleton and succeeds on a DC 14 Wisdom (Medicine) check learns that it died of suffocation. In addition, a character that inspects the skeleton’s attire or equipment observes that its pockets are stuffed with gold coins.
 
 > [!lore]+ **The Choking Skeleton**
-> This dead adventurer entered Castle Ravenloft during Strahd’s hibernation, seeking to loot the castle for gold and jewels. After finding the secret door in [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k27-kings-hall) and using it to access [K31. Trapworks (p. 63)](../Source%20book/Curse%20of%20Strahd.md#k31-trapworks), he ascended the iron chains in [K31a. Elevator Shaft (p. 63)](../Source%20book/Curse%20of%20Strahd.md#k31a-elevator-shaft) and exited the secret door from [K31b. Shaft Access (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k31b-shaft-access) into [K39. Hall of Webs (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k39-hall-of-webs). 
+> This dead adventurer entered Castle Ravenloft during Strahd’s hibernation, seeking to loot the castle for gold and jewels. After finding the secret door in [K27. King’s Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K27.%20King's%20Hall) and using it to access [K31. Trapworks (p. 63)](../Source%20book/Curse%20of%20Strahd.md#K31.%20Trapworks), he ascended the iron chains in [K31a. Elevator Shaft (p. 63)](../Source%20book/Curse%20of%20Strahd.md#K31a.%20Elevator%20Shaft) and exited the secret door from [K31b. Shaft Access (p. 64)](../Source%20book/Curse%20of%20Strahd.md#K31b.%20Shaft%20Access) into [K39. Hall of Webs (p. 67)](../Source%20book/Curse%20of%20Strahd.md#K39.%20Hall%20of%20Webs). 
 >
-> After entering the then-open secret door into [K38. False Treasury (p. 66)](../Source%20book/Curse%20of%20Strahd.md#k38-false-treasury), the adventurer took the torch from the wall nearby, causing the secret door to swing closed. He then opened the chest, failed to resist the effects of the sleeping gas, and became paralyzed. The fire in the fireplace in [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#k37-study) then slowly consumed the rest of the oxygen in the chamber, eventually suffocating him.
+> After entering the then-open secret door into [K38. False Treasury (p. 66)](../Source%20book/Curse%20of%20Strahd.md#K38.%20False%20Treasury), the adventurer took the torch from the wall nearby, causing the secret door to swing closed. He then opened the chest, failed to resist the effects of the sleeping gas, and became paralyzed. The fire in the fireplace in [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#K37.%20Study) then slowly consumed the rest of the oxygen in the chamber, eventually suffocating him.
 
 A creature that fails its saving throw against the sleeping gas can repeat the saving throw every ten minutes. The first time a creature succeeds on a repeated saving throw in this way, it becomes poisoned, rather than paralyzed. The second time a creature succeeds on a repeated saving throw in this way, the effects of the sleeping gas on it end.
 
@@ -1107,19 +1107,19 @@ If any players knock on the door or otherwise indicate their presence, the **inv
 <p>The wind whistles softly, and the clouds of smoke begin to stir . Slowly, a shape takes form in the ashen haze: a humanoid silhouette, composed entirely of clean, smokeless air.</p>
 </div>
 
-The silhouette is the invisible stalker. If any character moves, speaks, or otherwise makes clear that they aren’t paralyzed, the invisible stalker flees back into the crack in the wall and enters [K40. Belfry (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k40-belfry). There, it rings the bell three times before returning to [[#P7d. Treasury]]. Read:
+The silhouette is the invisible stalker. If any character moves, speaks, or otherwise makes clear that they aren’t paralyzed, the invisible stalker flees back into the crack in the wall and enters [K40. Belfry (p. 67)](../Source%20book/Curse%20of%20Strahd.md#K40.%20Belfry). There, it rings the bell three times before returning to [[#P7d. Treasury]]. Read:
 
 <div class="description">
 <p>The tolling of a great, sonorous bell reverberates through the air—once, twice, three times—leaving the air and stones themselves seeming to tremble with its echoes.</p>
 </div>
 
-The sound of the bell attracts two **vampire spawn**, who pass from [K53. Rooftop (p. 71)](../Source%20book/Curse%20of%20Strahd.md#k53-rooftop) into [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow), then descend to [K45. Hall of Heroes (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k45-hall-of-heroes) before entering the false treasury via the secret door in [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#k37-study). The vampires attack the players on sight.
+The sound of the bell attracts two **vampire spawn**, who pass from [K53. Rooftop (p. 71)](../Source%20book/Curse%20of%20Strahd.md#K53.%20Rooftop) into [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow), then descend to [K45. Hall of Heroes (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K45.%20Hall%20of%20Heroes) before entering the false treasury via the secret door in [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#K37.%20Study). The vampires attack the players on sight.
 
 Otherwise, if undisturbed, the invisible stalker inspects each character’s body to retrieve any valuables, which it places in a pile on the floor. If it has obtained any valuable items other than coins (e.g., magical items), it replaces the torch in the wall, causing the secret door to swing open. It then takes those valuables and deposits them in [[#P7d. Treasury]].
 ## P7b. Belfry Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K39.</em></span>
 
-This area is as described in [K39. Hall of Webs (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k39-hall-of-webs).
+This area is as described in [K39. Hall of Webs (p. 67)](../Source%20book/Curse%20of%20Strahd.md#K39.%20Hall%20of%20Webs).
 ## P7c. Belfry
 <span class="citation"><em>This scene takes place in Chapter 4, Area K40.</em></span>
   
@@ -1135,11 +1135,11 @@ This area is as described in [K39. Hall of Webs (p. 67)](../Source%20book/Curse%
 > |-|-|-|-|-|
 > | Giant Spider | 4 | 4 | 5 | 6 |
 
-This area is largely as described in [K40. Belfry (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k40-belfry). However, if the players drew the attention of the **invisible stalker** by activating the sleeping gas trap in [[#P7a. False Treasury]], a player with a passive Wisdom (Perception) score of 16 or higher notices that the dust and webbing around the secret door have recently been disturbed.
+This area is largely as described in [K40. Belfry (p. 67)](../Source%20book/Curse%20of%20Strahd.md#K40.%20Belfry). However, if the players drew the attention of the **invisible stalker** by activating the sleeping gas trap in [[#P7a. False Treasury]], a player with a passive Wisdom (Perception) score of 16 or higher notices that the dust and webbing around the secret door have recently been disturbed.
 ## P7d. Treasury
 <span class="citation"><em>This scene takes place in Chapter 4, Area K41.</em></span>
 ### Entering the Tower
-This area is largely as described in [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k41-treasury). However, the command word to the *Daern’s instant fortress* is the same phrase as for the *Tome of Strahd*: “I come in Dostron’s memory."
+This area is largely as described in [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#K41.%20Treasury). However, the command word to the *Daern’s instant fortress* is the same phrase as for the *Tome of Strahd*: “I come in Dostron’s memory."
 
 Speaking the command phrase aloud doesn’t cause the door or trapdoor to open. Instead, once the command phrase is spoken, the adamantine door (on the ground floor) and trapdoor (on the roof) become reflective, mirror-like surfaces for the next 1 minute. Read:
 
@@ -1151,9 +1151,9 @@ The door handle opens the door (or trapdoor) leading inside the fortress. Howeve
 
 Creatures that don’t cast a reflection (e.g., because they are invisible, because the room is completely dark, or because they are a vampire) can reach into the mirror and open the handle normally. (Due to the sparkling of the painted “stars" on the ceiling above, the players must take some action to darken the stars’ light in order to remove their reflection through darkness.)
 
-Players who fail to open the door can still enter the tower through magical teleportation or by passing through the tower’s arrow slits through magical means, as described in [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k41-treasury).
+Players who fail to open the door can still enter the tower through magical teleportation or by passing through the tower’s arrow slits through magical means, as described in [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#K41.%20Treasury).
 ### Plundering the Treasury
-The contents of the treasury are largely as described in [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#k41-treasury). However, replace the *alchemy jug*, *helm of brilliance*, and *rod of the pact keeper, +1* with a *driftglobe*, *cape of the mountebank*, two *pearls of power* and an *amber shard* of Great Taar Haak, the Five-Headed Destroyer. (See the [[Amber Shards]] appendix for more information about amber shards.). In addition, replace the four *potions of greater healing* with *potions of superior healing*, and add a *+1 light crossbow* hanging from a hook on the wall.
+The contents of the treasury are largely as described in [K41. Treasury (p. 67)](../Source%20book/Curse%20of%20Strahd.md#K41.%20Treasury). However, replace the *alchemy jug*, *helm of brilliance*, and *rod of the pact keeper, +1* with a *driftglobe*, *cape of the mountebank*, two *pearls of power* and an *amber shard* of Great Taar Haak, the Five-Headed Destroyer. (See the [[Amber Shards]] appendix for more information about amber shards.). In addition, replace the four *potions of greater healing* with *potions of superior healing*, and add a *+1 light crossbow* hanging from a hook on the wall.
 
 An **invisible stalker** bound by Strahd to protect the treasury’s contents lurks in the upper floor of the tower. The invisible stalker has the following changes to its statistics:
 
@@ -1161,11 +1161,11 @@ An **invisible stalker** bound by Strahd to protect the treasury’s contents lu
 
 Shortly after a character enters the lower floor of the tower for the first time, the invisible stalker causes the *driftglobe* to roll off of its shelf and onto the floor, where it comes to rest against one of the tower’s walls. The stalker then exits the tower through one of the arrow slits, waits for any characters to ascend to the upper floor, then slams the ground-floor door shut before returning to the upper floor. Upon returning, it attacks any characters that remain or re-enter the tower’s upper floor. (The stalker also eventually attacks if no characters enter the upper floor.)
 # P8. Guest Suite
-This area of the castle once hosted important guests to the keep, including those described in [Pidlwick II (p. 236)](../Source%20book/Curse%20of%20Strahd.md#pidlwick-ii-1). In the castle’s heyday, access to the elevator shaft once allowed servants to bring hot meals and wine directly from the kitchens and wine cellar, providing prompt and efficient service.
+This area of the castle once hosted important guests to the keep, including those described in [Pidlwick II (p. 236)](../Source%20book/Curse%20of%20Strahd.md#Appendix%20D%3A%20Monsters%20and%20NPCs#Pidlwick%20II). In the castle’s heyday, access to the elevator shaft once allowed servants to bring hot meals and wine directly from the kitchens and wine cellar, providing prompt and efficient service.
 ## P8a. Guest Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K47.</em></span>
 
-This area is largely as described in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd). However, modify the portrait as follows:
+This area is largely as described in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K47.%20Portrait%20of%20Strahd). However, modify the portrait as follows:
 
 * The portrait can take up to three reactions per round, but only one per turn.
 * The portrait gains the following reaction: ***Reflexive Spellcasting.*** In response to being targeted by an attack or spell, or in response to a creature casting a spell that would place the portrait in its area of effect, the portrait casts one of the spells it knows.
@@ -1191,7 +1191,7 @@ This area is largely as described in [K47. Portrait of Strahd (p. 68)](../Source
 > |-|-|
 > | 3 | Reduce the rug of smothering’s hit points to 33, and the damage of its Smother attacks to 8 (2d4+3). Additionally, reduce the Guardian Portrait’s hit points to 16. |
 
-On initiative count 20 of the second round of combat after the **guardian portrait** or **rug of smothering** attacks, a black **cat** emerges from [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) and notices them. Read:
+On initiative count 20 of the second round of combat after the **guardian portrait** or **rug of smothering** attacks, a black **cat** emerges from [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K48.%20Offstair) and notices them. Read:
 
 <div class="description">
 <p>The darkness filling the ascending stair stirs. A black cat peers out of the shadows, its green eyes glinting with a strange, malevolent intelligence. Its gaze lands upon you, and, with a hiss, it turns and begins darting back up the stairs.</p>
@@ -1199,20 +1199,20 @@ On initiative count 20 of the second round of combat after the **guardian portra
 
 The cat is the familiar of a **Barovian witch** in [[#P9. Coven’s Quarters]], and disappears up the stairs on initiative count 20 of the following round. Unless the players kill, capture, or otherwise stop it, it goes to warn its mistress in [[#P9c. Cauldron Room]] of the players’ presence. (If killed, the cat vanishes as described in the *find familiar* spell.)
 
-Shortly after combat ends, the door to [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge) cracks open, and a pale, anxious-looking face peers out. (A player with a passive Wisdom (Perception) score of 14 or greater recognizes the face as Escher’s.) Upon noticing the players, Escher then immediately slams the door shut again.
+Shortly after combat ends, the door to [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K49.%20Lounge) cracks open, and a pale, anxious-looking face peers out. (A player with a passive Wisdom (Perception) score of 14 or greater recognizes the face as Escher’s.) Upon noticing the players, Escher then immediately slams the door shut again.
 ## P8b. Guest Suite
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, 50 & 51.</em></span>
 
-This area is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k50-guest-room), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet). However, the witches' ambush does not occur if the party rest here, and modify this area’s description depending on Escher’s location, which is as follows:
+This area is largely as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K49.%20Lounge), [K50. Guest Room (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K50.%20Guest%20Room), and [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K51.%20Closet). However, the witches' ambush does not occur if the party rest here, and modify this area’s description depending on Escher’s location, which is as follows:
 
-* If he saw the players in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k47-portrait-of-strahd) after they fought the **guardian portrait** and **rug of smothering** in [[#P8a. Guest Landing]], Escher attempts to conceal himself in [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k51-closet) while waiting for the players to leave. 
-* Otherwise, Escher is lounging on the couch as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge).
+* If he saw the players in [K47. Portrait of Strahd (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K47.%20Portrait%20of%20Strahd) after they fought the **guardian portrait** and **rug of smothering** in [[#P8a. Guest Landing]], Escher attempts to conceal himself in [K51. Closet (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K51.%20Closet) while waiting for the players to leave. 
+* Otherwise, Escher is lounging on the couch as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K49.%20Lounge).
 
 Regardless of his location, once discovered by the players, Escher immediately pales, then drops to his knees and begs the players to spare his life. While babbling, he promises, amongst other things, to “drink only animal blood," “become a vegetarian," or “become a monk of the Morninglord."
 
 ***Threatening Escher.*** Players who threaten Escher and succeed on a DC 15 Charisma (Intimidation) check can convince him to provide the information in **What Escher Knows** below. Otherwise, Escher cowers and pleads for mercy while insisting he cannot betray “Count von Zarovich." 
 
-If attacked, Escher attempts to flee through the window as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k49-lounge).
+If attacked, Escher attempts to flee through the window as described in [K49. Lounge (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K49.%20Lounge).
 
 ***Reassuring Escher.*** If reassured that the players mean him no harm, Escher looks abashed, then grows sullen and irate. He demands to know why the players have “come traipsing through the Master’s castle," but almost immediately changes his mind and insists that he “has no interest in their games."
 
@@ -1249,18 +1249,18 @@ Players who invoke Escher’s former relationship to the village of Barovia and 
 > 
 > As they leave, a player with a passive Wisdom (Insight) score of 14 or greater notices that Escher’s shoulders are trembling with silent sobs.
 # P9. Coven’s Quarters
-This area lies at the peak of Castle Ravenloft’s South Tower, once nicknamed the “General’s Tower" for the contents of its highest floor. Before Strahd became a vampire, [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#k54-familiar-room) was a guard post responsible for manning and supplying [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof), [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k55-element-room) was a map room and armory, and <span class="citation">K56. (p. Cauldron Room)</span> hosted the living quarters of General Kroval “Mad Dog" Grislek, whose remains now lie in [Crypt 38 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#crypt-38).
+This area lies at the peak of Castle Ravenloft’s South Tower, once nicknamed the “General’s Tower" for the contents of its highest floor. Before Strahd became a vampire, [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#K54.%20Familiar%20Room) was a guard post responsible for manning and supplying [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#K57.%20Tower%20Roof), [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#K55.%20Element%20Room) was a map room and armory, and <span class="citation">K56. (p. Cauldron Room)</span> hosted the living quarters of General Kroval “Mad Dog" Grislek, whose remains now lie in [Crypt 38 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2038).
 ## P9a. Familiar Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K54.</em></span>
 
-This area is largely as described in [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#k54-familiar-room). However, the door to this chamber is ajar, as is the door to the chamber beyond. 
+This area is largely as described in [K54. Familiar Room (p. 71)](../Source%20book/Curse%20of%20Strahd.md#K54.%20Familiar%20Room). However, the door to this chamber is ajar, as is the door to the chamber beyond. 
 
 > [!abstract]+ **Watchful Familiars**
 > The witches aren’t automatically alerted to the players’ presence if the familiars see them here. However, if the players failed to prevent the **black cat** familiar in [[#P8a. Guest Landing]] from alerting its mistress, three of the witches in [[#P9c. Cauldron Room]] are watching through the eyes of the three **cats** in this chamber as described in the *find familiar* spell.
 ## P9b. Element Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K55.</em></span>
 
-This area is largely as described in [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k55-element-room). However, a **zombie** stands silently at the center of the room. (The zombie doesn’t attack except in self-defense, or except as directed by the coven.) Add the following to the end of this area’s description:
+This area is largely as described in [K55. Element Room (p. 72)](../Source%20book/Curse%20of%20Strahd.md#K55.%20Element%20Room). However, a **zombie** stands silently at the center of the room. (The zombie doesn’t attack except in self-defense, or except as directed by the coven.) Add the following to the end of this area’s description:
 
 <div class="description">
 <p>A rotting figure stands still at the center of the room, its glassy, unblinking eyes staring straight ahead.</p>
@@ -1297,7 +1297,7 @@ The witches in [[#P9c. Cauldron Room]] emerge and join the fray if they hear the
 ## P9c. Cauldron Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K56.</em></span>
 
-This area is largely as described in [K56. Cauldron (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k56-cauldron). However, replace the reference to “green-glowing wisps of steam" in this area’s description with “red-glowing wisps of steam."
+This area is largely as described in [K56. Cauldron (p. 72)](../Source%20book/Curse%20of%20Strahd.md#K56.%20Cauldron). However, replace the reference to “green-glowing wisps of steam" in this area’s description with “red-glowing wisps of steam."
 
 > [!lore]+ **The Cauldron**
 > The potion in the cauldron, when imbibed by a **zombie**, transforms it into a **zombie plague spreader**. Due to the enchantments layered into the potion by the witches, a **zombie plague spreader** created in this way is loyal first to Strahd, second to Rahadin, third to Strahd’s consorts, and last to the witches who created it. Unless ordered otherwise, the plague spreader attacks any non-undead on sight.
@@ -1320,7 +1320,7 @@ In addition, replace the seven **Barovian witches** with two **Barovian hexwitch
 > | Barovian Stormwich | 2 | 1 | 3 | 3 | 
 
 
-If the players didn’t attract her to [[#Main Foyer]], Ludmilla Vilisevic is also present alongside the witches’ coven. (See [[#Main Foyer]] for her statistics.) If combat breaks out, Ludmilla prefers to lure any enemy combatants up [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) toward [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof), where she can more easily use the open-air battlefield to her advantage.
+If the players didn’t attract her to [[#Main Foyer]], Ludmilla Vilisevic is also present alongside the witches’ coven. (See [[#Main Foyer]] for her statistics.) If combat breaks out, Ludmilla prefers to lure any enemy combatants up [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K48.%20Offstair) toward [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#K57.%20Tower%20Roof), where she can more easily use the open-air battlefield to her advantage.
 
 > [!item]+ **Potion of Poison Immunity**
 > A *potion of poison immunity* has the properties of a *potion of poison resistance*, but grants immunity rather than resistance.
@@ -1347,12 +1347,12 @@ One of the Barovian stormwitches is Diavola, the leader of the coven. Diavola, w
 > * 2nd level (2 slots): Melf’s acid arrow, invisibility, misty step
 > In combat, a Barovian stormwitch prefers to begin by casting *Melf’s acid arrow*, followed by *witch bolt.*
 # P10. Garrison
-This area of the castle once hosted the barracks and common areas of the castle guards, providing easy access to the upper-floor archers’ posts and battlements via [K64. Guards’ Stair (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k64-guards-stair) and the North Tower Stair ([K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow)). A quartet of secret doors, providing access to [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#k10-dining-hall), [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall), [K33. King’s Apartment Stair (p. 64)](../Source%20book/Curse%20of%20Strahd.md#k33-kings-apartment-stair), and [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room), also allowed for the castle’s protectors to swiftly and quietly navigate its floors or spirit away important targets to safety in the event of an attack.
+This area of the castle once hosted the barracks and common areas of the castle guards, providing easy access to the upper-floor archers’ posts and battlements via [K64. Guards’ Stair (p. 78)](../Source%20book/Curse%20of%20Strahd.md#K64.%20Guards'%20Stair) and the North Tower Stair ([K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow)). A quartet of secret doors, providing access to [K10. Dining Hall (p. 56)](../Source%20book/Curse%20of%20Strahd.md#K10.%20Dining%20Hall), [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K25.%20Audience%20Hall), [K33. King’s Apartment Stair (p. 64)](../Source%20book/Curse%20of%20Strahd.md#K33.%20King's%20Apartment%20Stair), and [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room), also allowed for the castle’s protectors to swiftly and quietly navigate its floors or spirit away important targets to safety in the event of an attack.
 ## P10a. Garrison, Basement Floor
 ### Hall of Bones
 <span class="citation"><em>This scene takes place in Chapter 4, Area K67.</em></span>
 
-This area is largely as described in [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k67-hall-of-bones). However, if Argynvost’s skull is removed from its mount, a **skeleton** crawls from each of the four mounds of bones at the corners of the room. The skeletons attack living creatures on sight.
+This area is largely as described in [K67. Hall of Bones (p. 78)](../Source%20book/Curse%20of%20Strahd.md#K67.%20Hall%20of%20Bones). However, if Argynvost’s skull is removed from its mount, a **skeleton** crawls from each of the four mounds of bones at the corners of the room. The skeletons attack living creatures on sight.
 
 For the next 1 minute, an additional **skeleton** crawls from each non-destroyed bone mound at initiative count 0 of each round. Each bone mound has AC 15, 10 hit points, immunity to piercing, psychic, and poison damage, and vulnerability to bludgeoning damage.
 
@@ -1365,11 +1365,11 @@ For the next 1 minute, an additional **skeleton** crawls from each non-destroyed
 ### Guards’ Run
 <span class="citation"><em>This scene takes place in Chapter 4, Area K68.</em></span>
 
-This area is as described in [K68. Guards’ Run (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k68-guards-run).
+This area is as described in [K68. Guards’ Run (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K68.%20Guards'%20Run).
 ### Guards’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K69.</em></span>
 
-This area is largely as described in [K69. Guards’ Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k69-guards-quarters). However, revise this area’s description as follows:
+This area is largely as described in [K69. Guards’ Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K69.%20Guards'%20Quarters). However, revise this area’s description as follows:
 
 <div class="description">
 <p>Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten ten-foot-square alcoves that contain rotting debris and rags.</p>
@@ -1401,15 +1401,15 @@ Players who inspect the crawling zombie notice that it appears far older and mor
 ### Kingsmen Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K70.</em></span>
 
-This area is as described in [K70. Kingsmen Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k70-kingsmen-hall).
+This area is as described in [K70. Kingsmen Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K70.%20Kingsmen%20Hall).
 ### Kingsmen Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K71.</em></span>
 
-This area is largely as described in [K71. Kingsmen Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k71-kingsmen-quarters). However, the sack beneath the loose flagstone in the southeast alcove also contains a *stone of good luck*.
+This area is largely as described in [K71. Kingsmen Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K71.%20Kingsmen%20Quarters). However, the sack beneath the loose flagstone in the southeast alcove also contains a *stone of good luck*.
 ### Chamberlain’s Office
 <span class="citation"><em>This scene takes place in Chapter 4, Area K72.</em></span>
 
-This area is largely as described in [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k72-chamberlains-office). However, remove Rahadin and the **shadow demon** from this room.
+This area is largely as described in [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K72.%20Chamberlain's%20Office). However, remove Rahadin and the **shadow demon** from this room.
 
 In addition, a player who investigates Rahadin’s desk finds an unsealed parchment letter sitting upon it. It reads:
 
@@ -1430,11 +1430,11 @@ Rahadin von Zarovich</p>
 ### First Floor South Archers’ Post Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This area is largely as described in [K13. Turrets Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k13-turret-post-access-hall).
+This area is largely as described in [K13. Turrets Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K13.%20Turret%20Post%20Access%20Hall).
 ### First Floor South Archers’ Post
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K11 & K12.</em></span>
 
-This area is as described in [K11. South Archers’ Post (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k11-south-archers-post) and [K12. Turret Post (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k12-turret-post). However, a single **shadow** dwells here, as described in [Shadows (p. 51)](../Source%20book/Curse%20of%20Strahd.md#shadows).
+This area is as described in [K11. South Archers’ Post (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K11.%20South%20Archers'%20Post) and [K12. Turret Post (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K12.%20Turret%20Post). However, a single **shadow** dwells here, as described in [Shadows (p. 51)](../Source%20book/Curse%20of%20Strahd.md#Shadows).
 
 This **shadow**, which understands Common but can’t speak it, is the remnant of a spirit that died in the castle long ago. If permitted to do so, it shyly attempts to follow the players throughout Castle Ravenloft, though it hides itself among nearby furniture or architecture if confronted or attacked. If this occurs, a player can coax it back from hiding with a successful DC 10 Charisma (Persuasion) check.
 
@@ -1445,18 +1445,18 @@ The shadow is lonely and longs for the company of others—including, particular
 ### North Tower Vestibule
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K20 and K20a.</em></span>
 
-This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow) and [K20a. Tower Hall Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20a-tower-hall-stair). Players who ascend the stairs reach [[#Servants’ Landing]].
+This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow) and [K20a. Tower Hall Stair (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20a.%20Tower%20Hall%20Stair). Players who ascend the stairs reach [[#Servants’ Landing]].
 
 > [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow). However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> The Heart of Sorrow is largely as described in  [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow). However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 ### First Floor North Archers’ Post Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This area is as described in [K13. Turrets Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k13-turret-post-access-hall). However, the entrance to this corridor contains a giant spider cocoon suspended from the ceiling, which is as described in [Giant Spider Cocoon (p. 51)](../Source%20book/Curse%20of%20Strahd.md#giant-spider-cocoon). 
+This area is as described in [K13. Turrets Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K13.%20Turret%20Post%20Access%20Hall). However, the entrance to this corridor contains a giant spider cocoon suspended from the ceiling, which is as described in [Giant Spider Cocoon (p. 51)](../Source%20book/Curse%20of%20Strahd.md#Giant%20Spider%20Cocoon). 
 
-If opened, the cocoon contains Pidlwick II, who is as described in [Pidlwick II (p. 73)](../Source%20book/Curse%20of%20Strahd.md#pidlwick-ii). Pidlwick II is grateful to the characters for rescuing him, and attempts to assist them as described in [Pidlwick II (p. 73)](../Source%20book/Curse%20of%20Strahd.md#pidlwick-ii). It otherwise acts as described in [Pidlwick II (p. 73)](../Source%20book/Curse%20of%20Strahd.md#pidlwick-ii).
+If opened, the cocoon contains Pidlwick II, who is as described in [Pidlwick II (p. 73)](../Source%20book/Curse%20of%20Strahd.md#K59.%20High%20Tower%20Peak#Pidlwick%20II). Pidlwick II is grateful to the characters for rescuing him, and attempts to assist them as described in [Pidlwick II (p. 73)](../Source%20book/Curse%20of%20Strahd.md#K59.%20High%20Tower%20Peak#Pidlwick%20II). It otherwise acts as described in [Pidlwick II (p. 73)](../Source%20book/Curse%20of%20Strahd.md#K59.%20High%20Tower%20Peak#Pidlwick%20II).
 
 If the players are kind toward Pidlwick II and succeed on a DC 12 Charisma (Persuasion) check, they can convince it to depart the castle with them to meet the toymaker Gadof Blinsky.
 
@@ -1465,94 +1465,94 @@ If the players are kind toward Pidlwick II and succeed on a DC 12 Charisma (Pers
 ### First Floor North Archers’ Post
 <span class="citation"><em>This scene takes place in Chapter 4, Area K22.</em></span>
 
-This area is largely as described in [K22. North Archers’ Post (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k22-north-archers-post). 
+This area is largely as described in [K22. North Archers’ Post (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K22.%20North%20Archers'%20Post). 
 ## P10c. Garrison, Second Floor
 ### Second Floor South Archers’ Post Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This area is largely as described in [K13. Turrets Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k13-turret-post-access-hall). However, four **crawling claws** cling to the ceiling above the secret door leading to [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#k25-audience-hall), and drop down to attack any creature that passes beneath them. The claws otherwise behave as described in [Crawling Claws (p. 50)](../Source%20book/Curse%20of%20Strahd.md#crawling-claws).
+This area is largely as described in [K13. Turrets Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K13.%20Turret%20Post%20Access%20Hall). However, four **crawling claws** cling to the ceiling above the secret door leading to [K25. Audience Hall (p. 61)](../Source%20book/Curse%20of%20Strahd.md#K25.%20Audience%20Hall), and drop down to attack any creature that passes beneath them. The claws otherwise behave as described in [Crawling Claws (p. 50)](../Source%20book/Curse%20of%20Strahd.md#Crawling%20Claws).
 ### Second Floor South Archers’ Post
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K12 & K22.</em></span>
 
-This area is as described in [K12. Turret Post (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k12-turret-post) and [K22. North Archers’ Post (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k22-north-archers-post).
+This area is as described in [K12. Turret Post (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K12.%20Turret%20Post) and [K22. North Archers’ Post (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K22.%20North%20Archers'%20Post).
 ### Servants’ Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow). Players who ascend the stairs reach [[#King’s Landing]]. Players who descend the stairs reach [[#North Tower Vestibule]].
+This area is as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow). Players who ascend the stairs reach [[#King’s Landing]]. Players who descend the stairs reach [[#North Tower Vestibule]].
 
 > [!info]+ **The Secret Door**
 > Players who find and pass through the secret door set in the northeastern wall exit the Garrison and enter [[#P5. Servants’ Wing]] via [[Arc P - Ravenloft Heist#Servants’ Upper Floor|Servants' Upper Floor]].
 
 > [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow). However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> The Heart of Sorrow is largely as described in  [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow). However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 ### Second Floor North Archers’ Post Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This area is as described in [K13. Turrets Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#k13-turret-post-access-hall). 
+This area is as described in [K13. Turrets Post Access Hall (p. 57)](../Source%20book/Curse%20of%20Strahd.md#K13.%20Turret%20Post%20Access%20Hall). 
 
 > [!info]+ **The Secret Door**
 > Players who find and pass through the secret door set in the southern wall exit the Garrison and enter [[#P6. King’s Apartments]] via [[#King’s Apartment Stair]].
 ### Second Floor North Archers’ Post
 <span class="citation"><em>This scene takes place in Chapter 4, Area K22.</em></span>
 
-This area is as described in [K22. North Archers’ Post (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k22-north-archers-post).
+This area is as described in [K22. North Archers’ Post (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K22.%20North%20Archers'%20Post).
 ## P10d. Garrison, Third Floor
 ### Inner South Wall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
 
-This area is largely as described in [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k46-parapets). However, Strahd's **animated armor** no longer patrols here.
+This area is largely as described in [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K46.%20Parapets). However, Strahd's **animated armor** no longer patrols here.
 
 > [!info]+ **Through the Windows**
 > The five-foot-wide windows along this walkway are locked from the inside and covered by heavy curtains:
 >
-> * ***Eastern Window.*** The window closest to [K64. Guards’ Stair (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k64-guards-stair) looks into [[#King’s Dining Hall]].
-> * ***Western Windows.*** The two windows further from [K64. Guards’ Stair (p. 78)](../Source%20book/Curse%20of%20Strahd.md#k64-guards-stair) look into [K44. Closet (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k44-closet) in [[#Bath Chamber & Closet]].
+> * ***Eastern Window.*** The window closest to [K64. Guards’ Stair (p. 78)](../Source%20book/Curse%20of%20Strahd.md#K64.%20Guards'%20Stair) looks into [[#King’s Dining Hall]].
+> * ***Western Windows.*** The two windows further from [K64. Guards’ Stair (p. 78)](../Source%20book/Curse%20of%20Strahd.md#K64.%20Guards'%20Stair) look into [K44. Closet (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K44.%20Closet) in [[#Bath Chamber & Closet]].
 ### Inner West Wall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
 
-This area is largely as described in [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k46-parapets).
+This area is largely as described in [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K46.%20Parapets).
 ### King’s Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow). Players who ascend the stairs reach [[#General’s Landing]] via [[#North Tower Stair]]. Players who descend the stairs reach [[#Servants’ Landing]].
+This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow). Players who ascend the stairs reach [[#General’s Landing]] via [[#North Tower Stair]]. Players who descend the stairs reach [[#Servants’ Landing]].
 
 Players who pass through the western archway exit the Garrison and enter [[Arc P - Ravenloft Heist#P6. King’s Apartments|King's Apartments]] via [[#Hall of Heroes]].
 
 > [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow). However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> The Heart of Sorrow is largely as described in  [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow). However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 ### Inner North Wall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
 
-This area is largely as described in [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k46-parapets).
+This area is largely as described in [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K46.%20Parapets).
 ### Inner East Wall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
 
-This area is largely as described in [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k46-parapets).
+This area is largely as described in [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K46.%20Parapets).
 ## P10e. Garrison, Fourth Floor
 ### North Tower Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow).
+This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow).
 
 > [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow). However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> The Heart of Sorrow is largely as described in  [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow). However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 ## P10f. Garrison, Fifth Floor
 ### North Tower Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow).
+This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow).
 
 ## P10g. Garrison, Sixth Floor
 ### General’s Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow).
+This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow).
 
 
  In addition, when the players arrive at this level, read:
@@ -1564,7 +1564,7 @@ This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20
 
 
 > [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow). However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart.
+> The Heart of Sorrow is largely as described in  [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow). However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart.
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 
@@ -1573,7 +1573,7 @@ This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20
 >
 > The Ladies—the Seeker, the Weaver, and the Huntress—mournfully struck their youngest sister down to protect the people of the valley. The Devourer’s corpse became the Whispering Wall at Yester Hill, but a god cannot fully die. Many years later, the wizards of the Amber Temple came upon the Devourer’s divine spark and sealed it in an amber sarcophagus at the Amber Temple.
 >
-> The Devourer was a master of the magic of souls—and so when Strahd first learned of the Grand Conjunction, he realized he could use her knowledge to construct his scheme to escape the Mists. He extracted the vestige of the Devourer from her amber prison in [X33d. Breached Vault (p. 192)](../Source%20book/Curse%20of%20Strahd.md#x33d-breached-vault) and forcefully resealed her in the Heart of Sorrow, where he could call upon her power and knowledge at will. 
+> The Devourer was a master of the magic of souls—and so when Strahd first learned of the Grand Conjunction, he realized he could use her knowledge to construct his scheme to escape the Mists. He extracted the vestige of the Devourer from her amber prison in [X33d. Breached Vault (p. 192)](../Source%20book/Curse%20of%20Strahd.md#X33d.%20Breached%20Vault) and forcefully resealed her in the Heart of Sorrow, where he could call upon her power and knowledge at will. 
 >
 > The Devourer is no willing participant in Strahd’s schemes. However, while entrapped in the Heart of Sorrow, she is powerless to resist his torments.
 
@@ -1581,15 +1581,15 @@ This area is largely as described in [K20. Heart of Sorrow (p. 59)](../Source%20
 ### General’s Terrace
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K57 & K58.</em></span>
 
-This area is as described in [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#k57-tower-roof) and[K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#k58-bridge).
+This area is as described in [K57. Tower Roof (p. 72)](../Source%20book/Curse%20of%20Strahd.md#K57.%20Tower%20Roof) and[K58. Bridge (p. 73)](../Source%20book/Curse%20of%20Strahd.md#K58.%20Bridge).
 
 > [!info]+ **Descending the Offstair**
-> Players who descend [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#k48-offstair) exit the Garrison and enter [[Arc P - Ravenloft Heist#P9. Coven’s Quarters|Coven's Quarters]] via the landing outside [[#P9a. Familiar Room]].
+> Players who descend [K48. Offstair (p. 70)](../Source%20book/Curse%20of%20Strahd.md#K48.%20Offstair) exit the Garrison and enter [[Arc P - Ravenloft Heist#P9. Coven’s Quarters|Coven's Quarters]] via the landing outside [[#P9a. Familiar Room]].
 ## P10h. Garrison, Seventh Floor
 ### North Tower Peak
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K60.</em></span>
 
-This area is largely as described in [K60. North Tower Peak (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k60-north-tower-peak). 
+This area is largely as described in [K60. North Tower Peak (p. 74)](../Source%20book/Curse%20of%20Strahd.md#K60.%20North%20Tower%20Peak). 
 
 A player who inspects the bed notices dark bloodstains coloring the bed and nearby floor. A DC 15 Wisdom (Medicine) check reveals that the bloodstains can’t be older than a few months old. 
 
@@ -1601,7 +1601,7 @@ A player with a passive Wisdom (Perception) score of 14 or higher also notices a
 ### North Tower Rooftop
 <span class="citation"><em>This scene takes place in Chapter 4, Area K60a.</em></span>
 
-This area is largely as described in [K60a. North Tower Rooftop (p. 74)](../Source%20book/Curse%20of%20Strahd.md#k60a-north-tower-rooftop). However, revise this area’s description to read as follows:
+This area is largely as described in [K60a. North Tower Rooftop (p. 74)](../Source%20book/Curse%20of%20Strahd.md#K60a.%20North%20Tower%20Rooftop). However, revise this area’s description to read as follows:
 
 <div class="description">
 <p>A cold wind greets you atop the tower roof, its rain-slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. From the thunderclouds above, thousands of bats descend upon the tower.</p>
@@ -1628,31 +1628,31 @@ The bats arrive in two rounds, rather than three.
 > [!info]+ **Flooded Areas** 
 > The areas of <span class="citation">K73. Dungeon Hall (p. 82) </span>, <span class="citation">K74. North Dungeon (p. 82) </span>, <span class="citation">K75. South Dungeon (p. 82) </span>, <span class="citation">and K76. Torture Chamber (p. 82) </span>  are difficult terrain.
 
-This area is largely as described in [K73. Dungeon Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k73-dungeon-hall). However, the trapdoors function as follows:
+This area is largely as described in [K73. Dungeon Hall (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K73.%20Dungeon%20Hall). However, the trapdoors function as follows:
 
 * A trapdoor opens when a Medium- or Small-sized creature steps on it, but can be detected or avoided by knocking on the ground with a ten-foot pole or similar equipment. The trapdoors can also be avoided by swimming through the water. (Each trapdoor is enchanted to appear non-magical through the use of a permanent *Nystul’s magic aura* spell, and therefore doesn’t appear magical beneath the scrutiny of a *detect magic* spell.)
 * If a character doesn’t know where a trapdoor is and fails to effectively and intentionally avoid it, they automatically activate it as they pass through its section of the hall. Once a trapdoor activates, the resulting “explosion of air and water" alerts the players to its location, allowing them to navigate around it if they choose.
 
 Additionally, instead of teleporting their victims to cells in the dungeons, the teleporters act as follows:
 
-* ***The First Trapdoor.*** The closest trapdoor to [K21. South Tower Stairs (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair), which ordinarily leads to [K74c. Rotting Corpse (p. 80)](../Source%20book/Curse%20of%20Strahd.md#k74c-rotting-corpse), instead teleports its victim to the **iron maiden** in [[#P11d. Torture Chamber]] (see below).
-* ***The Second Trapdoor.*** The second-closest trapdoor to [K21. South Tower Stairs (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair), which ordinarily leads to [K74a. Forgotten Treasure (p. 80)](../Source%20book/Curse%20of%20Strahd.md#k74a-forgotten-treasure), instead teleports its victim to the **rack** in [[#P11d. Torture Chamber]] (see below).
-* ***The Third Trapdoor.*** The third-closest trapdoor to [K21. South Tower Stairs (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair), which ordinarily leads to [K74e. End of the Ride (p. 80)](../Source%20book/Curse%20of%20Strahd.md#k74e-end-of-the-ride), instead teleports its victim to the **brazen bull** in [[#P11d. Torture Chamber]] (see below).
-* ***The Fourth Trapdoor.*** The fourth-closest trapdoor to [K21. South Tower Stairs (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair), which ordinarily leads to [K74h. Lost Sword (p. 81)](../Source%20book/Curse%20of%20Strahd.md#k74h-lost-sword), instead teleports its victim to the **breaking wheel** in [[#P11d. Torture Chamber]] (see below).
-* ***The Fifth Trapdoor.*** The furthest trapdoor from [K21. South Tower Stairs (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k21-south-tower-stair), which ordinarily leads to [K75d. Dead Dwarf (p. 81)](../Source%20book/Curse%20of%20Strahd.md#k75d-dead-dwarf), instead teleports its victim to the **scavenger’s daughter** in [[#P11d. Torture Chamber]] (see below).
+* ***The First Trapdoor.*** The closest trapdoor to [K21. South Tower Stairs (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair), which ordinarily leads to [K74c. Rotting Corpse (p. 80)](../Source%20book/Curse%20of%20Strahd.md#K74c.%20Rotting%20Corpse), instead teleports its victim to the **iron maiden** in [[#P11d. Torture Chamber]] (see below).
+* ***The Second Trapdoor.*** The second-closest trapdoor to [K21. South Tower Stairs (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair), which ordinarily leads to [K74a. Forgotten Treasure (p. 80)](../Source%20book/Curse%20of%20Strahd.md#K74a.%20Forgotten%20Treasure), instead teleports its victim to the **rack** in [[#P11d. Torture Chamber]] (see below).
+* ***The Third Trapdoor.*** The third-closest trapdoor to [K21. South Tower Stairs (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair), which ordinarily leads to [K74e. End of the Ride (p. 80)](../Source%20book/Curse%20of%20Strahd.md#K74e.%20End%20of%20the%20Ride), instead teleports its victim to the **brazen bull** in [[#P11d. Torture Chamber]] (see below).
+* ***The Fourth Trapdoor.*** The fourth-closest trapdoor to [K21. South Tower Stairs (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair), which ordinarily leads to [K74h. Lost Sword (p. 81)](../Source%20book/Curse%20of%20Strahd.md#K74h.%20Lost%20Sword), instead teleports its victim to the **breaking wheel** in [[#P11d. Torture Chamber]] (see below).
+* ***The Fifth Trapdoor.*** The furthest trapdoor from [K21. South Tower Stairs (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K21.%20South%20Tower%20Stair), which ordinarily leads to [K75d. Dead Dwarf (p. 81)](../Source%20book/Curse%20of%20Strahd.md#K75d.%20Dead%20Dwarf), instead teleports its victim to the **scavenger’s daughter** in [[#P11d. Torture Chamber]] (see below).
 ## P11b. North Dungeon
 <span class="citation"><em>This scene takes place in Chapter 4, Area K74.</em></span>
 
-This area is largely as described in [K74. North Dungeon (p. 80)](../Source%20book/Curse%20of%20Strahd.md#k74-north-dungeon). However, modify the half-elf corpse in [K74c. Rotting Corpse (p. 80)](../Source%20book/Curse%20of%20Strahd.md#k74c-rotting-corpse) to be a human corpse instead.
+This area is largely as described in [K74. North Dungeon (p. 80)](../Source%20book/Curse%20of%20Strahd.md#K74.%20North%20Dungeon). However, modify the half-elf corpse in [K74c. Rotting Corpse (p. 80)](../Source%20book/Curse%20of%20Strahd.md#K74c.%20Rotting%20Corpse) to be a human corpse instead.
 
-In addition, modify the description of [K74h. Lost Sword (p. 81)](../Source%20book/Curse%20of%20Strahd.md#k74h-lost-sword) to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, requires no attunement, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
+In addition, modify the description of [K74h. Lost Sword (p. 81)](../Source%20book/Curse%20of%20Strahd.md#K74h.%20Lost%20Sword) to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, requires no attunement, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
 
 > [!info]+ **The Keys to the Cells**
 > The keys to the cells are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
 ## P11c. South Dungeon
 <span class="citation"><em>This scene takes place in Chapter 4, Area K75.</em></span>
 
-This area is largely as described in [K75. South Dungeon (p. 81)](../Source%20book/Curse%20of%20Strahd.md#k75-south-dungeon). However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
+This area is largely as described in [K75. South Dungeon (p. 81)](../Source%20book/Curse%20of%20Strahd.md#K75.%20South%20Dungeon). However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
 
 Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed in [[Arc D - St. Andral's Feast]], Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
 
@@ -1718,19 +1718,19 @@ Emil, who has three levels of exhaustion, has been locked in his cell for weeks.
 > The keys to the cells, as well as Emil’s collar, are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
 
 > [!abstract]+ **Milivoj's Prison**
-> If Milivoj was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in [K75c. Empty Cell (p. 81)](../Source%20book/Curse%20of%20Strahd.md#k75c-empty-cell).
+> If Milivoj was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in [K75c. Empty Cell (p. 81)](../Source%20book/Curse%20of%20Strahd.md#K75c.%20Empty%20Cell).
 
 > [!abstract]+ **Henrik's Prison**
-> If Henrik was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in [K75e. Empty Cell (p. 81)](../Source%20book/Curse%20of%20Strahd.md#k75e-empty-cell).
+> If Henrik was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in [K75e. Empty Cell (p. 81)](../Source%20book/Curse%20of%20Strahd.md#K75e.%20Empty%20Cell).
 ## P11d. Torture Chamber
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K76 & K77.</em></span>
 
-This area is largely as described in [K76. Torture Chamber (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k76-torture-chamber) and [K77. Observation Balcony (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k77-observation-balcony). However, remove the reference to the “last victims" of the torture devices in the water. In addition, replace the six **Strahd zombies** with three **zombies**, and add a three-foot amphora and an *alchemy jug* beside the thrones on the balcony. The amphora is filled with several gallons of oil, which is otherwise as described in <span class="citation">Oil (Flask) (Player’s Handbook, p. 152)</span>. Also, there is an extra **zombie** operating the rack. It is docile and only attacks in self-defense.
+This area is largely as described in [K76. Torture Chamber (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K76.%20Torture%20Chamber) and [K77. Observation Balcony (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K77.%20Observation%20Balcony). However, remove the reference to the “last victims" of the torture devices in the water. In addition, replace the six **Strahd zombies** with three **zombies**, and add a three-foot amphora and an *alchemy jug* beside the thrones on the balcony. The amphora is filled with several gallons of oil, which is otherwise as described in <span class="citation">Oil (Flask) (Player’s Handbook, p. 152)</span>. Also, there is an extra **zombie** operating the rack. It is docile and only attacks in self-defense.
 
 > [!info]+ **Climbing the Balcony**
 > A successful DC 10 Strength (Athletics) check is required to climb the edge of the observation balcony.
 
-If the players failed to placate Volenta during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of [K77. Observation Balcony (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k77-observation-balcony). If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
+If the players failed to placate Volenta during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of [K77. Observation Balcony (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K77.%20Observation%20Balcony). If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
 
 Otherwise, if the players successfully placated Volenta at dinner, Anton Konstaninovich is imprisoned within a rusted, metallic cage hanging above the southwest corner of the chamber. Though he can’t speak due to his missing tongue, Anton attempts to use gestures and grunts to warn the players of the zombies that dwell within the water, and is grateful to players who rescue him.
 
@@ -1780,7 +1780,7 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 > * The right staircase leads to the king’s apartments, where Anton has heard a female prisoner is being kept.
 > * The central staircase leads to the catacombs and crypts. (Anton can share that bats and vampires dwell there.)
 ### Meeting Volenta
-If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on [K77. Observation Balcony (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k77-observation-balcony), playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
+If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on [K77. Observation Balcony (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K77.%20Observation%20Balcony), playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
 
 Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[Arc D - St. Andral's Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
   
@@ -1926,7 +1926,7 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
 ## P11e. Brazier Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K78.</em></span>
 
-This area is largely as described in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room). However, revise the brazier’s riddle to read as follows:
+This area is largely as described in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room). However, revise the brazier’s riddle to read as follows:
 
 <div class="description">
 <p>Cast a stone into the fire<br>
@@ -1941,89 +1941,89 @@ Yellow for the mountain keep<br>
 
 In addition, revise the stones’ destinations as follows:
 
-* Violet leads to [U5. Marina’s Monument (p. 164)](../Source%20book/Curse%20of%20Strahd.md#u5-marinas-monument) in Berez.
-* Orange leads to [V4. Tower, First Floor (p. 170)](../Source%20book/Curse%20of%20Strahd.md#v4-tower-first-floor) in Van Richten’s Tower.
-* Red leads to the Shrine of the White Sun in [S4. Pool and Shrine (p. 146)](../Source%20book/Curse%20of%20Strahd.md#s4-pool-and-shrine) in Krezk.
-* Green leads to [N6f. Vampire Nest (p. 118)](../Source%20book/Curse%20of%20Strahd.md#n6f-vampire-nest) in the Coffin Maker’s Shop in Vallaki.
-* Indigo leads to [E6. Cemetery (p. 48)](../Source%20book/Curse%20of%20Strahd.md#e6-cemetery) in the Village of Barovia.
-* Blue leads to [W6. Well (p. 176)](../Source%20book/Curse%20of%20Strahd.md#w6-well) near the Wizard of Wines.
-* Yellow leads to [T4. Guard Tower, Ground Floor (p. 157)](../Source%20book/Curse%20of%20Strahd.md#t4-guard-tower-ground-floor) in the guard tower at Tsolenka Pass.
+* Violet leads to [U5. Marina’s Monument (p. 164)](../Source%20book/Curse%20of%20Strahd.md#U5.%20Marina's%20Monument) in Berez.
+* Orange leads to [V4. Tower, First Floor (p. 170)](../Source%20book/Curse%20of%20Strahd.md#V4.%20Tower%2C%20First%20Floor) in Van Richten’s Tower.
+* Red leads to the Shrine of the White Sun in [S4. Pool and Shrine (p. 146)](../Source%20book/Curse%20of%20Strahd.md#S4.%20Pool%20and%20Shrine) in Krezk.
+* Green leads to [N6f. Vampire Nest (p. 118)](../Source%20book/Curse%20of%20Strahd.md#N6f.%20Vampire%20Nest) in the Coffin Maker’s Shop in Vallaki.
+* Indigo leads to [E6. Cemetery (p. 48)](../Source%20book/Curse%20of%20Strahd.md#E6.%20Cemetery) in the Village of Barovia.
+* Blue leads to [W6. Well (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W6.%20Well) near the Wizard of Wines.
+* Yellow leads to [T4. Guard Tower, Ground Floor (p. 157)](../Source%20book/Curse%20of%20Strahd.md#T4.%20Guard%20Tower%2C%20Ground%20Floor) in the guard tower at Tsolenka Pass.
 
 A successful DC 15 Intelligence (Nature) check identifies “monkshood" as a colloquial name for wolfsbane.
 
 Players who investigate the exits from this room can observe the following points of interest:
 
-* A player who investigates [K79. Western Stair (p. 84)](../Source%20book/Curse%20of%20Strahd.md#k79-western-stair) (leading to [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k72-chamberlains-office)) observes a humanoid silhouette appearing to observe them from the far side of the landing. Once noticed, the silhouette quickly ducks out of sight. (The silhouette is a **shadow**. See [[#P11f. Western Stair]] for more information about the shadow if the players attempt to confront or communicate with it.)
-* A player who investigates [K80. Center Stair (p. 84)](../Source%20book/Curse%20of%20Strahd.md#k80-center-stair) (leading to [K81. Tunnel (p. 84)](../Source%20book/Curse%20of%20Strahd.md#k81-tunnel) and [K84. Catacombs (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k84-catacombs)) observes only the thick, opaque fog, which limits visibility as described in [K81. Tunnel (p. 84)](../Source%20book/Curse%20of%20Strahd.md#k81-tunnel).
-* A player who investigates [K83. Spiral Stair (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k83-spiral-stair) (leading to [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#k37-study)) observes a woman’s slipper lying discarded on one of the upper stairs, just before the spiral staircase curves out of sight. A DC 12 Intelligence (Investigation) check suggests that the slipper’s owner was traveling up the staircase, rather than down. (The slipper is Gertruda’s, and was left here by Strahd to lure the players toward her bedchamber.)
-* A player who investigates the door leading toward [K77. Observation Balcony (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k77-observation-balcony) finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]] recognize the mask as his.
+* A player who investigates [K79. Western Stair (p. 84)](../Source%20book/Curse%20of%20Strahd.md#K79.%20Western%20Stair) (leading to [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K72.%20Chamberlain's%20Office)) observes a humanoid silhouette appearing to observe them from the far side of the landing. Once noticed, the silhouette quickly ducks out of sight. (The silhouette is a **shadow**. See [[#P11f. Western Stair]] for more information about the shadow if the players attempt to confront or communicate with it.)
+* A player who investigates [K80. Center Stair (p. 84)](../Source%20book/Curse%20of%20Strahd.md#K80.%20Center%20Stair) (leading to [K81. Tunnel (p. 84)](../Source%20book/Curse%20of%20Strahd.md#K81.%20Tunnel) and [K84. Catacombs (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K84.%20Catacombs)) observes only the thick, opaque fog, which limits visibility as described in [K81. Tunnel (p. 84)](../Source%20book/Curse%20of%20Strahd.md#K81.%20Tunnel).
+* A player who investigates [K83. Spiral Stair (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K83.%20Spiral%20Stair) (leading to [K37. Study (p. 66)](../Source%20book/Curse%20of%20Strahd.md#K37.%20Study)) observes a woman’s slipper lying discarded on one of the upper stairs, just before the spiral staircase curves out of sight. A DC 12 Intelligence (Investigation) check suggests that the slipper’s owner was traveling up the staircase, rather than down. (The slipper is Gertruda’s, and was left here by Strahd to lure the players toward her bedchamber.)
+* A player who investigates the door leading toward [K77. Observation Balcony (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K77.%20Observation%20Balcony) finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]] recognize the mask as his.
 
 > [!abstract]+ **Rahadin's Challenge**
 > This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
 > 
 > Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
 > 
-> * [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), if the players are attempting to leave via [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k7-entry),
-> * [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room), if the players are attempting to leave via the teleportation brazier there,
-> * [K23. Servants' Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance), if the players are attempting to leave via that route,
-> * [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k46-parapets), if the players are attempting to leave by that route, and
-> * [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow) otherwise.
+> * [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#K8.%20Great%20Entry), if the players are attempting to leave via [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K7.%20Entry),
+> * [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room), if the players are attempting to leave via the teleportation brazier there,
+> * [K23. Servants' Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K23.%20Servants'%20Entrance), if the players are attempting to leave via that route,
+> * [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K46.%20Parapets), if the players are attempting to leave by that route, and
+> * [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow) otherwise.
 > 
-> If Rahadin confronts the players in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room), he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+> If Rahadin confronts the players in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room), he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
 >
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 ## P11f. Western Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K79.</em></span>
 
-This area is largely as described in [K79. Western Stair (p. 84)](../Source%20book/Curse%20of%20Strahd.md#k79-western-stair). However, remove the *glyph of warding*. Instead, a curious, yet fearful **shadow** lurks here.
+This area is largely as described in [K79. Western Stair (p. 84)](../Source%20book/Curse%20of%20Strahd.md#K79.%20Western%20Stair). However, remove the *glyph of warding*. Instead, a curious, yet fearful **shadow** lurks here.
 
-If the players approach the staircase from [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room), the shadow flees upward, squeezing through the secret door to [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k72-chamberlains-office) and concealing itself within one of the drawers of Rahadin’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
+If the players approach the staircase from [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room), the shadow flees upward, squeezing through the secret door to [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K72.%20Chamberlain's%20Office) and concealing itself within one of the drawers of Rahadin’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
 
-If the players enter the staircase via the secret door in [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k72-chamberlains-office), the shadow flees downward, concealing itself behind the western **iron golem** in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room). While the players remain in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room), the shadow amuses itself by pretending to be a player’s shadow. A player with a passive Wisdom (Perception) score of 14 or greater notices that the chosen player has an extra shadow.
+If the players enter the staircase via the secret door in [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K72.%20Chamberlain's%20Office), the shadow flees downward, concealing itself behind the western **iron golem** in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room). While the players remain in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room), the shadow amuses itself by pretending to be a player’s shadow. A player with a passive Wisdom (Perception) score of 14 or greater notices that the chosen player has an extra shadow.
 
 This **shadow**, which understands Common but can’t speak it, is the remnant of a spirit that died in the castle long ago. If confronted in either the Chamberlain’s Office or Brazier Room, the shadow attempts to assure the players through nonverbal gestures that it intends them no harm. Fearful of the other creatures that lurk in Strahd’s domain, the shadow won’t follow the players elsewhere in the castle.
 
 > [!abstract]+ **Reuniting the Shadows**
-> If the players reunite this shadow with its friend from [[#First Floor South Archers’ Post]], the shadows swirl happily around one another in greeting. As a show of thanks, the shadows then attempt to lead the players to the loose flagstone in the southeast alcove of [K71. Kingsmen Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k71-kingsmen-quarters), then disappear together into a nearby crack in the wall.
+> If the players reunite this shadow with its friend from [[#First Floor South Archers’ Post]], the shadows swirl happily around one another in greeting. As a show of thanks, the shadows then attempt to lead the players to the loose flagstone in the southeast alcove of [K71. Kingsmen Quarters (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K71.%20Kingsmen%20Quarters), then disappear together into a nearby crack in the wall.
 
 > [!info]+ **Ascending the Stair**
-> A player who departs the western stair via the secret door to [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#k72-chamberlains-office) exits the dungeons and enters [[#P10. Garrison]] via [[#Chamberlain’s Office]].
+> A player who departs the western stair via the secret door to [K72. Chamberlain’s Office (p. 79)](../Source%20book/Curse%20of%20Strahd.md#K72.%20Chamberlain's%20Office) exits the dungeons and enters [[#P10. Garrison]] via [[#Chamberlain’s Office]].
 ## P11g. Catacomb Tunnel
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K81 & K82.</em></span>
 
-This area is as described in [K81. Tunnel (p. 84)](../Source%20book/Curse%20of%20Strahd.md#k81-tunnel) and [K82. Marble Slide (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k82-marble-slide).
+This area is as described in [K81. Tunnel (p. 84)](../Source%20book/Curse%20of%20Strahd.md#K81.%20Tunnel) and [K82. Marble Slide (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K82.%20Marble%20Slide).
 
 > [!info]+ **Exiting the Tunnel**
 > A player who exits the eastern end of the tunnel exits the dungeons and enters [[#P12. Catacombs]] via [[#North Crypts, First Row]].
 # P12. Catacombs
 <span class="citation"><em>This scene takes place in Chapter 4, Area K84.</em></span>
 
-This area is largely as described in [K84. Catacombs (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k84-catacombs), except where denoted otherwise below.
+This area is largely as described in [K84. Catacombs (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K84.%20Catacombs), except where denoted otherwise below.
 
 > [!abstract]+ **Rahadin's Challenge**
 > This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
 > 
 > Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
 > 
-> * [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#k8-great-entry), if the players are attempting to leave via [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#k7-entry),
-> * [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room), if the players are attempting to leave via the teleportation brazier there,
-> * [K23. Servants' Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k23-servants-entrance), if the players are attempting to leave via that route,
-> * [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#k46-parapets), if the players are attempting to leave by that route, and
-> * [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#k20-heart-of-sorrow) otherwise.
+> * [K8. Great Entry (p. 55)](../Source%20book/Curse%20of%20Strahd.md#K8.%20Great%20Entry), if the players are attempting to leave via [K7. Entry (p. 54)](../Source%20book/Curse%20of%20Strahd.md#K7.%20Entry),
+> * [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room), if the players are attempting to leave via the teleportation brazier there,
+> * [K23. Servants' Entrance (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K23.%20Servants'%20Entrance), if the players are attempting to leave via that route,
+> * [K46. Parapets (p. 68)](../Source%20book/Curse%20of%20Strahd.md#K46.%20Parapets), if the players are attempting to leave by that route, and
+> * [K20. Heart of Sorrow (p. 59)](../Source%20book/Curse%20of%20Strahd.md#K20.%20Heart%20of%20Sorrow) otherwise.
 > 
-> If Rahadin confronts the players in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room), he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+> If Rahadin confronts the players in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room), he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
 >
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 ## P12a. North Catacombs
 ### North Crypts
 #### North Crypts, First Row
-This row of crypts is largely as described in [Crypt 1 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-1), [Crypt 2 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-2), [Crypt 3 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-3), [Crypt 4 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-4), [Crypt 5 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-5), and [Crypt 6 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-6). However, replace the epigraph and contents of Crypt 6 with the epigraph and contents of [Crypt 40 (p. 93)](../Source%20book/Curse%20of%20Strahd.md#crypt-40), and remove the trap surrounding Crypt 6.
+This row of crypts is largely as described in [Crypt 1 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#Crypt%201), [Crypt 2 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#Crypt%202), [Crypt 3 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#Crypt%203), [Crypt 4 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#Crypt%204), [Crypt 5 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#Crypt%205), and [Crypt 6 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#Crypt%206). However, replace the epigraph and contents of Crypt 6 with the epigraph and contents of [Crypt 40 (p. 93)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2040), and remove the trap surrounding Crypt 6.
 
-Players who exit [K81. Tunnel (p. 84)](../Source%20book/Curse%20of%20Strahd.md#k81-tunnel) via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of [Crypt 2 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-7). (The corpse is a **zombie. See below for more information.**)
+Players who exit [K81. Tunnel (p. 84)](../Source%20book/Curse%20of%20Strahd.md#K81.%20Tunnel) via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of [Crypt 2 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%207). (The corpse is a **zombie. See below for more information.**)
 #### North Crypts, Second Row
-This row of crypts is largely as described in [Crypt 7 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-7), [Crypt 8 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-8), [Crypt 9 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-9), [Crypt 10 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-10), and [Crypt 11 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-11). However, Tasha Petrovna’s holy symbol in [Crypt 11 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-11) is not present; instead, it is currently worn by Father Lucian in Vallaki.
+This row of crypts is largely as described in [Crypt 7 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%207), [Crypt 8 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%208), [Crypt 9 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%209), [Crypt 10 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2010), and [Crypt 11 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2011). However, Tasha Petrovna’s holy symbol in [Crypt 11 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2011) is not present; instead, it is currently worn by Father Lucian in Vallaki.
 
-In addition, a human corpse lies sprawled across the floor immediately south of [Crypt 2 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-7). If approached, the corpse rises as a **zombie** and attacks.
+In addition, a human corpse lies sprawled across the floor immediately south of [Crypt 2 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%207). If approached, the corpse rises as a **zombie** and attacks.
 
 Players who fight the **zombie** south of Crypt 2, or who attempt to avoid the zombie by descending to [[#North Crypts, Third Row]] via any other intersection, draw the attention of a **vampire spawn** lurking amidst the catacombs. Read:
 
@@ -2031,13 +2031,13 @@ Players who fight the **zombie** south of Crypt 2, or who attempt to avoid the z
 <p>You hear a rustling in the distance. Out of the corner of your eye, you catch a flicker of movement against the arched ceiling of the catacombs to the south—and then you blink, and it vanishes from sight.</p>
 </div>
 
-The vampire attempts to remain hidden from the players by clinging to the ceiling, remaining within the shadows, and staying constantly on the move. If able to do so without detection, the vampire opens the stone door to [Crypt 14 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#crypt-14) and clings to the edge of the shaft, waiting for a character to investigate; when a creature comes within reach, the vampire attacks with its ***unarmed strike*** and attempts to drag its prey down into the shaft before dropping it down into the vault below. If the players avoid the open door to Crypt 14, the vampire spawn exits the crypt and continues to skulk through the catacombs.
+The vampire attempts to remain hidden from the players by clinging to the ceiling, remaining within the shadows, and staying constantly on the move. If able to do so without detection, the vampire opens the stone door to [Crypt 14 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2014) and clings to the edge of the shaft, waiting for a character to investigate; when a creature comes within reach, the vampire attacks with its ***unarmed strike*** and attempts to drag its prey down into the shaft before dropping it down into the vault below. If the players avoid the open door to Crypt 14, the vampire spawn exits the crypt and continues to skulk through the catacombs.
 
 The vampire also attacks the players if cornered, or if it finds a character isolated from the rest of the party. (Like all of Strahd’s minions, however, the vampire never attacks Ireena.) No matter the case, once the vampire has isolated and attacked its prey, it attempts to grapple them with its ***unarmed strike***, then hungrily drains them of blood using its ***bite.***
 
 Players with a passive Wisdom (Perception) score of 16 or more occasionally hear distant rustling or catch glimpses of the vampire’s shadow out of the corner of their eye, indicating its current location.
 #### North Crypts, Third Row
-This row of crypts is largely as described in [Crypt 12 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-12), [Crypt 13 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#crypt-13), [Crypt 14 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#crypt-14), [Crypt 15 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#crypt-15), [Crypt 16 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#crypt-16), and [Crypt 17 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#crypt-17). However, replace the epigraph on Crypt 16 to read “Elsa Fallona, Beloved Actor."
+This row of crypts is largely as described in [Crypt 12 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2012), [Crypt 13 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2013), [Crypt 14 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2014), [Crypt 15 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2015), [Crypt 16 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2016), and [Crypt 17 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2017). However, replace the epigraph on Crypt 16 to read “Elsa Fallona, Beloved Actor."
 
 ***Crypt 15.*** Speaking the name “Khazan" inside Crypt 15 does not cause a *staff of power* to materialize. Instead, the back wall of the crypt is engraved with eight arcane runes and the inscription: “The one who marks my seal with their mastery may prove themselves worthy to inherit my legacy."  A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving clockwise around the engraving, is: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
@@ -2077,30 +2077,30 @@ The player can release the staff at any time. If they release the staff while th
 ### Sergei’s Tomb
 <span class="citation"><em>This scene takes place in Chapter 4, Area K85.</em></span>
 
-This area is largely as described in [K85. Sergei’s Tomb (p. 93)](../Source%20book/Curse%20of%20Strahd.md#k85-sergeis-tomb). However, Sergei’s armor is nonmagical and ceremonial, rather than practical, and cannot be used as plate armor.
+This area is largely as described in [K85. Sergei’s Tomb (p. 93)](../Source%20book/Curse%20of%20Strahd.md#K85.%20Sergei's%20Tomb). However, Sergei’s armor is nonmagical and ceremonial, rather than practical, and cannot be used as plate armor.
 ## P12b. Central Catacombs
 ### Central Crypts
 #### Central Crypts, North Row
-This row of crypts is largely as described in [Crypt 18 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#crypt-18), [Crypt 19 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#crypt-19), and [Crypt 20 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#crypt-20). However, Sasha does not attack the players if encountered in her crypt. (Strahd has ordered her to remain here, and she cannot depart her crypt if asked.)
+This row of crypts is largely as described in [Crypt 18 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2018), [Crypt 19 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2019), and [Crypt 20 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2020). However, Sasha does not attack the players if encountered in her crypt. (Strahd has ordered her to remain here, and she cannot depart her crypt if asked.)
 #### Central Crypts, South Row
-This row of crypts is largely as described in [Crypt 21 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#crypt-21), [Crypt 22 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-22), and [Crypt 23 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-23). However, Crypt 21 does not contain Patrina’s **banshee**. (Patrina’s spirit instead resides in the Amber Temple.) In addition, the epigraph on Crypt 23 bears the name of the character whose skill, arrogance, and power have impressed Strahd the most.
+This row of crypts is largely as described in [Crypt 21 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2021), [Crypt 22 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2022), and [Crypt 23 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2023). However, Crypt 21 does not contain Patrina’s **banshee**. (Patrina’s spirit instead resides in the Amber Temple.) In addition, the epigraph on Crypt 23 bears the name of the character whose skill, arrogance, and power have impressed Strahd the most.
 ### King & Queen’s Tomb
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K87 & K88.</em></span>
 
-This area is as described in [K87. Guardians (p. 94)](../Source%20book/Curse%20of%20Strahd.md#k87-guardians) and [K88. Tomb of King Barov and Queen Ravenovia (p. 94)](../Source%20book/Curse%20of%20Strahd.md#k88-tomb-of-king-barov-and-queen-ravenovia).
+This area is as described in [K87. Guardians (p. 94)](../Source%20book/Curse%20of%20Strahd.md#K87.%20Guardians) and [K88. Tomb of King Barov and Queen Ravenovia (p. 94)](../Source%20book/Curse%20of%20Strahd.md#K88.%20Tomb%20of%20King%20Barov%20and%20Queen%20Ravenovia).
 ## P12c. South Catacombs
 ### South Crypts
 #### South Crypts, First Row
-This row of crypts is largely as described in [Crypt 24 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-24), [Crypt 25 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-25), [Crypt 26 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-26), [Crypt 27 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-27), [Crypt 28 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-28), and [Crypt 29 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#crypt-29). However, remove the **giant wolf spiders** from Crypt 27, and replace the *luck blade* in Crypt 29 with a set of *+2 studded leather armor*.
+This row of crypts is largely as described in [Crypt 24 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2024), [Crypt 25 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2025), [Crypt 26 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2026), [Crypt 27 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2027), [Crypt 28 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2028), and [Crypt 29 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2029). However, remove the **giant wolf spiders** from Crypt 27, and replace the *luck blade* in Crypt 29 with a set of *+2 studded leather armor*.
 #### South Crypts, Second Row
-This row of crypts is largely as described in [Crypt 30 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#crypt-30), [Crypt 31 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#crypt-31), [Crypt 32 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#crypt-32), [Crypt 33 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#crypt-33) and [Crypt 34 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#crypt-34). However, revise the epigraph on Crypt 33 to read “St. Finderway, Saint of Lost Travelers," and replace Sir Klutz’s remains with a set of human bones lying beside an *orb of direction* (<span class="citation">Xanathar’s Guide to Everything, p. 138</span>) hanging from a leather cord.
+This row of crypts is largely as described in [Crypt 30 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2030), [Crypt 31 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2031), [Crypt 32 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2032), [Crypt 33 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2033) and [Crypt 34 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2034). However, revise the epigraph on Crypt 33 to read “St. Finderway, Saint of Lost Travelers," and replace Sir Klutz’s remains with a set of human bones lying beside an *orb of direction* (<span class="citation">Xanathar’s Guide to Everything, p. 138</span>) hanging from a leather cord.
 
 In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntress* inside of the sarcophagus there.
 
 > [!item]+ **Spear of the Huntress**
 > This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored in [[Arc T - The Three Fanes]] by either communing with the spirit of the Huntress, or reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav in [[Arc R - Trials of the Mountain]].)
 #### South Crypts, Third Row
-This row of crypts is largely as described in [Crypt 35 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#crypt-35), [Crypt 36 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#crypt-36), [Crypt 37 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#crypt-37), [Crypt 38 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#crypt-38), [Crypt 39 (p. 93)](../Source%20book/Curse%20of%20Strahd.md#crypt-39), and [Crypt 40 (p. 93)](../Source%20book/Curse%20of%20Strahd.md#crypt-40). However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in [Teleport Traps (p. 85)](../Source%20book/Curse%20of%20Strahd.md#teleport-traps) to the base of the stairs in Strahd’s tomb (see below).
+This row of crypts is largely as described in [Crypt 35 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2035), [Crypt 36 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2036), [Crypt 37 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2037), [Crypt 38 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2038), [Crypt 39 (p. 93)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2039), and [Crypt 40 (p. 93)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2040). However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in [Teleport Traps (p. 85)](../Source%20book/Curse%20of%20Strahd.md#Teleport%20Traps) to the base of the stairs in Strahd’s tomb (see below).
 
 > [!combat]- **Combat - The Thirty-Fifth Crypt**  
 > **Combat Level**: Bruising
@@ -2115,7 +2115,7 @@ This row of crypts is largely as described in [Crypt 35 (p. 92)](../Source%20boo
 > | Ghoul | 4 | 5 | 6 | 7 |
 
 
-***Crypt 40.*** Replace the epigraph and contents of Crypt 40 with the epigraph and contents of [Crypt 6 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-6), including the **poison dart trap** protecting it (see <span class="citation">Dungeon Master’s Guide, p. 123</span>). However, reduce the number of darts to two, and replace the darts’ attack rolls with two DC 15 Dexterity saving throws (one per dart). In addition, replace Saint Markovia’s thighbone with the *Icon of Dawn’s Grace* (see below), and remove the whispered message from Saint Markovia’s spirit.
+***Crypt 40.*** Replace the epigraph and contents of Crypt 40 with the epigraph and contents of [Crypt 6 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#Crypt%206), including the **poison dart trap** protecting it (see <span class="citation">Dungeon Master’s Guide, p. 123</span>). However, reduce the number of darts to two, and replace the darts’ attack rolls with two DC 15 Dexterity saving throws (one per dart). In addition, replace Saint Markovia’s thighbone with the *Icon of Dawn’s Grace* (see below), and remove the whispered message from Saint Markovia’s spirit.
 
 > [!item]+ **Icon of Dawn’s Grace**
 > The *Icon of Dawn’s Grace* is largely as described in [Icon of Ravenloft (p. 222)](../Source%20book/Curse%20of%20Strahd.md#page-222), but is an eight-inch-tall statuette, and does not grant the benefits of a *protection from evil and good* spell. Instead, it gains the following additional feature, which can be used only by a creature attuned to the icon:
@@ -2297,18 +2297,18 @@ This row of crypts is largely as described in [Crypt 35 (p. 92)](../Source%20boo
 > The Amulet of Ravenloft is an onyx pendant engraved with the von Zarovich crest—a raven with its wings spread before a tall shield bearing the sigil of Castle Ravenloft—that hangs from an intricate silver chain. As an action, its wielder can present the amulet and speak the words: “I call upon the guardians of Ravenloft to enact their master’s will." The amulet’s wielder then gains the following effects for 1 hour while within Castle Ravenloft:
 >
 > * The wielder gains the lair actions described in [Lair Actions (p. 239)](../Source%20book/Curse%20of%20Strahd.md#page-239), and gains the ability to pass through solid walls, doors, ceilings, and floors as if they weren’t there.
-> * Every crypt door in [K84. Catacombs (p. 85)](../Source%20book/Curse%20of%20Strahd.md#k84-catacombs) swings open.
-> * The **skeletons** in [Crypt 2 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-2), [Crypt 3 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-3), [Crypt 5 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#crypt-5), [Crypt 8 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-8), [Crypt 9 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-9), [Crypt 10 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#crypt-10), [Crypt 13 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#crypt-13), [Crypt 16 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#crypt-16), [Crypt 17 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#crypt-17), [Crypt 19 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#crypt-19), [Crypt 24 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-24), [Crypt 25 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-25), [Crypt 26 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-26), [Crypt 28 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#crypt-28), [Crypt 30 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#crypt-30), [Crypt 33 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#crypt-33), [Crypt 36 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#crypt-36), and [Crypt 37 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#crypt-37) animate. The following round, each skeleton emerges from its crypt, pursuing and attacking any intruders on sight. (Skeletons without weapons can make only unarmed strikes and grapples.)
-> * All one hundred **skeletons** in [Crypt 14 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#crypt-14) animate. Over the following three rounds, the skeletons form a living ladder, allowing any remaining **wights** in the vault to climb from the shaft and emerge from the crypt, pursuing and attacking any intruders on sight. 2d6 armed **skeletons** emerge from the crypt each subsequent round, until all skeletons have emerged.
-> * On initiative count 20 of the third round after the amulet is activated, the **hell hounds** and **wraith** described in [Crypt 38 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#crypt-38) begin to manifest in their crypt, coalescing fully from brimstone smoke three rounds later. They then emerge to pursue any intruders still remaining in the catacombs or [[#P11g. Catacomb Tunnel]].
-> * The **iron golems** in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#k78-brazier-room) begin to animate, activating fully on initiative count 20 of the fifteenth round after the amulet is activated. (Creatures in the Brazier Room while the golems are activating can observe their limbs and heads slowly grinding to life, their lifeless gazes locking onto any intruders present in their chamber.)
+> * Every crypt door in [K84. Catacombs (p. 85)](../Source%20book/Curse%20of%20Strahd.md#K84.%20Catacombs) swings open.
+> * The **skeletons** in [Crypt 2 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#Crypt%202), [Crypt 3 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#Crypt%203), [Crypt 5 (p. 86)](../Source%20book/Curse%20of%20Strahd.md#Crypt%205), [Crypt 8 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%208), [Crypt 9 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%209), [Crypt 10 (p. 87)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2010), [Crypt 13 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2013), [Crypt 16 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2016), [Crypt 17 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2017), [Crypt 19 (p. 89)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2019), [Crypt 24 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2024), [Crypt 25 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2025), [Crypt 26 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2026), [Crypt 28 (p. 90)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2028), [Crypt 30 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2030), [Crypt 33 (p. 91)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2033), [Crypt 36 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2036), and [Crypt 37 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2037) animate. The following round, each skeleton emerges from its crypt, pursuing and attacking any intruders on sight. (Skeletons without weapons can make only unarmed strikes and grapples.)
+> * All one hundred **skeletons** in [Crypt 14 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2014) animate. Over the following three rounds, the skeletons form a living ladder, allowing any remaining **wights** in the vault to climb from the shaft and emerge from the crypt, pursuing and attacking any intruders on sight. 2d6 armed **skeletons** emerge from the crypt each subsequent round, until all skeletons have emerged.
+> * On initiative count 20 of the third round after the amulet is activated, the **hell hounds** and **wraith** described in [Crypt 38 (p. 92)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2038) begin to manifest in their crypt, coalescing fully from brimstone smoke three rounds later. They then emerge to pursue any intruders still remaining in the catacombs or [[#P11g. Catacomb Tunnel]].
+> * The **iron golems** in [K78. Brazier Room (p. 82)](../Source%20book/Curse%20of%20Strahd.md#K78.%20Brazier%20Room) begin to animate, activating fully on initiative count 20 of the fifteenth round after the amulet is activated. (Creatures in the Brazier Room while the golems are activating can observe their limbs and heads slowly grinding to life, their lifeless gazes locking onto any intruders present in their chamber.)
 > * The **red dragon wyrmling** statues in the [[#Main Entrance]], as well as any remaining **gargoyles** in the [[#Main Foyer]] and any remaining **wights** still guarding the castle walls (see [[#P2d. Crossing the Chasm]]), animate and begin moving toward the amulet’s wielder.
 >
 > Once used in this way, the amulet can't be activated again until thirty days have passed.
 ### Strahd’s Tomb
 <span class="citation"><em>This scene takes place in Chapter 4, Area K86.</em></span>
 
-This area is largely as described in [K86. Strahd’s Tomb (p. 93)](../Source%20book/Curse%20of%20Strahd.md#k86-strahds-tomb). However, the teleport traps described in [Teleport Traps (p. 85)](../Source%20book/Curse%20of%20Strahd.md#teleport-traps) form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
+This area is largely as described in [K86. Strahd’s Tomb (p. 93)](../Source%20book/Curse%20of%20Strahd.md#K86.%20Strahd's%20Tomb). However, the teleport traps described in [Teleport Traps (p. 85)](../Source%20book/Curse%20of%20Strahd.md#Teleport%20Traps) form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
   
 > [!combat]- **Combat - The Tomb of the Darklord**  
 > **Combat Level**: Mild
@@ -2322,4 +2322,4 @@ This area is largely as described in [K86. Strahd’s Tomb (p. 93)](../Source%20
 > |-|-|-|-|-|
 > | Vampire Spawn | 2 | 3 | 3 | 3 |
 
-Strahd’s coffin is surrounded by a 5-foot-radius *antimagic field* effect identical to the one described in [Khazan’s Spell Drain (p. 167)](../Source%20book/Curse%20of%20Strahd.md#khazans-spell-drain). The effect doesn’t apply to spells cast by a creature attuned to *Khazan's Staff*, which is hidden in [Crypt 15 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#crypt-15) in [[#North Crypts, Third Row]].
+Strahd’s coffin is surrounded by a 5-foot-radius *antimagic field* effect identical to the one described in [Khazan’s Spell Drain (p. 167)](../Source%20book/Curse%20of%20Strahd.md#Khazan's%20Spell%20Drain). The effect doesn’t apply to spells cast by a creature attuned to *Khazan's Staff*, which is hidden in [Crypt 15 (p. 88)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2015) in [[#North Crypts, Third Row]].

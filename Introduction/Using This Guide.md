@@ -4,7 +4,7 @@ Consider *Curse of Strahd: Reloaded* your all-in-one guide to running this campa
 > [!warning]+ **A Brand-New Barovia**
 > *Curse of Strahd: Reloaded* is meant to be a complete substitute to the original *Curse of Strahd*, incorporating the original material only by reference. 
 > 
-> For example, if this guide says: "This area is largely as described in [E2. Blood of the Vine Tavern (p. 43)](../Source%20book/Curse%20of%20Strahd.md#e2-blood-of-the-vine-tavern)", or "The players pass through [E2. Blood of the Vine Tavern (p. 43)](../Source%20book/Curse%20of%20Strahd.md#e2-blood-of-the-vine-tavern)", this means that you should use all of the material provided in that section of the original book, **except where it's contradicted or overwritten by material in this guide.** 
+> For example, if this guide says: "This area is largely as described in [E2. Blood of the Vine Tavern (p. 43)](../Source%20book/Curse%20of%20Strahd.md#E2.%20Blood%20of%20the%20Vine%20Tavern)", or "The players pass through [E2. Blood of the Vine Tavern (p. 43)](../Source%20book/Curse%20of%20Strahd.md#E2.%20Blood%20of%20the%20Vine%20Tavern)", this means that you should use all of the material provided in that section of the original book, **except where it's contradicted or overwritten by material in this guide.** 
 > 
 > If this guide doesn't reference a particular element in the original adventure—such as a random encounter or a piece of lore—**assume it doesn't exist.**
 

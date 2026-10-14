@@ -23,7 +23,7 @@ The players begin this act at 4th level and end it at 5th level, with each playe
 * gain entry to the gates of Krezk (750 XP)
 
 > [!info]+ **Vallakian Merchants**
-> While in Vallaki, players can purchase goods from Arasek Stockyard as described in [N5. Arasek Stockyard (p. 115)](../Source%20book/Curse%20of%20Strahd.md#n5-arasek-stockyard), but at the ordinary price provided in the *Player's Handbook*.
+> While in Vallaki, players can purchase goods from Arasek Stockyard as described in [N5. Arasek Stockyard (p. 115)](../Source%20book/Curse%20of%20Strahd.md#N5.%20Arasek%20Stockyard), but at the ordinary price provided in the *Player's Handbook*.
 > 
 > In addition, players who peruse the town's stores can find most items with a price of 25 gp or less, including weapons and armor. Players can also purchase spellbook materials and spell components up to a value of 50 gp each.
 > 
@@ -49,7 +49,7 @@ Izek Strazni and two **guards** put up posters in the Vallaki Town Square advert
 >
 > During Ireena’s meeting with the Baron—whether the players are present or not—the Baron dismisses out of hand any suggestion that the refugees be allowed to enter the town. However, he is willing to allow Ireena to come and go from the town into the refugee camp without requiring her to pay the toll at the gates. 
 > 
-> If the players are present at this meeting and befriend or antagonize the Baron, he responds as described in [Roleplaying the Vallakovich Family (p. 105)](../Source%20book/Curse%20of%20Strahd.md#roleplaying-the-vallakovich-family). He also boasts to the players of the upcoming Festival of the Blazing Sun, at which he plans to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
+> If the players are present at this meeting and befriend or antagonize the Baron, he responds as described in [Roleplaying the Vallakovich Family (p. 105)](../Source%20book/Curse%20of%20Strahd.md#Roleplaying%20the%20Vallakovich%20Family). He also boasts to the players of the upcoming Festival of the Blazing Sun, at which he plans to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
 
 That night, if the players defied Baron Vallakovich or aided Willemina Rikalova on their first morning in Vallaki, the players receive an invitation left by Ernst Larnak inviting them to dine with Lady Fiona Wachter at Wachterhaus. Players who accept Lady Wachter's invitation at this point begin [[Arc F - Lady Wachter's Wish]].
 ## Neyavr 4
@@ -65,7 +65,7 @@ While the players are away, if the players haven't defeated Izek Strazni in [[Ar
 ## Neyavr 7
 If the players have not restored the bones of St. Andral to St. Andral's Church, the church's protective wards fail at dawn.
 
-If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in [N8. Town Square (p. 119)](../Source%20book/Curse%20of%20Strahd.md#n8-town-square) as described in [Festival of the Blazing Sun (p. 123)](../Source%20book/Curse%20of%20Strahd.md#festival-of-the-blazing-sun). If Izek kidnapped Ireena in [[Arc G - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at noon.
+If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in [N8. Town Square (p. 119)](../Source%20book/Curse%20of%20Strahd.md#N8.%20Town%20Square) as described in [Festival of the Blazing Sun (p. 123)](../Source%20book/Curse%20of%20Strahd.md#Festival%20of%20the%20Blazing%20Sun). If Izek kidnapped Ireena in [[Arc G - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at noon.
 
 At sundown, the parishioners of St. Andral's Church attend a service observing the holiday of St. Andral's Feast. 
 
@@ -73,7 +73,7 @@ If the protective wards of St. Andral's Church have not been restored, Strahd's 
 ## Neyavr 8
 If the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Arc D - St. Andral's Feast]], an angry mob forms outside of Baron Vallakovich's manor. The hunter Szoldar Szoldarovich also finds Milivoj, the church groundskeeper, hanging from a tree outside Vallaki—dead by apparent suicide—and returns his body to his family. 
 
-Shortly after sundown, if the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Arc D - St. Andral's Feast]], the angry mob assaults the manor, capturing the Baron and lynching him in the town square. Victor Vallakovich escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, Izek Strazni also escapes, taking shelter in [Q9. Servants' Quarters (p. 133)](../Source%20book/Curse%20of%20Strahd.md#q9-servants-quarters) in Argynvostholt.
+Shortly after sundown, if the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Arc D - St. Andral's Feast]], the angry mob assaults the manor, capturing the Baron and lynching him in the town square. Victor Vallakovich escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, Izek Strazni also escapes, taking shelter in [Q9. Servants' Quarters (p. 133)](../Source%20book/Curse%20of%20Strahd.md#Q9.%20Servants'%20Quarters) in Argynvostholt.
 
 At sundown, the **full moon** rises over Vallaki. (Due to Barovia's strange cosmology, the next full moon will arrive just two weeks later.)
 ## Neyavr 9
