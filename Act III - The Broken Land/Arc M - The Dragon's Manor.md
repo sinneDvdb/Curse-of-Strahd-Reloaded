@@ -58,7 +58,7 @@ This area is largely as described in <span class="citation">Q2. Main Entrance (p
 ## M3a. Foyer
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q3.</em></span>
 
-This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow passes into [Q12. Dining Hall (p. 132)](../Source%20book/Curse%20of%20Strahd.md#Q12.%20Dining%20Hall) before disappearing.
+This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow passes into [[Curse of Strahd#Q12. Dining Hall|Q12. Dining Hall (p. 132)]] before disappearing.
 ## M3b. Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q12.</em></span>
 
@@ -197,7 +197,7 @@ Should the players express interest in retrieving those garments, Godfrey asks o
 
 If the players ask about the origin of the buried remains, Godfrey solemnly informs them that the Order of the Silver Dragon made its final stand there.
 ### Obtaining the Garments
-If the players choose to recover the soldiers' garments from the mass grave on the Luna River, they will first need to obtain shovels to excavate the site, which they can purchase from Arasek Stockyard in Vallaki, borrow from the dusk elves of the Vallakian [N9. Vistani Camp (p. 119)](../Source%20book/Curse%20of%20Strahd.md#N9.%20Vistani%20Camp), or borrow from Burgomaster Dmitri Krezkov of Krezk.
+If the players choose to recover the soldiers' garments from the mass grave on the Luna River, they will first need to obtain shovels to excavate the site, which they can purchase from Arasek Stockyard in Vallaki, borrow from the dusk elves of the Vallakian [[Curse of Strahd#N9. Vistani Camp|N9. Vistani Camp (p. 119)]], or borrow from Burgomaster Dmitri Krezkov of Krezk.
 
 As the players head south from the Luna River Crossroads after obtaining one or more shovels, read:
 
@@ -366,7 +366,7 @@ If allowed to depart, Nim hisses gleefully and scampers off on all fours, vanish
 ## M4a. Cemetery
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q15 and Q16.</em></span>
 
-The cemetery and mausoleum are largely as described in [Q15. Cemetery (p. 134)](../Source%20book/Curse%20of%20Strahd.md#Q15.%20Cemetery) and [Q16. Dragon’s Mausoleum (p. 134)](../Source%20book/Curse%20of%20Strahd.md#Q16.%20Dragon's%20Mausoleum). However, add the following text to the end of the description of the interior of the mausoleum:
+The cemetery and mausoleum are largely as described in [[Curse of Strahd#Q15. Cemetery|Q15. Cemetery (p. 134)]] and [[Curse of Strahd#Q16. Dragon's Mausoleum|Q16. Dragon’s Mausoleum (p. 134)]]. However, add the following text to the end of the description of the interior of the mausoleum:
 
 <div class="description">
 <p>Twin unlit torches rest in rusted sconces along the far wall on either side of the verse.</p>
@@ -564,7 +564,7 @@ This area is largely as described in <span class="citation">Q4. Spider's Ballroo
 
 A player who succeeds on a DC 14 Wisdom (Perception) check in this room notices an old leather satchel encased in webbing in the upper northwest corner of the room, near the ceiling. (A player who takes one minute to survey the room spots the satchel automatically.)
 
-The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *holy water* and a book titled *The Oath Celestial*, which is as described in [Q40. Argynvost’s Study (p. 140)](../Source%20book/Curse%20of%20Strahd.md#Q40.%20Argynvost's%20Study). A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
+The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *holy water* and a book titled *The Oath Celestial*, which is as described in [[Curse of Strahd#Q40. Argynvost's Study|Q40. Argynvost’s Study (p. 140)]]. A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
 
 <div class="description">
 <p>Blessed Morninglord, bringer of dawn, we honor those who have journeyed beyond into your kingdom of everlasting radiance. In your light, grant them peace, from this until the end of days.</p>
@@ -573,25 +573,25 @@ The satchel, which appears to have had its leather strap forcibly torn off, cont
 ## M4d. Exterior
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
 
-These areas are as described in [Q5. Ruined Stable (p. 132)](../Source%20book/Curse%20of%20Strahd.md#Q5.%20Ruined%20Stable) and <span class="citation">Q8. Iron Gate (p. 133).</span>
+These areas are as described in [[Curse of Strahd#Q5. Ruined Stable|Q5. Ruined Stable (p. 132)]] and <span class="citation">Q8. Iron Gate (p. 133).</span>
 # M5. Second Floor
 ## M5a. Central Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q17, Q18, Q20, Q21, Q22, and Q23.</em></span>
 
-The west staircases, balconies, south alcove, north alcove, bathroom, and storage room are largely as described in [Q17. West Staircases (p. 135)](../Source%20book/Curse%20of%20Strahd.md#Q17.%20West%20Staircases), [Q18. Balconies (p. 135)](../Source%20book/Curse%20of%20Strahd.md#Q18.%20Balconies), [Q20. South Alcove (p. 135)](../Source%20book/Curse%20of%20Strahd.md#Q20.%20South%20Alcove), [Q21. North Alcove (p. 135)](../Source%20book/Curse%20of%20Strahd.md#Q21.%20North%20Alcove), [Q22. Bathroom (p. 135)](../Source%20book/Curse%20of%20Strahd.md#Q22.%20Bathroom), and [Q23. Storage Room (p. 135)](../Source%20book/Curse%20of%20Strahd.md#Q23.%20Storage%20Room).
+The west staircases, balconies, south alcove, north alcove, bathroom, and storage room are largely as described in [[Curse of Strahd#Q17. West Staircases|Q17. West Staircases (p. 135)]], [[Curse of Strahd#Q18. Balconies|Q18. Balconies (p. 135)]], [[Curse of Strahd#Q20. South Alcove|Q20. South Alcove (p. 135)]], [[Curse of Strahd#Q21. North Alcove|Q21. North Alcove (p. 135)]], [[Curse of Strahd#Q22. Bathroom|Q22. Bathroom (p. 135)]], and [[Curse of Strahd#Q23. Storage Room|Q23. Storage Room (p. 135)]].
 
-However, no illusion appears in [Q20. South Alcove (p. 135)](../Source%20book/Curse%20of%20Strahd.md#Q20.%20South%20Alcove). Additionally, instead of an alabaster bust of a human, the cloth covers an alabaster sculpture of a dragon wyrmling holding a brazier filled with alabaster “fire."
+However, no illusion appears in [[Curse of Strahd#Q20. South Alcove|Q20. South Alcove (p. 135)]]. Additionally, instead of an alabaster bust of a human, the cloth covers an alabaster sculpture of a dragon wyrmling holding a brazier filled with alabaster “fire."
 ## M5b. Northern Chambers
 ### Guest Rooms
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q26 and Q29.</em></span>
 
-These areas are largely as described in [Q26. Northeast Guest Room (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q26.%20Northeast%20Guest%20Room) and [Q29. Northwest Guest Room (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q29.%20Northwest%20Guest%20Room). However, no dragon appears in the fireplace when the players approach.
+These areas are largely as described in [[Curse of Strahd#Q26. Northeast Guest Room|Q26. Northeast Guest Room (p. 136)]] and [[Curse of Strahd#Q29. Northwest Guest Room|Q29. Northwest Guest Room (p. 136)]]. However, no dragon appears in the fireplace when the players approach.
 ### Trapped Hallway
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q25.</em></span>
 
-This area is largely as described in [Q25. Trapped Hallway (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q25.%20Trapped%20Hallway). However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within [Q27. Knights’ Quarters (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q27.%20Knights'%20Quarters) and [Q28. Knights’ Quarters (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q28.%20Knights'%20Quarters), whose doors remain locked. Finally, there is no *wall of stone* trap.
+This area is largely as described in [[Curse of Strahd#Q25. Trapped Hallway|Q25. Trapped Hallway (p. 136)]]. However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within [[Curse of Strahd#Q27. Knights' Quarters|Q27. Knights’ Quarters (p. 136)]] and [[Curse of Strahd#Q28. Knights' Quarters|Q28. Knights’ Quarters (p. 136)]], whose doors remain locked. Finally, there is no *wall of stone* trap.
 
-Instead, when the players first attempt to open one of the doors leading to [Q27. Knights’ Quarters (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q27.%20Knights'%20Quarters) or [Q.28 Knights’ Quarters (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q27.%20Knights'%20Quarters), five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
+Instead, when the players first attempt to open one of the doors leading to [[Curse of Strahd#Q27. Knights' Quarters|Q27. Knights’ Quarters (p. 136)]] or [[Curse of Strahd#Q27. Knights' Quarters|Q.28 Knights’ Quarters (p. 136)]], five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
 
 * Increase each **phantom warrior**'s hit points to 75 (10d8 + 30).
 * Each **phantom warrior** gains a fly (hover) speed of 30 feet.
@@ -630,9 +630,9 @@ When the **phantom warriors** are defeated, any surviving **specters** warmly no
 ### Knights’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q27 and Q28.</em></span>
 
-These areas are largely as described in [Q27. Knights’ Quarters (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q27.%20Knights'%20Quarters) and [Q28. Knights’ Quarters (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q28.%20Knights'%20Quarters). However, the four *potions of invulnerability* in [Q28. Knights’ Quarters (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q28.%20Knights'%20Quarters) are instead *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>).
+These areas are largely as described in [[Curse of Strahd#Q27. Knights' Quarters|Q27. Knights’ Quarters (p. 136)]] and [[Curse of Strahd#Q28. Knights' Quarters|Q28. Knights’ Quarters (p. 136)]]. However, the four *potions of invulnerability* in [[Curse of Strahd#Q28. Knights' Quarters|Q28. Knights’ Quarters (p. 136)]] are instead *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>).
 
-In addition, [Q27. Knights’ Quarters (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q27.%20Knights'%20Quarters) is haunted by the spirit of Minodora Taltos, a **poltergeist** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
+In addition, [[Curse of Strahd#Q27. Knights' Quarters|Q27. Knights’ Quarters (p. 136)]] is haunted by the spirit of Minodora Taltos, a **poltergeist** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
 
 <div class="description">
 <p>The temperature plummets unnaturally beyond the threshold, your breath puffing out in small clouds of fog that linger momentarily before dissipating. A thin layer of frost dims the grey light filtering through the old, cracked windows, and a deep chill seems to pervade the room.</p>
@@ -670,11 +670,11 @@ Minodora is a solemn, if black-humored spirit. If befriended by the players, she
 > **Q. How did you die?**
 > A. Invaders.
 
-Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, [Q35. Upstairs Gallery (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q35.%20Upstairs%20Gallery). She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the western chamber of [Q19. Ruined Bedchambers (p. 135)](../Source%20book/Curse%20of%20Strahd.md#Q19.%20Ruined%20Bedchambers)—and read aloud one of the prayers contained therein.
+Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, [[Curse of Strahd#Q35. Upstairs Gallery|Q35. Upstairs Gallery (p. 138)]]. She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the western chamber of [[Curse of Strahd#Q19. Ruined Bedchambers|Q19. Ruined Bedchambers (p. 135)]]—and read aloud one of the prayers contained therein.
 ## M5c. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q19.</em></span>
 
-This area is largely as described in [Q19. Ruined Bedchambers (p. 135)](../Source%20book/Curse%20of%20Strahd.md#Q19.%20Ruined%20Bedchambers). However, add the following text to the end of the western room’s description:
+This area is largely as described in [[Curse of Strahd#Q19. Ruined Bedchambers|Q19. Ruined Bedchambers (p. 135)]]. However, add the following text to the end of the western room’s description:
 
 <div class="description">
 <p>Long, thick webs stretch from the eastern wall, down past the collapsed floor to the space below. Something seems to be protruding from the wall behind the webbing.</p>
@@ -692,13 +692,13 @@ A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvan
 ## M5d. Upper Chapel
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
 
-These areas are as described in [Q14. Chapel Staircases (p. 134)](../Source%20book/Curse%20of%20Strahd.md#Q14.%20Chapel%20Staircases) and [Q24. Chapel Balcony (p. 136)](../Source%20book/Curse%20of%20Strahd.md#Q24.%20Chapel%20Balcony). However, the chapel below is as described in [[#M3c. Chapel of Morning]].
+These areas are as described in [[Curse of Strahd#Q14. Chapel Staircases|Q14. Chapel Staircases (p. 134)]] and [[Curse of Strahd#Q24. Chapel Balcony|Q24. Chapel Balcony (p. 136)]]. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
 # M6. Third Floor
 ## M6a. Halls of the Order
 #### Knights of the Order
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q37 and Q38 (p. 139).</em></span>
 
-These areas are largely as described in [Q37 Knights of the Order (p. 139)](../Source%20book/Curse%20of%20Strahd.md#Q37.%20Knights%20of%20the%20Order) and [Q38. Closet (p. 139)](../Source%20book/Curse%20of%20Strahd.md#Q38.%20Closet). However, remove the final sentence of the area’s description. (No **revenants** sit in the chairs around the table.) Instead, add the following to the end of this area’s description:
+These areas are largely as described in [[Curse of Strahd#Q37. Knights of the Order|Q37 Knights of the Order (p. 139)]] and [[Curse of Strahd#Q38. Closet|Q38. Closet (p. 139)]]. However, remove the final sentence of the area’s description. (No **revenants** sit in the chairs around the table.) Instead, add the following to the end of this area’s description:
 
 <div class="description">
 <p>An inscription appears to be carved into the wood around the circumference of the table.</p>
@@ -715,7 +715,7 @@ The inscription is written in elegant calligraphy and interwoven with aged, intr
 #### Vladimir’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q39.</em></span>
 
-This area is largely as described in [Q39. Vladimir’s Bedroom (p. 140)](../Source%20book/Curse%20of%20Strahd.md#Q39.%20Vladimir's%20Bedroom). However, remove the four sentences describing the bear, the dire wolf, and the empty chest. Instead, add the following text to the end of the area’s description:
+This area is largely as described in [[Curse of Strahd#Q39. Vladimir's Bedroom|Q39. Vladimir’s Bedroom (p. 140)]]. However, remove the four sentences describing the bear, the dire wolf, and the empty chest. Instead, add the following text to the end of the area’s description:
 
 <div class="description">
 <p>An old portrait hangs on the wall above the bed.</p>
@@ -734,7 +734,7 @@ A player who studies the portrait and succeeds on a DC 15 Wisdom (Perception) ch
 #### Argynvost’s Study
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q40 and Q41.</em></span>
 
-These areas are largely as described in [Q40. Argynvost’s Study (p. 140)](../Source%20book/Curse%20of%20Strahd.md#Q40.%20Argynvost's%20Study) and [Q41. Dragon’s Vault (p. 140)](../Source%20book/Curse%20of%20Strahd.md#Q41.%20Dragon's%20Vault). However, the copy of *The Oath Celestial* is no longer present. In addition, the slashed picture is nonmagical, and repairing it has no additional effect.
+These areas are largely as described in [[Curse of Strahd#Q40. Argynvost's Study|Q40. Argynvost’s Study (p. 140)]] and [[Curse of Strahd#Q41. Dragon's Vault|Q41. Dragon’s Vault (p. 140)]]. However, the copy of *The Oath Celestial* is no longer present. In addition, the slashed picture is nonmagical, and repairing it has no additional effect.
 
 Revise Argynvost’s journal page to read as follows:
 
@@ -772,7 +772,7 @@ The bracelet is carved to resemble a dragon biting its own tail, and is a *brace
 > The bracelet regains 1 expended charge daily at dawn. If you expend the bracelet's last charge, roll a d20. On a 1, the bracelet loses its magical properties.
 
 > [!item]+ **Amulet of Knight’s Passage**
-> This carved block of white stone is a key that allows passage through the gatehouse at Tsolenka Pass. If a creature presents the stone to the [T3. Curtain of Green Flame (p. 157)](../Source%20book/Curse%20of%20Strahd.md#T3.%20Curtain%20of%20Green%20Flame), the curtain is suppressed for 1 minute. While the curtain is suppressed in this way, the petrified **vrocks** described in [T2. Demon Statues (p. 157)](../Source%20book/Curse%20of%20Strahd.md#T2.%20Demon%20Statues) don’t animate or attack.
+> This carved block of white stone is a key that allows passage through the gatehouse at Tsolenka Pass. If a creature presents the stone to the [[Curse of Strahd#T3. Curtain of Green Flame|T3. Curtain of Green Flame (p. 157)]], the curtain is suppressed for 1 minute. While the curtain is suppressed in this way, the petrified **vrocks** described in [[Curse of Strahd#T2. Demon Statues|T2. Demon Statues (p. 157)]] don’t animate or attack.
 > 
 > The scrutiny of an *identify* spell reveals only that the block is a key of some kind, though not what for.
 
@@ -807,7 +807,7 @@ The scroll is a letter and reads as follows:
 #### Argynvost’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q42.</em></span>
 
-This area is largely as described in [Q42. Argynvost’s Bedroom (p. 140)](../Source%20book/Curse%20of%20Strahd.md#Q42.%20Argynvost's%20Bedroom). However, add the following text to the end of this area’s description:
+This area is largely as described in [[Curse of Strahd#Q42. Argynvost's Bedroom|Q42. Argynvost’s Bedroom (p. 140)]]. However, add the following text to the end of this area’s description:
 
 <div class="description">
 <p>Several empty stone shelves dot the walls between the windows.</p>
@@ -818,7 +818,7 @@ This area is largely as described in [Q42. Argynvost’s Bedroom (p. 140)](../So
 ## M6b. Collapsed Ceiling & Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q33 and Q36.</em></span>
 
-These areas are largely as described in [Q33. Collapsed Ceiling (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q33.%20Collapsed%20Ceiling) and [Q36. Dragon’s Audience Hall (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q36.%20Dragon's%20Audience%20Hall). However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>, and no **phantom warriors** linger there.
+These areas are largely as described in [[Curse of Strahd#Q33. Collapsed Ceiling|Q33. Collapsed Ceiling (p. 138)]] and [[Curse of Strahd#Q36. Dragon's Audience Hall|Q36. Dragon’s Audience Hall (p. 138)]]. However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>, and no **phantom warriors** linger there.
 ## M6c. Upstairs Gallery
 ### East Staircases
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q31.</em></span>
@@ -827,7 +827,7 @@ This area is as described in <span class="citation">Q31. East Staircases.</span>
 ### Ruined Antechamber
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q34 (p. 138).</em></span>
 
-This area replaces [Q34. Ruined Bathroom (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q34.%20Ruined%20Bathroom). When the players enter this room, read:
+This area replaces [[Curse of Strahd#Q34. Ruined Bathroom|Q34. Ruined Bathroom (p. 138)]]. When the players enter this room, read:
 
 <div class="description">
 <p>This room has a wooden floor warped and scuffed with age. Rusted blades hang between torn banners bearing the emblem of a silver dragon, the dragon's eyes seeming to gaze mournfully upon the broken furnishings below. A torn curtain hangs in an open doorway in the center of the east wall.</p>
@@ -836,7 +836,7 @@ This area replaces [Q34. Ruined Bathroom (p. 138)](../Source%20book/Curse%20of%2
 ### Upstairs Gallery
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q35.</em></span>
 
-This area is largely as described in [Q35. Upstairs Gallery (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q35.%20Upstairs%20Gallery). However, add the following text to the end of this area’s description:
+This area is largely as described in [[Curse of Strahd#Q35. Upstairs Gallery|Q35. Upstairs Gallery (p. 138)]]. However, add the following text to the end of this area’s description:
 
 <div class="description">
 <p>The left- and right-side windows depict two humans—an older man and a younger woman—kneeling in supplication, while the central window depicts a handsome male angel descending from the heavens between them. The man watches with reverent eyes as the angel bestows a small silver statuette upon the woman, whose eyes are closed in evident prayer. The statuette appears to glow with the same sunlight that encircles the angel’s head.</p>
@@ -847,7 +847,7 @@ Any player who’s previously met the Abbot of the Abbey of Saint Markovia recog
 > [!lore]+ **The Stained-Glass Windows**
 > The stained-glass windows portray the anointing of Saint Markovia as a prophet by Ithuriel, the **deva** of the Morninglord now known as the Abbot. The event was overseen by Saint Andral, the Moste High Priest of the Morninglord’s church at the time of Markovia’s selection, and Markovia’s envious competitor for the title of the Morninglord’s prophet.
 >
-> The statuette is the *Icon of Dawn's Grace*, which appears as described in [Icon of Ravenloft (p. 222)](../Source%20book/Curse%20of%20Strahd.md#page-222). The statuette’s glow is a symbolic representation of the shard of the Abbot’s divinity that dwells within.
+> The statuette is the *Icon of Dawn's Grace*, which appears as described in [[Curse of Strahd#page-222|Icon of Ravenloft (p. 222)]]. The statuette’s glow is a symbolic representation of the shard of the Abbot’s divinity that dwells within.
 
 If the players are accompanied by the **pseudodragon** spirit Zorya, Zorya breathes silver fire upon two ancient torches flanking the stained-glass windows, setting them alight with cold silver flames that bathe the room in a chill, ethereal light.
 
@@ -888,11 +888,11 @@ If convinced by the players to aid them in speaking with Argynvost, Brother Mare
 > If the players are unaccompanied by Argynvost's familiar, the ghostly **pseudodragon** Zorya, modify Brother Marek's first sentence to read: "Seek out the silver dragon's shadow below, and the younger of the twin dragons above."
 
 > [!info]+ **The Younger Dragon**
-> Marek's mention of "twin dragons" refers to the dragon gargoyles that overlook the roof of the manor, one of which can now be found in [Q53. Beacon of Argynvostholt (p. 142)](../Source%20book/Curse%20of%20Strahd.md#Q53.%20Beacon%20of%20Argynvostholt). 
+> Marek's mention of "twin dragons" refers to the dragon gargoyles that overlook the roof of the manor, one of which can now be found in [[Curse of Strahd#Q53. Beacon of Argynvostholt|Q53. Beacon of Argynvostholt (p. 142)]]. 
 #### Marek is Unconvinced
 If the players fail to convince Brother Marek to allow them to speak with Argynvost, he scoffs, but offers to provide them a final chance. "Lord Argynvost's tomb lies empty in the graveyard below," he informs them. "Should he hear your words, he may grant you a token of his favor. Bring me proof of that favor, and I shall give you the guidance you seek."
 
-If the players subsequently descend to [Q16. Dragon’s Mausoleum (p. 134)](../Source%20book/Curse%20of%20Strahd.md#Q16.%20Dragon's%20Mausoleum), it is as described in [[#M4a. Cemetery]] above. To obtain a token of Argynvost's favor, one or more players must deliver a courageous, truthful, and honorable speech regarding their intention to defeat Strahd and free Barovia. To encourage them to do so, Argynvost's spirit kindles the torches within the mausoleum as follows:
+If the players subsequently descend to [[Curse of Strahd#Q16. Dragon's Mausoleum|Q16. Dragon’s Mausoleum (p. 134)]], it is as described in [[#M4a. Cemetery]] above. To obtain a token of Argynvost's favor, one or more players must deliver a courageous, truthful, and honorable speech regarding their intention to defeat Strahd and free Barovia. To encourage them to do so, Argynvost's spirit kindles the torches within the mausoleum as follows:
 
 * **Argynvost Somewhat Approves.** The torches briefly flicker with cold silver embers, which are swiftly extinguished.
 * **Argynvost Approves.** The torches briefly flare with cold silver fire, which then dwindles into nothingness.
@@ -902,30 +902,30 @@ Each torch can be easily removed from its mount. If the players return to the [[
 ## M6d. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q32.</em></span>
 
-These areas are as described in [Q32. Ruined Bedchambers (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q32.%20Ruined%20Bedchambers).
+These areas are as described in [[Curse of Strahd#Q32. Ruined Bedchambers|Q32. Ruined Bedchambers (p. 138)]].
 # M7. Fourth Floor
 ## M7a. Rooftop
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q43, Q44, Q45, Q46, Q47, Q48, and Q49.</em></span>
 
-When the players first exit the [Q31. East Staircases (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q31.%20East%20Staircases) to emerge on the roof, read:
+When the players first exit the [[Curse of Strahd#Q31. East Staircases|Q31. East Staircases (p. 138)]] to emerge on the roof, read:
 
 <div class="description">
 <p>As the old wooden door creaks open, grey light floods the darkened landing—and a shimmering ethereal arrow pierces the stone floor before you. Your eyes trace its trajectory upward, and catch a glimpse of a spectral figure in the window of an upper tower—before it ducks down and vanishes from sight.</p>
 </div>
 
-The tower is one of [Q52. Beacon Turrets (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q52.%20Beacon%20Turrets). The spectral figure is one of the two **phantom warriors** that occupy the turrets.
+The tower is one of [[Curse of Strahd#Q52. Beacon Turrets|Q52. Beacon Turrets (p. 141)]]. The spectral figure is one of the two **phantom warriors** that occupy the turrets.
 
-The rooftop is largely as described in [Q43. Hole in Roof (p. 140)](../Source%20book/Curse%20of%20Strahd.md#Q43.%20Hole%20in%20Roof), [Q44. Dragon Gargoyle (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q44.%20Dragon%20Gargoyle), [Q45. Ancient Ballista (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q45.%20Ancient%20Ballista), [Q46. Destroyed Ballista (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q46.%20Destroyed%20Ballista), [Q47. Roof Turrets (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q47.%20Roof%20Turrets), [Q48. Roof’s Edge (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q48.%20Roof's%20Edge)), and [Q49. Beacon Tower Door (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q49.%20Beacon%20Tower%20Door). 
+The rooftop is largely as described in [[Curse of Strahd#Q43. Hole in Roof|Q43. Hole in Roof (p. 140)]], [[Curse of Strahd#Q44. Dragon Gargoyle|Q44. Dragon Gargoyle (p. 141)]], [[Curse of Strahd#Q45. Ancient Ballista|Q45. Ancient Ballista (p. 141)]], [[Curse of Strahd#Q46. Destroyed Ballista|Q46. Destroyed Ballista (p. 141)]], [[Curse of Strahd#Q47. Roof Turrets|Q47. Roof Turrets (p. 141)]], [[Curse of Strahd#Q48. Roof's Edge|Q48. Roof’s Edge (p. 141)]]), and [[Curse of Strahd#Q49. Beacon Tower Door|Q49. Beacon Tower Door (p. 141)]]. 
 
-However, the dragon gargoyle isn’t magical, and doesn’t whisper aloud when the players pass in front of it. In addition, a player who approaches or inspects [Q46. Destroyed Ballista (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q46.%20Destroyed%20Ballista) notices that it appears to have been pointed at [Q53. Beacon of Argynvostholt (p. 142)](../Source%20book/Curse%20of%20Strahd.md#Q53.%20Beacon%20of%20Argynvostholt) before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
+However, the dragon gargoyle isn’t magical, and doesn’t whisper aloud when the players pass in front of it. In addition, a player who approaches or inspects [[Curse of Strahd#Q46. Destroyed Ballista|Q46. Destroyed Ballista (p. 141)]] notices that it appears to have been pointed at [[Curse of Strahd#Q53. Beacon of Argynvostholt|Q53. Beacon of Argynvostholt (p. 142)]] before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
 
-If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in [Q52. Beacon Turrets (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q52.%20Beacon%20Turrets) demand the players speak Commander Horngaard's password before allowing them to approach [Q49. Beacon Tower Door (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q49.%20Beacon%20Tower%20Door). 
+If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in [[Curse of Strahd#Q52. Beacon Turrets|Q52. Beacon Turrets (p. 141)]] demand the players speak Commander Horngaard's password before allowing them to approach [[Curse of Strahd#Q49. Beacon Tower Door|Q49. Beacon Tower Door (p. 141)]]. 
 
-If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof, the turrets containing [Q31. East Staircases (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q31.%20East%20Staircases), [Q47. Roof Turrets (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q47.%20Roof%20Turrets).
+If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof, the turrets containing [[Curse of Strahd#Q31. East Staircases|Q31. East Staircases (p. 138)]], [[Curse of Strahd#Q47. Roof Turrets|Q47. Roof Turrets (p. 141)]].
 
-The interior of the beacon’s tower is largely as described in [Q50. Beacon, Lower Landing (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q50.%20Beacon%2C%20Lower%20Landing), [Q51. Beacon, Upper Landing (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q51.%20Beacon%2C%20Upper%20Landing), and [Q52. Beacon Turrets (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q52.%20Beacon%20Turrets), except for the changes to the **phantom warriors** described above. 
+The interior of the beacon’s tower is largely as described in [[Curse of Strahd#Q50. Beacon, Lower Landing|Q50. Beacon, Lower Landing (p. 141)]], [[Curse of Strahd#Q51. Beacon, Upper Landing|Q51. Beacon, Upper Landing (p. 141)]], and [[Curse of Strahd#Q52. Beacon Turrets|Q52. Beacon Turrets (p. 141)]], except for the changes to the **phantom warriors** described above. 
 
-In addition, if any characters successfully enter the tower, the **phantom warriors** exit the beacon turrets and engage the characters on the stairs connecting  [Q50. Beacon, Lower Landing (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q50.%20Beacon%2C%20Lower%20Landing) and [Q51. Beacon, Upper Landing (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q51.%20Beacon%2C%20Upper%20Landing). When they do, they gain the following additional reaction, which they use in an effort to lure the players onto the trapped landing on [Q51. Beacon, Upper Landing (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q51.%20Beacon%2C%20Upper%20Landing):
+In addition, if any characters successfully enter the tower, the **phantom warriors** exit the beacon turrets and engage the characters on the stairs connecting  [[Curse of Strahd#Q50. Beacon, Lower Landing|Q50. Beacon, Lower Landing (p. 141)]] and [[Curse of Strahd#Q51. Beacon, Upper Landing|Q51. Beacon, Upper Landing (p. 141)]]. When they do, they gain the following additional reaction, which they use in an effort to lure the players onto the trapped landing on [[Curse of Strahd#Q51. Beacon, Upper Landing|Q51. Beacon, Upper Landing (p. 141)]]:
 
 * ***Pivot.*** In response to an enemy missing an attack against it, the phantom warrior moves up to 10 feet away without triggering opportunity attacks.
 
@@ -933,13 +933,13 @@ As they fight in melee, the phantom warriors shout: “Begone, soldiers of the D
 ## M7b. Beacon
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q53.</em></span>
 
-This area is largely as described in [Q53. Beacon of Argynvostholt (p. 142)](../Source%20book/Curse%20of%20Strahd.md#Q53.%20Beacon%20of%20Argynvostholt). However, remove the sentence describing the ravens from the area’s description. (No ravens roost here.) Instead, add the following text to the end of the area’s description:
+This area is largely as described in [[Curse of Strahd#Q53. Beacon of Argynvostholt|Q53. Beacon of Argynvostholt (p. 142)]]. However, remove the sentence describing the ravens from the area’s description. (No ravens roost here.) Instead, add the following text to the end of the area’s description:
 
 <div class="description">
 <p>A small, silver-plated gargoyle, shaped like a dragon wyrmling and holding a tarnished brazier in its claws, crouches on the floor just beside the staircase landing, its wings curled tightly toward itself. Not far away, a knight in old, rusted armor stands by the western window, looking out across the misted landscape far beyond. The blade of a tall, gleaming greatsword rests on the ground beside him, with one of the knight’s rusted iron gauntlets resting upon its hilt.</p>
 </div>
 
-The gargoyle is half the size of [Q44. Dragon Gargoyle (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q44.%20Dragon%20Gargoyle). The knight is Vladimir Horngaard, who is as described in [Q36. Dragon’s Audience Hall (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q36.%20Dragon's%20Audience%20Hall).
+The gargoyle is half the size of [[Curse of Strahd#Q44. Dragon Gargoyle|Q44. Dragon Gargoyle (p. 141)]]. The knight is Vladimir Horngaard, who is as described in [[Curse of Strahd#Q36. Dragon's Audience Hall|Q36. Dragon’s Audience Hall (p. 138)]].
 ### Meeting Vladimir Horngaard
 The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the staircase without alerting Vladimir to their presence. If the players don’t approach stealthily, fail their Dexterity (Stealth) check, approach the dragon gargoyle, or fought the **phantom warriors** in the turrets below, Vladimir is alerted. Read:
 
@@ -989,9 +989,9 @@ If asked, Vladimir can share the following information:
 > [!lore] **Vladimir and Argynvost**
 > Vladimir's anger and hatred prevent him from hearing Argynvost's voice. If the players mention anyone communicating with Argynvost's spirit, he claims they are lying. (As Argynvost's commander, Vladimir is convinced that if he can't hear Argynvost's spirit, then no one can, and can't be persuaded otherwise.)
 
-If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to [Q36. Dragon’s Audience Hall (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q36.%20Dragon's%20Audience%20Hall).
+If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to [[Curse of Strahd#Q36. Dragon's Audience Hall|Q36. Dragon’s Audience Hall (p. 138)]].
 
-If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to [Q36. Dragon’s Audience Hall (p. 138)](../Source%20book/Curse%20of%20Strahd.md#Q36.%20Dragon's%20Audience%20Hall).
+If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to [[Curse of Strahd#Q36. Dragon's Audience Hall|Q36. Dragon’s Audience Hall (p. 138)]].
 ### Vladimir’s Anger
 If the players inform Vladimir that they came to Argynvostholt at Sir Godfrey’s invitation or have otherwise spoken with Sir Godfrey, he asks quietly whether they “seek to join that traitor in his accursed crusade against the lord of Castle Ravenloft." The players can convince Vladimir that they are no enemies of Strahd with a successful DC 14 Charisma (Deception) check. On a failure, or if the players confess to seeking Strahd’s destruction, read:
 
@@ -1013,7 +1013,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 > If Vladimir uses his ***oathbind*** feature to subject a players to the effects of a *geas*, he whispers the following binding command: “You shall raise no hand against Strahd von Zarovich for as long as you live."
 
 > [!info]+ **Room Dimensions**
-> When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that [Q53. Beacon of Argynvostholt (p. 142)](../Source%20book/Curse%20of%20Strahd.md#Q53.%20Beacon%20of%20Argynvostholt) is a full 30 feet across.
+> When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that [[Curse of Strahd#Q53. Beacon of Argynvostholt|Q53. Beacon of Argynvostholt (p. 142)]] is a full 30 feet across.
 
 > [!combat]- **Combat - The Commander**  
 > **Combat Level**: Bruising (first phase), Bruising (second phase)
@@ -1031,7 +1031,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 > | 6 | Increase Vladimir’s hit points in each phase to 258. Increase his Greatsword to a +3 greatsword (+13 to hit, 2d6+8 slashing damage), increase the damage of his ***Conjure Phantoms*** to 1d10+3, increase his ***Reaving Sweep*** to 4d10 slashing damage, increase his ***Umbral Snare*** to 6d4 piercing initially and 3d4 piercing when attempting to escape the grapple. In his second phase, increase his Greatsword to a +3 (+13 to hit, 2d6+8 slashing damage) and 1d6 additional piercing damage, increase his ***Black Flames*** to 3d4 fire damage and 1d6 necrotic damage, increase his Gravepyre to ***2d10*** fire and 2d10 necrotic damage, increase his ***Destructive Wave*** to 2d10 thunder and 2d10 necrotic damage, and increase his ***Vengeful Rush***’s initial damage to 3d4. |
 
 > [!abstract]+ **The Players Flee**
-> If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside [Q49. Beacon Tower Door (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q49.%20Beacon%20Tower%20Door) to block their escape.
+> If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside [[Curse of Strahd#Q49. Beacon Tower Door|Q49. Beacon Tower Door (p. 141)]] to block their escape.
 
 <div class="statblock">
 <h2>Vladimir Horngaard, Vengeful Revenant</h2>
@@ -1158,12 +1158,12 @@ If any of the players refuse to swear Vladimir’s oath, read:
 While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on an additional DC 18 Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
 
 * If the player was pushed out of a window, they take 2 (1d4) slashing damage from jagged glass shards and must succeed on a DC 10 Dexterity saving throw. On a success, they catch themselves on a stone outcropping 10 feet below the window. On a failure, they fall to the ground or rooftop below, depending on their location.
-* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on [Q51. Beacon, Upper Landing (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q51.%20Beacon%2C%20Upper%20Landing) and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
+* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on [[Curse of Strahd#Q51. Beacon, Upper Landing|Q51. Beacon, Upper Landing (p. 141)]] and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
 
 > [!warning]+ **Failing Forward**
 > The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
 > 
-> If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in [Q15. Cemetery (p. 134)](../Source%20book/Curse%20of%20Strahd.md#Q15.%20Cemetery) and returns to the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>. 
+> If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in [[Curse of Strahd#Q15. Cemetery|Q15. Cemetery (p. 134)]] and returns to the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>. 
 > 
 > The players can learn that their weapons have been buried in the cemetery by asking Sir Godfrey, and can locate the particular grave with a DC 5 Intelligence (Investigation) check, or by digging up all of the graves in the cemetery. Sir Godfrey apologizes deeply for Vladimir's violence, but shares that Vladimir has recently returned to his audience hall, clearing the way should the players wish to continue exploring the upper reaches of the manor.
 > 
@@ -1184,7 +1184,7 @@ The players can summon an aspect of Argynvost’s spirit to briefly animate the 
 <p>Its mouth moves, its whispering hiss seeming to echo in the enclosed space.</p>
 </div>
 
-The gargoyle then whispers the short verse described in [Q44. Dragon Gargoyle (p. 141)](../Source%20book/Curse%20of%20Strahd.md#Q44.%20Dragon%20Gargoyle).
+The gargoyle then whispers the short verse described in [[Curse of Strahd#Q44. Dragon Gargoyle|Q44. Dragon Gargoyle (p. 141)]].
 
 ***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
 

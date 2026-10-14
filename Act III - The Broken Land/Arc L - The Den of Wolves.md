@@ -11,7 +11,7 @@ There, the players meet Zuleika Toranescu—a **werewolf** cleric of Mother Nigh
 >
 > * Arturi Radanavich will be removed from the campaign.
 > * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
-> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of [N9. Vistani Camp (p. 119)](../Source%20book/Curse%20of%20Strahd.md#N9.%20Vistani%20Camp), and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
+> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of [[Curse of Strahd#N9. Vistani Camp|N9. Vistani Camp (p. 119)]], and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
 > * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
 > * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
 > * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
@@ -186,7 +186,7 @@ As dusk approaches, Ezmerelda can lead the players to a dark and quiet hollow in
 <p>The air is cool and damp here, carrying the earthy scent of wet soil and decaying leaves. The hollow itself is silent, save for the faint rustling of leaves and the distant lapping of water against the shore.</p>
 </div>
 
-Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in [Approaching the Den (p. 201)](../Source%20book/Curse%20of%20Strahd.md#Approaching%20the%20Den).
+Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in [[Curse of Strahd#Approaching the Den|Approaching the Den (p. 201)]].
 
 Upon descending into the hollow, Ezmerelda asks the players to gather firewood and kindling. Once a small campfire has been created, she produces a small flint and steel from her satchel—a *furtive firestarter* (see below)—and uses it to light a small but cheery campfire beneath the cavern of roots. 
 
@@ -245,7 +245,7 @@ One hour after nightfall, the majority of the werewolf pack departs the den. Rea
 > 
 > When leaving Barovia, Kiril takes only the long-time members of the pack with him to hunt, leaving his four bloodthirsty lackeys behind to supervise and protect the den. Kiril doesn't allow the long-time members of the pack to eat everything they hunt, and has threatened to dismember or kill them if they dare touch anything more than the scraps he leaves behind.
 
-As the players approach, the exterior of the den is largely as described in [Approaching the Den (p. 201)](../Source%20book/Curse%20of%20Strahd.md#Approaching%20the%20Den). However, add the following text to the end of that description:
+As the players approach, the exterior of the den is largely as described in [[Curse of Strahd#Approaching the Den|Approaching the Den (p. 201)]]. However, add the following text to the end of that description:
 
 <div class="description">
 <p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>
@@ -258,7 +258,7 @@ A successful DC 12 Wisdom (Medicine) check reveals that the elk's throat was tor
 ## L4a. Cave Mouth & Guard Post
 <span class="citation"><em>This area corresponds to Z1. Cave Mouth (p. 203) and Z2. Guard Post (p. 203).</em></span>
 
-This area is largely as described in [Z1. Cave Mouth (p. 203)](../Source%20book/Curse%20of%20Strahd.md#Z1.%20Cave%20Mouth) and [Z2. Guard Post (p. 203)](../Source%20book/Curse%20of%20Strahd.md#Z2.%20Guard%20Post). However, revise the description of this area to read as follows:
+This area is largely as described in [[Curse of Strahd#Z1. Cave Mouth|Z1. Cave Mouth (p. 203)]] and [[Curse of Strahd#Z2. Guard Post|Z2. Guard Post (p. 203)]]. However, revise the description of this area to read as follows:
 
 <div class="description">
 <p>The open jaws of the wolf's head form a fifteen-foot-high canopy of rock over the cave mouth, held up by natural pillars of rock. The ceiling rises to a height of twenty feet inside the cave. Small clusters of amber light dot the walls, casting a faint glow across the cavern floor.</p>
@@ -280,7 +280,7 @@ Replace the wolves' ***bite*** attack with the following action options:
 ## L4b. Underground Spring
 <span class="citation"><em>This area corresponds to Z4. Underground Spring (p. 203).</em></span>
 
-This area is largely as described in [Z4. Underground Spring (p. 203)](../Source%20book/Curse%20of%20Strahd.md#Z4.%20Underground%20Spring). However, the area is lit by yellow clumps of fungus, not torches.
+This area is largely as described in [[Curse of Strahd#Z4. Underground Spring|Z4. Underground Spring (p. 203)]]. However, the area is lit by yellow clumps of fungus, not torches.
 
 Additionally, if the players linger or delve deeper into this chamber, read:
 
@@ -295,7 +295,7 @@ A creature that approaches the pool sees its reflection distorted. Instead of it
 ## L4c. Wolf Den
 <span class="citation"><em>This area corresponds to Z3. Wolf Den (p. 203).</em></span>
 
-This area is largely as described in [Z3. Wolf Den (p. 203)](../Source%20book/Curse%20of%20Strahd.md#Z3.%20Wolf%20Den). However, add the following text to the end of the area’s description:
+This area is largely as described in [[Curse of Strahd#Z3. Wolf Den|Z3. Wolf Den (p. 203)]]. However, add the following text to the end of the area’s description:
 
 <div class="description">
 <p>An old, scrawny wolf lies curled up by the fire, its head turned away from you.</p>
@@ -322,7 +322,7 @@ Skennis is not asleep, only dozing. The players must succeed on a group DC 14 De
 
 The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
 
-If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind [Z6. Kiril's Cave (p. 204)](../Source%20book/Curse%20of%20Strahd.md#Z6.%20Kiril's%20Cave), and emerges into [Z8. Ring of Stone (p. 205)](../Source%20book/Curse%20of%20Strahd.md#Z8.%20Ring%20of%20Stone). Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
+If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind [[Curse of Strahd#Z6. Kiril's Cave|Z6. Kiril's Cave (p. 204)]], and emerges into [[Curse of Strahd#Z8. Ring of Stone|Z8. Ring of Stone (p. 205)]]. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
 
 If the players remain in Skennis’s cave without feeding, healing, pacifying, incapacitating, or hiding from him, his growl escalates to a rumbling snarl. One round later, he releases a sharp, piercing howl that echoes across the walls of the cave and into the valley beyond.
 
@@ -330,11 +330,11 @@ Skennis’s howl alerts Ilya and Zuleika in [[#L4e. Shrine of Mother Night]], th
 ## L4d. Deep Caves
 <span class="citation"><em>This area corresponds to Z5. Deep Caves (p. 203).</em></span>
 
-This area is largely as described in [Z5. Deep Caves (p. 203)](../Source%20book/Curse%20of%20Strahd.md#Z5.%20Deep%20Caves). However, replace the word “torchlit" in the description with “yellow-lit." In addition, players who pass through this area can see flickering torchlight emanating from [Z7. Shrine of Mother Night (p. 204)](../Source%20book/Curse%20of%20Strahd.md#Z7.%20Shrine%20of%20Mother%20Night).
+This area is largely as described in [[Curse of Strahd#Z5. Deep Caves|Z5. Deep Caves (p. 203)]]. However, replace the word “torchlit" in the description with “yellow-lit." In addition, players who pass through this area can see flickering torchlight emanating from [[Curse of Strahd#Z7. Shrine of Mother Night|Z7. Shrine of Mother Night (p. 204)]].
 
-Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, [Z5a. South Cave (p. 203)](../Source%20book/Curse%20of%20Strahd.md#Z5a.%20South%20Cave) is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while [Z5b. North Cave (p. 203)](../Source%20book/Curse%20of%20Strahd.md#Z5b.%20North%20Cave) is occupied by six alert **wolves** loyal to Strahd and Kiril.
+Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, [[Curse of Strahd#Z5a. South Cave|Z5a. South Cave (p. 203)]] is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while [[Curse of Strahd#Z5b. North Cave|Z5b. North Cave (p. 203)]] is occupied by six alert **wolves** loyal to Strahd and Kiril.
 
-To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage as described in [Z5. Deep Caves (p. 203)](../Source%20book/Curse%20of%20Strahd.md#Z5.%20Deep%20Caves). If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
+To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage as described in [[Curse of Strahd#Z5. Deep Caves|Z5. Deep Caves (p. 203)]]. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
 
 <div class="statblock">
 <h2>Werewolf Brawler</h2>
@@ -393,7 +393,7 @@ To sneak through this area without disturbing the wolves, the players must succe
 </div>
 
 > [!info]+ **Where Wolves?**
-> When the players first infiltrate the Werewolf Den, Bianca is sitting alone in [Z8. Ring of Stone (p. 205)](../Source%20book/Curse%20of%20Strahd.md#Z8.%20Ring%20of%20Stone), descending to the main cavern only if Skennis raises the alarm. Wensencia no longer exists as a member of the werewolf pack, while Kellen has been made an adult member of the pack and a member of Kiril's raiding party.
+> When the players first infiltrate the Werewolf Den, Bianca is sitting alone in [[Curse of Strahd#Z8. Ring of Stone|Z8. Ring of Stone (p. 205)]], descending to the main cavern only if Skennis raises the alarm. Wensencia no longer exists as a member of the werewolf pack, while Kellen has been made an adult member of the pack and a member of Kiril's raiding party.
 
 ## L4e. Shrine of Mother Night
 <span class="citation"><em>This area corresponds to Z7. Shrine of Mother Night (p. 204).</em></span>
@@ -432,10 +432,10 @@ Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s 
 > The spells *dispel magic* and *knock* have no effect on either collar. In addition, if a prisoner teleports while wearing the collar, the collar teleports with its wearer.
 
 > [!info]+ **Collars and Anti-Magic**
-> A _silverthorn collar_ is affected normally by [Khazan's Spell Drain (p. 167)](../Source%20book/Curse%20of%20Strahd.md#Khazan's%20Spell%20Drain) at [Chapter 11: Van Richten's Tower (p. 167)](../Source%20book/Curse%20of%20Strahd.md#Chapter%2011%3A%20Van%20Richten's%20Tower). If her collar is removed, Zuleika is glad to help the players rescue Emil from Castle Ravenloft in [[Arc P - Ravenloft Heist]].
+> A _silverthorn collar_ is affected normally by [[Curse of Strahd#Khazan's Spell Drain|Khazan's Spell Drain (p. 167)]] at [[Curse of Strahd#Chapter 11: Van Richten's Tower|Chapter 11: Van Richten's Tower (p. 167)]]. If her collar is removed, Zuleika is glad to help the players rescue Emil from Castle Ravenloft in [[Arc P - Ravenloft Heist]].
 
 > [!info]+ **The Chains**
-> The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *chain (10 feet)*, as described in [Player's Handbook (p. 151)](../Source%20book/Curse%20of%20Strahd.md#page-151), with an AC of 19. 
+> The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *chain (10 feet)*, as described in [[Curse of Strahd#page-151|Player's Handbook (p. 151)]], with an AC of 19. 
 
 When the two prisoners first notice the players, Ilya presses himself against the back of his cage, clearly terrified, while Zuleika watches quietly. Ilya demands to know who the players are and whether they’re members of the werewolf pack.
 
@@ -518,7 +518,7 @@ If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ra
 > 
 > You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.
 ### Bianca’s Return
-Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from [Z8. Ring of Stone (p. 205)](../Source%20book/Curse%20of%20Strahd.md#Z8.%20Ring%20of%20Stone), passes through [Z6. Kiril's Cave (p. 204)](../Source%20book/Curse%20of%20Strahd.md#Z6.%20Kiril's%20Cave), and approaches [Z7. Shrine of Mother Night (p. 204)](../Source%20book/Curse%20of%20Strahd.md#Z7.%20Shrine%20of%20Mother%20Night). 
+Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from [[Curse of Strahd#Z8. Ring of Stone|Z8. Ring of Stone (p. 205)]], passes through [[Curse of Strahd#Z6. Kiril's Cave|Z6. Kiril's Cave (p. 204)]], and approaches [[Curse of Strahd#Z7. Shrine of Mother Night|Z7. Shrine of Mother Night (p. 204)]]. 
 
 Any character with a passive Wisdom (Perception) score of 18 or above hears Bianca pass through the curtain at the rear of Kiril’s Cave. Characters who act swiftly can conceal themselves from view by moving along the southern staircase and succeeding on a DC 20 group Dexterity (Stealth) check. (On a failure, Bianca confronts them atop the southern staircase, obstructing their escape.)
 
@@ -534,7 +534,7 @@ If Bianca doesn’t notice the players, she proceeds as follows, assuming the pl
 * Zuleika grasps the bars of her cage. “He made his choice long ago. You can still find a different path."
 * Bianca lunges for Zuleika’s cage and wraps her claws around the bars, thrusting her muzzle between them. “I gave up *everything* for him. Do you have any idea what I’ve sacrificed to be here?"
 * Zuleika meets Bianca’s gaze without flinching. She then replies, softly, “Do you?"
-* Bianca freezes, then resumes her true human form. She then turns away from Zuleika’s cage, pauses, and tiredly says, “It doesn’t matter. It never did." Bianca then proceeds to [Z6. Kiril's Cave (p. 204)](../Source%20book/Curse%20of%20Strahd.md#Z6.%20Kiril's%20Cave), where she uses her ***shapechange*** feature to assume her white-furred wolf form, curls up on the ground, and stares blankly across the cavern.
+* Bianca freezes, then resumes her true human form. She then turns away from Zuleika’s cage, pauses, and tiredly says, “It doesn’t matter. It never did." Bianca then proceeds to [[Curse of Strahd#Z6. Kiril's Cave|Z6. Kiril's Cave (p. 204)]], where she uses her ***shapechange*** feature to assume her white-furred wolf form, curls up on the ground, and stares blankly across the cavern.
 
 If Bianca notices and confronts the players, or if the players make no efforts to conceal themselves or escape, she demands, in a quiet, deadly tone, that they depart the den immediately and never return. If they fail to do so, she threatens to break the _crystal of alarm_ around her neck, summoning Kiril and the rest of the pack back to Barovia. “When Kiril returns," she warns breathlessly, “he’ll skin you alive."
 

@@ -165,7 +165,7 @@ If the players return to Argynvostholt, read the following when they arrive:
 <p>The once-grand manor stands silently before you. Where once a cold shadow dwelled, there is now only emptiness—save for a faint silver light that pulses from the top of the mansion’s tallest tower.</p>
 </div>
 
-If the players ascend to [Q53. Beacon of Argynvostholt (p. 142)](../Source%20book/Curse%20of%20Strahd.md#Q53.%20Beacon%20of%20Argynvostholt), read:
+If the players ascend to [[Curse of Strahd#Q53. Beacon of Argynvostholt|Q53. Beacon of Argynvostholt (p. 142)]], read:
 
 <div class="description">  
 <p>The tower’s peak is quiet and empty—save for a large silver egg that lies upon the floor, pulsing with an iridescent light.</p>  
@@ -207,7 +207,7 @@ Lady Wachter invites the players to relax and celebrate, and encourages them to 
 ### 2d. Festival Games
 If the players explore the festival, they can find the following attractions:
 
-* A game of “pin-the-tail-on-the-nightmare," run by Blinsky outside his shop. (To play, a character must make a Wisdom check. On a result of 20 or more, the character pins the tail on the nightmare and wins a free toy from [Blinsky Toy (p. 50)](../Source%20book/Curse%20of%20Strahd.md#Blinsky%20Toy) or [N7. Blinsky Toys (p. 118)](../Source%20book/Curse%20of%20Strahd.md#N7.%20Blinsky%20Toys). The lower the result, the further the tail lands.)  
+* A game of “pin-the-tail-on-the-nightmare," run by Blinsky outside his shop. (To play, a character must make a Wisdom check. On a result of 20 or more, the character pins the tail on the nightmare and wins a free toy from [[Curse of Strahd#Blinsky Toy|Blinsky Toy (p. 50)]] or [[Curse of Strahd#N7. Blinsky Toys|N7. Blinsky Toys (p. 118)]]. The lower the result, the further the tail lands.)  
 * A wine stand run by any Martikovs still in Vallaki, at which Davian Martikov is loudly telling the tale of the players’ defeat of Baba Lysaga to anyone who will listen. (If asked, Urwin or Danika can share that the Vistani had several barrels of wine in their wagons and tent and gladly donated them to the festivities.) Davian’s audience includes Nikolai and Karl Wachter, who gleefully challenge the players to a drinking competition—soon joined by Arrigal, who asks slyly if the players would mind “an additional competitor." (To play, a character must make a Constitution saving throw each time they drink a glass. The DC begins at 4 and increases by 2 with each successive glass. The first time a character fails a saving throw, they become ****poisoned****—i.e., drunk—and the DC resets to 4. The second time a character fails a saving throw, they fall unconscious.)  
 * A fortunetelling stand run by Sofiya Zalken, a young Vistani woman with a tabby cat named Joie (pronounced “Zhwah") curled up around her neck. Sofiya is glad to offer Tarokka readings for a silver piece, but insists that the players don’t pay if she learns their identities. (Although Sofiya plays up her “inner eye" for children and onlookers, she freely admits that she is no true seer. “Nevertheless," she says, with a gleam in her eye and a grin on her face, “I’ve always thought that the future one sees in the cards is often the future that one *needed* to see—or at least, that’s what my mother always told me.")
 
@@ -350,7 +350,7 @@ Any Belview who comes to the Forest Fane and chooses to undergo the Huntress’s
 > Neither Clovin nor Cyrus choose to undergo the transformation, having mastered their animal instincts years ago. However, both are simultaneously sorrowful to bid their family members farewell and glad to see them finally at peace.
 ## 4. Return to Barovia
 ### 4a. The Raven and the Rider
-If the players return to [F. River Ivlis Crossroads (p. 35)](../Source%20book/Curse%20of%20Strahd.md#F.%20River%20Ivlis%20Crossroads) after defeating Strahd, read:
+If the players return to [[Curse of Strahd#F. River Ivlis Crossroads|F. River Ivlis Crossroads (p. 35)]] after defeating Strahd, read:
 
 <div class="description">  
 <p>The old wooden gallows stands quietly beneath the warm, golden light, its aged wood speckled with lush green moss and lichens. Near the small graveyard rests a pile of bones beneath the watchful vigil of a raven.</p>  
@@ -360,9 +360,9 @@ The pile of bones are the remains of the skeletal rider—Dalvan Olensky and his
 
 The raven is an ordinary raven and servant of the Seeker, come to honor Dalvan’s remains for his service to the Seeker.
 ### 4b. Return to Tser Pool
-If the players return to [G. Tser Pool Encampment (p. 36)](../Source%20book/Curse%20of%20Strahd.md#G.%20Tser%20Pool%20Encampment), they find that only two tents remain: Stanimir’s tent and Madam Eva’s. (The other Vistani have traveled to the village of Barovia to assist in the rebuilding efforts. Only Stanimir and his family—who are currently out hunting—have remained to tend to the encampment and Madam Eva.)
+If the players return to [[Curse of Strahd#G. Tser Pool Encampment|G. Tser Pool Encampment (p. 36)]], they find that only two tents remain: Stanimir’s tent and Madam Eva’s. (The other Vistani have traveled to the village of Barovia to assist in the rebuilding efforts. Only Stanimir and his family—who are currently out hunting—have remained to tend to the encampment and Madam Eva.)
 
-Stanimir is delighted to see the players, whom he assumes are responsible for the return of the Sun and Strahd’s evident defeat. However, while he believes that Strahd’s defeat was necessary for the good of all Barovia, he quietly mourns the future and legacy of the young soldier his ancestors once aided on the battlefield, as described in [Mysterious Visitors (p. 19)](../Source%20book/Curse%20of%20Strahd.md#Mysterious%20Visitors). “I know not how darkness came to consume him," he says sorrowfully. “If only a man of such power and ambition had put his spark to good, instead of ill, what might he have accomplished?"
+Stanimir is delighted to see the players, whom he assumes are responsible for the return of the Sun and Strahd’s evident defeat. However, while he believes that Strahd’s defeat was necessary for the good of all Barovia, he quietly mourns the future and legacy of the young soldier his ancestors once aided on the battlefield, as described in [[Curse of Strahd#Mysterious Visitors|Mysterious Visitors (p. 19)]]. “I know not how darkness came to consume him," he says sorrowfully. “If only a man of such power and ambition had put his spark to good, instead of ill, what might he have accomplished?"
 
 If the players enter Madam Eva’s tent, read:
 
@@ -415,7 +415,7 @@ Escher’s ultimate fate depends on the players’ choices and actions earlier i
 Shortly after Strahd’s defeat, Escher seeks out the players in Vallaki, traveling by night and presenting himself openly at the gates. 
 
 * ***If the players are known to be present in Vallaki,*** one of the town guards fetches them and asks them to come to the gate, where “one of the Devil’s spawn" is asking for them.  
-* ***If the players aren’t known to be present in Vallaki***, Escher insists that he be allowed to meet them and requests an audience with Lady Wachter. Upon her arrival, he surrenders to her and insists that he be granted an opportunity to speak with the players. At Lady Wachter’s direction, Escher is bound in manacles and imprisoned in [N4t. Cult Headquarters (p. 114)](../Source%20book/Curse%20of%20Strahd.md#N4t.%20Cult%20Headquarters), whose secret door is locked and guarded by two **guards** until the players return to Vallaki.
+* ***If the players aren’t known to be present in Vallaki***, Escher insists that he be allowed to meet them and requests an audience with Lady Wachter. Upon her arrival, he surrenders to her and insists that he be granted an opportunity to speak with the players. At Lady Wachter’s direction, Escher is bound in manacles and imprisoned in [[Curse of Strahd#N4t. Cult Headquarters|N4t. Cult Headquarters (p. 114)]], whose secret door is locked and guarded by two **guards** until the players return to Vallaki.
 
 If the players subsequently speak with Escher, he surrenders to them and asks them to decide his fate. “I can’t atone for the things I did or the people I hurt," he says, his voice choked with tears. “Every time I sleep, I see their faces in my dreams. Please—I just want it to stop."
 

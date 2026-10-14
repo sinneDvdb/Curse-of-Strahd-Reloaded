@@ -158,16 +158,16 @@ As the players cross the bridge over the Luna River, read the following:
 <p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
 </div>
 
-The Luna River Crossroads are as described in [P. Luna River Crossroads (p. 40)](../Source%20book/Curse%20of%20Strahd.md#P.%20Luna%20River%20Crossroads). However, do not check for a random encounter when the players reach this area.
+The Luna River Crossroads are as described in [[Curse of Strahd#P. Luna River Crossroads|P. Luna River Crossroads (p. 40)]]. However, do not check for a random encounter when the players reach this area.
 
-As the players pass it, the path to Argynvostholt is largely as described in [Approaching the Mansion (p. 130)](../Source%20book/Curse%20of%20Strahd.md#Approaching%20the%20Mansion). Read:
+As the players pass it, the path to Argynvostholt is largely as described in [[Curse of Strahd#Approaching the Mansion|Approaching the Mansion (p. 130)]]. Read:
 
 <div class="description">
 <p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
 </div>
 
 ## J2b. The Path to Tsolenka Pass
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and [Chapter 11: Van Richten’s Tower (p. 167)](../Source%20book/Curse%20of%20Strahd.md#Chapter%2011%3A%20Van%20Richten's%20Tower), not far from the path that leads to [Chapter 9: Tsolenka Pass (p. 157)](../Source%20book/Curse%20of%20Strahd.md#Chapter%209%3A%20Tsolenka%20Pass). Read:
+Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and [[Curse of Strahd#Chapter 11: Van Richten's Tower|Chapter 11: Van Richten’s Tower (p. 167)]], not far from the path that leads to [[Curse of Strahd#Chapter 9: Tsolenka Pass|Chapter 9: Tsolenka Pass (p. 157)]]. Read:
 
 <div class="description">
 <p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
@@ -191,7 +191,7 @@ Muriel doesn’t know why the woman was watching the road, but shares that the M
 
 If the players ask Muriel about the druid of the Forest Folk that they saw on the Old Svalich Road in [[Arc H - The Lost Soul]] she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
 ## J2c. The Raven River Crossroads
-The Raven River Crossroads are largely as described in [R. Raven River Crossroads (p. 40)](../Source%20book/Curse%20of%20Strahd.md#R.%20Raven%20River%20Crossroads). However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
+The Raven River Crossroads are largely as described in [[Curse of Strahd#R. Raven River Crossroads|R. Raven River Crossroads (p. 40)]]. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
 
 <div class="description">
 <p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
@@ -216,7 +216,7 @@ As the players proceed south from the Raven River Crossroads, read:
 
 As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
 
-The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in [False Trail (p. 30)](../Source%20book/Curse%20of%20Strahd.md#False%20Trail). The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
+The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in [[Curse of Strahd#False Trail|False Trail (p. 30)]]. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
 
 A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
 
@@ -244,7 +244,7 @@ As the players proceed past the pit trap, read:
 
 If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other three slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
 # J3. The Wizard of Wines
-The last stretch of the journey to the Wizard of Wines is largely as described in [Approaching the Vineyard (p. 174)](../Source%20book/Curse%20of%20Strahd.md#Approaching%20the%20Vineyard). If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
+The last stretch of the journey to the Wizard of Wines is largely as described in [[Curse of Strahd#Approaching the Vineyard|Approaching the Vineyard (p. 174)]]. If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
 
 > [!lore]+ **History of the Winery**
 > Long ago, before Strahd von Zarovich first conquered the valley, the tribes of the First Folk were brutally united when Kavan the Blood-Drinker, a young chieftain, destroyed the hierarchy of the druidic caste and waged bloody war upon his neighbors.
@@ -257,7 +257,7 @@ The last stretch of the journey to the Wizard of Wines is largely as described i
 > 
 > Livius adventured with Ismark and Lugdana for nearly a decade afterward, scouting out dangers and spying on their enemies. When he finally retired from adventuring, he used the wealth and notoriety he had gained to found the Keepers of the Feather, a secret society of wereravens dedicated to opposing the forces of darkness across Barovia. Though the Keepers would not themselves enter the fray, they vowed to serve, guide, and shelter any heroes who might one day rise in Lugdana’s memory.
 > 
-> Ten years ago, Madam Eva—assisted by the **roc of Mount Ghakis** disguised as an ordinary raven—stole one of the three enchanted gemstones from the winery. Davian blamed his son, Urwin, as described in [Chapter 12: The Wizard of Wines (p. 173)](../Source%20book/Curse%20of%20Strahd.md#Chapter%2012%3A%20The%20Wizard%20of%20Wines). Urwin told Davian that he had seen a raven carrying the gem away into the night—a claim that Davian dismissed as ludicrous, because the Keepers knew and commanded all of the ravens in the valley. After a furious fight, Urwin and his betrothed, Danika Dorakova, left for Vallaki the following morning, never to return.
+> Ten years ago, Madam Eva—assisted by the **roc of Mount Ghakis** disguised as an ordinary raven—stole one of the three enchanted gemstones from the winery. Davian blamed his son, Urwin, as described in [[Curse of Strahd#Chapter 12: The Wizard of Wines|Chapter 12: The Wizard of Wines (p. 173)]]. Urwin told Davian that he had seen a raven carrying the gem away into the night—a claim that Davian dismissed as ludicrous, because the Keepers knew and commanded all of the ravens in the valley. After a furious fight, Urwin and his betrothed, Danika Dorakova, left for Vallaki the following morning, never to return.
 > 
 > Just over three months ago, when the ravens caught word of Doru’s brewing rebellion, the **wereraven** Elric Martikov—one of Davian’s youngest sons and Elvir Martikov’s twin brother—became determined to fight alongside them. Davian, however, forbade him from doing so.
 > 
@@ -269,7 +269,7 @@ The last stretch of the journey to the Wizard of Wines is largely as described i
 > 
 > Baba Lysaga’s **scarecrows** have repeatedly attacked the winery since then. On one such occasion, Ludmilla detected the presence of the two remaining magic gems. Three weeks ago, during one such attack, the scarecrows found one of the gems, dug it up, and spirited it away to Baba Lysaga in Berez.
 > 
-> Five days ago, the druids of Yester Hill found the second gem and stole it. The wereravens launched a counterattack as described in [Chapter 12: The Wizard of Wines (p. 173)](../Source%20book/Curse%20of%20Strahd.md#Chapter%2012%3A%20The%20Wizard%20of%20Wines), but were unable to overcome the druids and their defenses. Three days ago, the druids marched on the winery with a small army of corrupted blights and drove the Martikovs out.
+> Five days ago, the druids of Yester Hill found the second gem and stole it. The wereravens launched a counterattack as described in [[Curse of Strahd#Chapter 12: The Wizard of Wines|Chapter 12: The Wizard of Wines (p. 173)]], but were unable to overcome the druids and their defenses. Three days ago, the druids marched on the winery with a small army of corrupted blights and drove the Martikovs out.
 > 
 > The druids have remained in the winery ever since, searching for the third gemstone that they believe to be hidden there. They have also planted a cutting of the Gulthias Tree within the winery, which they plan to use to extend their reach north, toward Krezk. Soon, however, the druids will give up their search—and the **tree blight** Wintersplinter will march upon the winery and destroy it for good.
 
@@ -388,7 +388,7 @@ As the players pass through the tunnel, read:
 <p>The tunnel soon opens into a shallow, freezing cavern. Thick brown mold carpets the walls, floor, and ceiling, its expanse interrupted only by a narrow dirt path that cuts across the floor to a dark stone archway at the opposite end. </p>
 </div>
 
-This area is as described in [W15. Brown Mold (p. 178)](../Source%20book/Curse%20of%20Strahd.md#W15.%20Brown%20Mold). If the players approach the archway, read:
+This area is as described in [[Curse of Strahd#W15. Brown Mold|W15. Brown Mold (p. 178)]]. If the players approach the archway, read:
 
 <div class="description">
 <p>The archway gives way to a stonework tunnel, which seemingly terminates at a blank brick wall fifteen feet beyond. </p>
@@ -408,7 +408,7 @@ The tooth dissipates into frigid mist if either of these properties are used.
 ## J3b. Into the Winery
 <span class="citation"><em>This scene takes place in Chapter 12, Area W14.</em></span>
 
-The wine cellar is largely as described in [W14. Wine Cellar (p. 178)](../Source%20book/Curse%20of%20Strahd.md#W14.%20Wine%20Cellar). However, modify the descriptive text to read as follows:
+The wine cellar is largely as described in [[Curse of Strahd#W14. Wine Cellar|W14. Wine Cellar (p. 178)]]. However, modify the descriptive text to read as follows:
 
 <div class="description">
 <p>Wooden pillars and beams support the ten-foot-high ceiling of this unseasonably warm cellar, which is split in two by a five-foot-thick brick wall. A thick, humid mist curls across the floor, which is criss-crossed by tiny black roots.</p>
@@ -516,7 +516,7 @@ The ivy covering the wine racks is a particularly nasty type of carnivorous razo
 
 When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
 ## J3c. Ascending the Stairs
-The three exits from the cellar are largely as described in [W11. Spiral Staircase (p. 177)](../Source%20book/Curse%20of%20Strahd.md#W11.%20Spiral%20Staircase), [W12. Ramp (p. 177)](../Source%20book/Curse%20of%20Strahd.md#W12.%20Ramp), [W13. Back Staircase (p. 178)](../Source%20book/Curse%20of%20Strahd.md#W13.%20Back%20Staircase), and [W10. Glassblower’s Workshop (p. 177)](../Source%20book/Curse%20of%20Strahd.md#W10.%20Glassblower's%20Workshop). However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
+The three exits from the cellar are largely as described in [[Curse of Strahd#W11. Spiral Staircase|W11. Spiral Staircase (p. 177)]], [[Curse of Strahd#W12. Ramp|W12. Ramp (p. 177)]], [[Curse of Strahd#W13. Back Staircase|W13. Back Staircase (p. 178)]], and [[Curse of Strahd#W10. Glassblower's Workshop|W10. Glassblower’s Workshop (p. 177)]]. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
 
 As the players climb the spiral staircase or back staircase toward the first floor, read:
 
@@ -528,7 +528,7 @@ As the players climb the spiral staircase or back staircase toward the first flo
 ### Fermentation Vats
 <span class="citation"><em>This scene takes place in Chapter 12, Area W9.</em></span>
 
-The scream originates from the large room containing the winery’s fermentation vats, which is largely as described in [W9. Fermentation Vats (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W9.%20Fermentation%20Vats). However, remove the final two sentences of the room’s description. If the players have entered the room from [W10. Glassblower's Workshop (p. 177)](../Source%20book/Curse%20of%20Strahd.md#W10.%20Glassblower's%20Workshop) or have entered the chamber fully, also read the following text:
+The scream originates from the large room containing the winery’s fermentation vats, which is largely as described in [[Curse of Strahd#W9. Fermentation Vats|W9. Fermentation Vats (p. 176)]]. However, remove the final two sentences of the room’s description. If the players have entered the room from [[Curse of Strahd#W10. Glassblower's Workshop|W10. Glassblower's Workshop (p. 177)]] or have entered the chamber fully, also read the following text:
 
 <div class="description">
 <p>Beneath the sloping roof stretch thick rafters, from which hang six wooden cages arranged side-by-side. Each cage holds more than a dozen ravens crammed together, with little space to move or breathe. Most of the ravens bear cuts or broken beaks, and all of them are missing feathers.</p>
@@ -563,7 +563,7 @@ If the players reveal themselves without attacking, the druid tilts her head and
 Silvia invites the players to approach the caged raven and see “the mark of the night" upon its chest, which brands all of Strahd’s servants. (This is a trick meant to lure the players into the open. A player who makes a DC 10 Wisdom (Insight) check notices Silvia’s eyes dart toward the twig blights around her as she asks the players to approach.)
 
 > [!info]+ **The Broken Spigot**
-> The fermentation vat to the immediate west of the central staircase of [W9. Fermentation Vats (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W9.%20Fermentation%20Vats) has a damaged spigot. The first time that a player approaches it, read:
+> The fermentation vat to the immediate west of the central staircase of [[Curse of Strahd#W9. Fermentation Vats|W9. Fermentation Vats (p. 176)]] has a damaged spigot. The first time that a player approaches it, read:
 > 
 > <hr>
 > 
@@ -768,7 +768,7 @@ If the players free the ravens from their cages, they join the party as a **swar
 </div>
 
 ## J3d. The First Floor
-The first floor of the winery is largely as in [W2. Loading Dock (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W2.%20Loading%20Dock), [W3. Barrel Maker’s Workshop (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W3.%20Barrel%20Maker's%20Workshop), [W4. Barrel Storage (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W4.%20Barrel%20Storage), [W5. Veranda (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W5.%20Veranda), and [W8. Storage (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W8.%20Storage). The two Martikovs' two draft horses have been entrapped in [W1. Stables (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W1.%20Stables) by thick rows of poison razorvine (see above) that cover the doors.
+The first floor of the winery is largely as in [[Curse of Strahd#W2. Loading Dock|W2. Loading Dock (p. 176)]], [[Curse of Strahd#W3. Barrel Maker's Workshop|W3. Barrel Maker’s Workshop (p. 176)]], [[Curse of Strahd#W4. Barrel Storage|W4. Barrel Storage (p. 176)]], [[Curse of Strahd#W5. Veranda|W5. Veranda (p. 176)]], and [[Curse of Strahd#W8. Storage|W8. Storage (p. 176)]]. The two Martikovs' two draft horses have been entrapped in [[Curse of Strahd#W1. Stables|W1. Stables (p. 176)]] by thick rows of poison razorvine (see above) that cover the doors.
 ### Loading Dock
 <span class="citation"><em>This scene takes place in Chapter 12, Area W2.</em></span>
 
@@ -796,7 +796,7 @@ Five **vine blights** lurk atop the wooden walkway on the western side, disguise
 > | Twig Blight | 5 | 5 | 5 | 6 |
 > | Vine Blight | 3 | 4 | 5 | 6 |
 
-The three barrels, which stand in the northeast, southeast, and northwest corners of the room, are largely as described in [W2. Loading Dock (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W2.%20Loading%20Dock), but are covered with strands of **poison razorvine.** 
+The three barrels, which stand in the northeast, southeast, and northwest corners of the room, are largely as described in [[Curse of Strahd#W2. Loading Dock|W2. Loading Dock (p. 176)]], but are covered with strands of **poison razorvine.** 
 
 When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
 ### Barrel Storage
@@ -804,15 +804,15 @@ When a creature other than a blight, a **druid naturalist**, or a **druid assail
 
 The barrel in the northwest corner is visibly older than the others, with darker wood, a rusted metal band, and cracks and chips across its surface. It contains three *potions of greater healing*, a packet of *dust of disappearance*, and a pouch containing 75 gp.
 ## J3e. The Second Floor
-The second floor of the winery is largely as described in [W9. Fermentation Vats (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W9.%20Fermentation%20Vats), [W16. Loading Winch (p. 178)](../Source%20book/Curse%20of%20Strahd.md#W16.%20Loading%20Winch), [W17. Master Bedroom (p. 178)](../Source%20book/Curse%20of%20Strahd.md#W17.%20Master%20Bedroom), [W18. Kitchen and Dining Room (p. 179)](../Source%20book/Curse%20of%20Strahd.md#W18.%20Kitchen%20and%20Dining%20Room), [W19. Sleeping Quarters (p. 179)](../Source%20book/Curse%20of%20Strahd.md#W19.%20Sleeping%20Quarters), and [W20, Printing Press (p. 179)](../Source%20book/Curse%20of%20Strahd.md#W20.%20Printing%20Press). 
+The second floor of the winery is largely as described in [[Curse of Strahd#W9. Fermentation Vats|W9. Fermentation Vats (p. 176)]], [[Curse of Strahd#W16. Loading Winch|W16. Loading Winch (p. 178)]], [[Curse of Strahd#W17. Master Bedroom|W17. Master Bedroom (p. 178)]], [[Curse of Strahd#W18. Kitchen and Dining Room|W18. Kitchen and Dining Room (p. 179)]], [[Curse of Strahd#W19. Sleeping Quarters|W19. Sleeping Quarters (p. 179)]], and [[Curse of Strahd#W20. Printing Press|W20, Printing Press (p. 179)]]. 
 
-However, the door leading from the balcony of [W9. Fermentation Vats (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W9.%20Fermentation%20Vats) to [W16. Loading Winch (p. 178)](../Source%20book/Curse%20of%20Strahd.md#W16.%20Loading%20Winch) is covered in **poison razorvine** and obstructed from the far side, requiring a successful DC 20 Strength check to open.
+However, the door leading from the balcony of [[Curse of Strahd#W9. Fermentation Vats|W9. Fermentation Vats (p. 176)]] to [[Curse of Strahd#W16. Loading Winch|W16. Loading Winch (p. 178)]] is covered in **poison razorvine** and obstructed from the far side, requiring a successful DC 20 Strength check to open.
 
-When the players first reach the second floor, they can hear the sound of clattering objects originating from [W20. Printing Press (p. 179)](../Source%20book/Curse%20of%20Strahd.md#W20.%20Printing%20Press).
+When the players first reach the second floor, they can hear the sound of clattering objects originating from [[Curse of Strahd#W20. Printing Press|W20. Printing Press (p. 179)]].
 ### Printing Press
 <span class="citation"><em>This scene takes place in Chapter 12, Area W20.</em></span>
 
-The room containing the Martikovs’ printing press is largely as described in [W20. Printing Press (p. 179)](../Source%20book/Curse%20of%20Strahd.md#W20.%20Printing%20Press). However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
+The room containing the Martikovs’ printing press is largely as described in [[Curse of Strahd#W20. Printing Press|W20. Printing Press (p. 179)]]. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
 
 > [!combat]- **Combat - The Printing Press**  
 > **Combat Level**: Mild
@@ -830,7 +830,7 @@ The room containing the Martikovs’ printing press is largely as described in [
 ### Loading Winch
 <span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
 
-This area is largely as described in [W16. Loading Winch (p. 178)](../Source%20book/Curse%20of%20Strahd.md#W16.%20Loading%20Winch). However, revise the descriptive text to read as follows:
+This area is largely as described in [[Curse of Strahd#W16. Loading Winch|W16. Loading Winch (p. 178)]]. However, revise the descriptive text to read as follows:
 
 <div class="description">
 <p>The roof over this room has collapsed, scattering mounds of debris and revealing a dark, stormy sky overhead that flashes with lightning. Heavy rain falls down onto the room’s wooden floor, which has a ten-foot-square hole cut into the middle of it and a wooden winch mounted upon the north side. </p>
@@ -845,7 +845,7 @@ The two artificial birds are **greater strixes.** The man is a **druid naturalis
 * ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
 * ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points), spellcasting abilities, and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
 
-The *Gulthias staff* is largely as described in [Gulthias Staff (p. 221)](../Source%20book/Curse%20of%20Strahd.md#page-221). However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
+The *Gulthias staff* is largely as described in [[Curse of Strahd#page-221|Gulthias Staff (p. 221)]]. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
 
 > [!info]+ **Strix Statistics**
 > A **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
@@ -1032,7 +1032,7 @@ After departing Kavan’s cairn, the players can return to the path and continue
 <p>The man's heel clicks against his steed's side, and it steps obediently forward to obstruct your path. Strahd's smile widens as he drinks in the sight of you, his gaze boring through the dancing shadows that lurk amidst the path.</p>
 </div>
 
-Beucephalus is as described in [Crypt 39 (p. 93)](../Source%20book/Curse%20of%20Strahd.md#Crypt%2039). In addition to having 104 hit points, it also gains the following feature:
+Beucephalus is as described in [[Curse of Strahd#Crypt 39|Crypt 39 (p. 93)]]. In addition to having 104 hit points, it also gains the following feature:
 
 * ***Ethereal Escape (Recharge 5-6).*** In response to Beucephalus or its rider taking damage, Beucephalus can use its reaction to use its ***ethereal stride*** ability.
 
@@ -1085,7 +1085,7 @@ As in his first encounter with the players, Strahd is glad to accept any reasona
 
 If the players successfully convince Strahd to allow them to fight the Forest Folk, upon reaching the base of Yester Hill, Strahd notes that he is impressed by their audacity, and offers the following wager: if the players succeed in their task, they may meet him at the base of the Whispering Wall to the west of Yester Hill after the ritual, where he will offer them a gift—and share with them a secret. (If asked what the players will lose should they fail, Strahd merely smiles, and notes that their "opponent" likely has plans for that eventuality.)
 # J5. Yester Hill
-The final stretch of the trail that leads to Yester Hill is as described in [Y1. Trail (p. 197)](../Source%20book/Curse%20of%20Strahd.md#Y1.%20Trail). However, read the following additional text when the players arrive at the base of Yester Hill:
+The final stretch of the trail that leads to Yester Hill is as described in [[Curse of Strahd#Y1. Trail|Y1. Trail (p. 197)]]. However, read the following additional text when the players arrive at the base of Yester Hill:
 
 <div class="description">
 <p>A flash of brilliant emerald light suddenly flickers from within an enormous ring of stacked boulders atop the hilltop. As you watch, the light thrums like an unsteady heartbeat—even as it slowly, gradually, and yet steadily grows in intensity. You think you can faintly hear the distant sound of drumming echoing across the mountains from atop the hill.</p>
@@ -1093,14 +1093,14 @@ The final stretch of the trail that leads to Yester Hill is as described in [Y1.
 
 When the players arrive at Yester Hill, if Strahd has accompanied them, he informs them that, if they wish to make good on their bet, they must first meet him at the point where the road meets the top of the hill. (He promises the players that he'll "make sure the festivities don't start without you," adding, "You must meet your opponent, after all.") If the players accept, he notes that he will "see them at the top," and vanishes astride Beucephalus.
 
-The players can climb the trail straight to [Y3. Druids Circle (p. 197)](../Source%20book/Curse%20of%20Strahd.md#Y3.%20Druids'%20Circle) at the top of the hill. (They don't need to travel through the berserker cairns, which are as described in [Y2. Berserker Cairns (p. 197)](../Source%20book/Curse%20of%20Strahd.md#Y2.%20Berserker%20Cairns) and which they pass during their ascent up the hill, in order to do so.)
+The players can climb the trail straight to [[Curse of Strahd#Y3. Druids' Circle|Y3. Druids Circle (p. 197)]] at the top of the hill. (They don't need to travel through the berserker cairns, which are as described in [[Curse of Strahd#Y2. Berserker Cairns|Y2. Berserker Cairns (p. 197)]] and which they pass during their ascent up the hill, in order to do so.)
 
 > [!info]+ **The Swarms of Ravens**
 > The **swarms of ravens** that accompanied the players to Yester Hill follow in the skies behind them, but don't join in the fighting. (If the players mention this, Muriel points out that they'd be of little use when attacking against more dangerous foes than the blights of the winery, but notes her belief that they may find some way to help all the same.)
 > 
 > Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla's Provocations]] and [[#J5f. Stopping the Ritual]] for more information on how the ravens help.
 ## J5a. Entering the Circle
-The druids' circle is largely as described in [Y3. Druids' Circle (p. 197)](../Source%20book/Curse%20of%20Strahd.md#Y3.%20Druids'%20Circle). However, add the following text to the end of the area's description:
+The druids' circle is largely as described in [[Curse of Strahd#Y3. Druids' Circle|Y3. Druids' Circle (p. 197)]]. However, add the following text to the end of the area's description:
 
 <div class="description">
 <p>A deep emerald light flashes from the statue's chest, and the swell of the drumbeat fills your ears. As you pass through the boulders, it's joined by the sound of chanting, which rumbles from a circle of thirteen figures that stand around the statue's base. Above the beast hides they wear, they bear antlers, wolfskins, and crowns crafted of wicked thorns, and crimson markings paint their faces a bloody hue.</p>
@@ -1195,11 +1195,11 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 > The second time this lightning is triggered, the damage increases to 10 (3d6) lightning damage. The third time this lightning is triggered, the ritual is ruined, unleashing its destructive energy as described in **Stopping the Ritual** below.
 
 > [!abstract]+ **The Ritual is Completed**
-> If the druids successfully complete the ritual, the **tree blight** Wintersplinter is born as described in [Druids’ Ritual (p. 200)](../Source%20book/Curse%20of%20Strahd.md#Druids'%20Ritual). The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in [Wintersplinter Attacks (p. 180)](../Source%20book/Curse%20of%20Strahd.md#Wintersplinter%20Attacks), then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
+> If the druids successfully complete the ritual, the **tree blight** Wintersplinter is born as described in [[Curse of Strahd#Druids' Ritual|Druids’ Ritual (p. 200)]]. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in [[Curse of Strahd#Wintersplinter Attacks|Wintersplinter Attacks (p. 180)]], then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
 > 
 > If the players are defeated, the druids stabilize them and bring them to the Gulthias Tree as sacrifices. Before binding the players, the druids remove any visible or easily found weapons, focuses, magic items, and containers (e.g., backpacks) from the players’ persons, which they store at the base of the statue that once held Wintersplinter. 
 > 
-> All druids then depart from the hill except Svarog, who buries himself in mud nearby as described in [Hidden Graves (p. 198)](../Source%20book/Curse%20of%20Strahd.md#Hidden%20Graves). Two **berserkers** also bury themselves in mud not far away. The players must succeed on a DC 11 Dexterity (Stealth) check to retrieve their belongings without awakening Svarog or his berserker guardians.
+> All druids then depart from the hill except Svarog, who buries himself in mud nearby as described in [[Curse of Strahd#Hidden Graves|Hidden Graves (p. 198)]]. Two **berserkers** also bury themselves in mud not far away. The players must succeed on a DC 11 Dexterity (Stealth) check to retrieve their belongings without awakening Svarog or his berserker guardians.
 > 
 > When the players regain consciousness, they find themselves disarmed and lashed to the trunk of the Gulthias Tree, with webs of small, black roots extruding from the tree’s base and penetrating their skin. A player is restrained while bound in this way, and poisoned for as long as the roots remain in their skin. A web of roots has AC 10, 10 hit points, and regenerates 10 hit points at initiative count 20 of each round if it has at least 1 hit point and isn’t in sunlight or running water.
 > 
@@ -1212,7 +1212,7 @@ Immediately after the ritual begins, the two **druid assailants** and two **bers
 <br>
 
 > [!info]+ **The Size of the Hill**
-> The area encompassed by [Y3. Druids' Circle (p. 197)](../Source%20book/Curse%20of%20Strahd.md#Y3.%20Druids'%20Circle) is approximately two hundred and fifty feet in diameter, or approximately one hundred and twenty-five feet in radius. The players must travel approximately sixty feet from their entry point in the circle—where the **berserkers** and **druid assailants** obstruct them—to reach the edge of Ludmilla's shroud of mist.
+> The area encompassed by [[Curse of Strahd#Y3. Druids' Circle|Y3. Druids' Circle (p. 197)]] is approximately two hundred and fifty feet in diameter, or approximately one hundred and twenty-five feet in radius. The players must travel approximately sixty feet from their entry point in the circle—where the **berserkers** and **druid assailants** obstruct them—to reach the edge of Ludmilla's shroud of mist.
 ## J5e. Ludmilla's Barricade
 Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, Ludmilla and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
 ### The Shroud of Mist
@@ -1385,7 +1385,7 @@ Svarog has the statistics of a **druid naturalist**, except he gains the followi
 * ***Gust of Wind.*** As an action, Svarog casts *gust of wind*.
 * ***Bind Elements (3/day).*** _2nd Level Spell:_ range 60 feet, components V S, 1 round. As a reaction when he sees a creature casting a spell of 3rd level or lower within range that deals acid, cold, fire, lightning, or thunder damage, Svarog can force that creature to make a DC 12 saving throw using its spellcasting ability. On a failure, the creature's spell fails and it has no effect, and a small orb of elemental energy appears in Svarog's hand. Svarog can use a bonus action on his next turn to fling the orb, making a ranged spell attack using the orb (+5 to hit) against a creature within 60 feet. On a hit, the orb deals 1d6 damage of the type absorbed, plus an additional 1d6 damage for each level of the spell absorbed.
 
-The statue is largely as described in [Y3. Druids' Circle (p. 197)](../Source%20book/Curse%20of%20Strahd.md#Y3.%20Druids'%20Circle). However, the statue has 100 hit points. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and 10 hit points, with immunity to poison and psychic damage. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed. 
+The statue is largely as described in [[Curse of Strahd#Y3. Druids' Circle|Y3. Druids' Circle (p. 197)]]. However, the statue has 100 hit points. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and 10 hit points, with immunity to poison and psychic damage. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed. 
 
 If the ritual is permanently disrupted (see **The Ritual Begins** above) or if the players retrieve the gem from the statue's chest, the ritual's destructive energy is unleashed upon the circle. Read:
 
@@ -1403,7 +1403,7 @@ In the three rounds following the ritual's disruption, the following events occu
 In addition, if still present on her next turn, Ludmilla uses her action to use her ***dimension door*** to escape, teleporting to the Gulthias grove to the south before returning to Castle Ravenloft.
 
 > [!abstract]+ **Strahd’s Wager**
-> If the players successfully stop the ritual, Strahd briefly reappears upon Beucephalus, hovering thirty feet above the ground on the northwest edge of the stone circle. Once noticed by the players, Strahd inclines his head toward [Y5. Wall of Fog (p. 200)](../Source%20book/Curse%20of%20Strahd.md#Y5.%20Wall%20of%20Fog), nudges Beucephalus in its direction, and vanishes once again as the **nightmare** canters toward it.
+> If the players successfully stop the ritual, Strahd briefly reappears upon Beucephalus, hovering thirty feet above the ground on the northwest edge of the stone circle. Once noticed by the players, Strahd inclines his head toward [[Curse of Strahd#Y5. Wall of Fog|Y5. Wall of Fog (p. 200)]], nudges Beucephalus in its direction, and vanishes once again as the **nightmare** canters toward it.
 # J6. After the Ritual
 ## J6a. Muriel’s Confession
 If the players confront Muriel after the fight, she is willing to share the following information:
@@ -1420,7 +1420,7 @@ If the players ask Muriel to curse them with wereraven lycanthropy, she laughs s
 > [!warning]+ **Player Dreams**
 > Before running this scene, ask your players to provide you with information about their characters' deepest desires, then use this information to craft a suitable encounter should that player enter the Whispering Wall.
 
-This area takes the place of [Y5. Whispering Wall (p. 200)](../Source%20book/Curse%20of%20Strahd.md#Y5.%20Wall%20of%20Fog). When the players first arrive, read:
+This area takes the place of [[Curse of Strahd#Y5. Wall of Fog|Y5. Whispering Wall (p. 200)]]. When the players first arrive, read:
 
 <div class="description">
 <p>A shadowed wall of impenetrable fog looms above the earth here, stretching forth to meet the heavens far above. Strange shapes and silhouettes seem to drift through its depths, and distant voices seem to whisper just out of earshot.</p>
@@ -1488,7 +1488,7 @@ When the players all either return from the Whispering Wall or decline to do so,
 
 When all players have either accepted or declined their gifts, Strahd mounts Beucephalus once again, bids them farewell, and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane.
 ## J6c. Gulthias Tree
-The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area as described in [Y4. Gulthias Tree (p. 198)](../Source%20book/Curse%20of%20Strahd.md#Y4.%20Gulthias%20Tree). However, replace the last two sentences of the area description with the following text:
+The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area as described in [[Curse of Strahd#Y4. Gulthias Tree|Y4. Gulthias Tree (p. 198)]]. However, replace the last two sentences of the area description with the following text:
 
 <div class="description">
 <p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
@@ -1578,7 +1578,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 <span class="credit">"Keeper's Whistle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!abstract]+ **The Wine Shipments**
-> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in [W2. Loading Dock (p. 176)](../Source%20book/Curse%20of%20Strahd.md#W2.%20Loading%20Dock) and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
+> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in [[Curse of Strahd#W2. Loading Dock|W2. Loading Dock (p. 176)]] and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
 > 
 > Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
 > 
