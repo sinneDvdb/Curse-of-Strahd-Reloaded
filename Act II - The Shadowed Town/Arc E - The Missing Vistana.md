@@ -69,7 +69,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 # E1. Blinsky Toys
 <span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
 
-After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in [[Source book/Curse of Strahd#N8. Town Square|N8. Town Square (p. 119)]].
+After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in [[Source book/Curse of Strahd#N8. Town Square|N8. Town Square (p. 119)]]. 
 
 
 > [!profile]+ **Profile: Gadof Blinsky**
